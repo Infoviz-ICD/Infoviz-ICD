@@ -6,7 +6,7 @@ nav a {
     color: #000;
 }
 
-nav a:hover {
+nav a.nav-link:hover, nav a.navbar-brand:hover {
     text-decoration: underline;
     color: rgb(46, 46, 46);
 }
