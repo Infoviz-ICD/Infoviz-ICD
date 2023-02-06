@@ -1,0 +1,40 @@
+html {
+    scroll-behavior: smooth;
+ }
+
+nav a {
+    color: #000;
+}
+
+nav a.nav-link:hover, nav a.navbar-brand:hover {
+    text-decoration: underline;
+    color: rgb(46, 46, 46);
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    color: rgb(7, 153, 26);
+}
+
+.masthead button {
+    text-decoration: none;
+    border-radius: 5em;
+    padding: 1%;
+    background-color: none;
+    margin-top: 3%;
+}
+
+.masthead button a {
+    text-decoration: none;
+    color:#000;
+}
+
+.masthead button:hover {
+    border-color: rgb(160, 52, 52);
+    background-color: rgb(7, 153, 26);
+}
+
+#Chart1 {
+    max-width: 60%; 
+}

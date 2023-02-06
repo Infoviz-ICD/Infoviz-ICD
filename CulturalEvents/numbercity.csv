@@ -1,0 +1,1019 @@
+,count,city
+0,2,Zogno
+1,2,Amalfi
+2,1,Buddusò
+3,1,Alagna Valsesia
+4,5,Manzano
+5,2,Pontelandolfo
+6,1,Agna
+7,1,Arre
+8,2,Castelluccio Valmaggiore
+9,1,Castell'Alfero
+10,3,Meana Sardo
+11,1,Sanluri
+12,1,Agira
+13,3,Trevi
+14,1,Brembate
+15,1,Quindici
+16,1,Terzorio
+17,2,Grottaglie
+18,1,Bassano in Teverina
+19,4,Deiva Marina
+20,2,Mira
+21,1,Castellana Grotte
+22,1,Ravanusa
+23,1,Trezzo sull'Adda
+24,1,Centuripe
+25,2,Calice al Cornoviglio
+26,2,Cotignola
+27,1,Valmadrera
+28,1,Lequio Tanaro
+29,1,Agnone
+30,1,Orria
+31,3,Gardone Riviera
+32,1,Maserà di Padova
+33,1,Petacciato
+34,2,Castel Goffredo
+35,1,Champorcher
+36,2,Gallarate
+37,1,Castignano
+38,1,Bagnacavallo
+39,1,Valenza
+40,1,Massa d'Albe
+41,1,Lillianes
+42,1,Spilimbergo
+43,1,Certaldo
+44,1,Poppi
+45,1,Laviano
+46,8,Toscolano-Maderno
+47,1,Viadana
+48,1,Campodenno
+49,1,Aulla
+50,1,Sarezzo
+51,2,Corbetta
+52,1,San Cesario di Lecce
+53,1,Piossasco
+54,1,Bozzolo
+55,3,Noicattaro
+56,1,Trecate
+57,1,San Miniato
+58,1,Valdobbiadene
+59,1,Tradate
+60,1,Priverno
+61,3,Noto
+62,1,Aidone
+63,1,Budoia
+64,1,Francavilla al Mare
+65,1,Chies d'Alpago
+66,2,Controguerra
+67,2,Siracusa
+68,1,Casaloldo
+69,1,Varzi
+70,1,Montichiari
+71,1,Borgo Valsugana
+72,1,Cerea
+73,1,Oppeano
+74,1,Mondovì
+75,1,Trivero
+76,1,Gottolengo
+77,3,Sant'Angelo Lodigiano
+78,1,San Dorligo della Valle - Dolina
+79,1,Verucchio
+80,1,Marano di Valpolicella
+81,3,Forte dei Marmi
+82,1,Praiano
+83,1,Rolo
+84,1,Ordona
+85,2,Somma Lombardo
+86,1,Condino
+87,1,Moscufo
+88,1,Sardara
+89,1,Putignano
+90,2,Zelo Buon Persico
+91,1,Bovino
+92,1,Gatteo
+93,1,Ariccia
+94,1,Pienza
+95,1,Poggio Sannita
+96,2,Artena
+97,1,Rezzato
+98,1,Albano Laziale
+99,1,Barberino Val d'Elsa
+100,4,Terlizzi
+101,1,Montalto di Castro
+102,1,Mirabella Eclano
+103,1,Ariano nel Polesine
+104,2,Mentana
+105,1,Sorso
+106,1,Valle di Maddaloni
+107,1,Cerva
+108,1,Oppido Lucano
+109,1,Merano/Meran
+110,2,Subiaco
+111,1,Forlimpopoli
+112,1,Imbersago
+113,1,Colorno
+114,1,Capriate San Gervasio
+115,1,Olevano Romano
+116,1,Rocca Priora
+117,1,Gualtieri
+118,1,Millesimo
+119,1,Collesalvetti
+120,1,Ghiffa
+121,1,Ferentino
+122,1,Cansano
+123,1,Ghedi
+124,1,Cabras
+125,1,Marostica
+126,1,Siliqua
+127,1,Orune
+128,1,Città della Pieve
+129,1,Casalciprano
+130,1,Toirano
+131,1,Pratovecchio
+132,1,Rossiglione
+133,1,Due Carrare
+134,1,Rossano
+135,1,Asiago
+136,74,Terni
+137,76,Caserta
+138,337,Perugia
+139,40,Gorizia
+140,156,Ravenna
+141,46,Verona
+142,55,Locri
+143,68,Vibo Valentia
+144,120,Siena
+145,3601,Roma
+146,206,Reggio di Calabria
+147,69,Cividale del Friuli
+148,75,Treviso
+149,46,Ercolano
+150,87,Sirmione
+151,52,Desenzano del Garda
+152,41,Porto Torres
+153,73,Chiusi
+154,147,Lucca
+155,52,Lecce
+156,2,Cavour
+157,10,Verbania
+158,7,Reggio nell'Emilia
+159,17,Anghiari
+160,4,Diano Marina
+161,30,Fasano
+162,3,San Benedetto Po
+163,1,San Giovanni Suergiu
+164,6,Castelseprio
+165,72,Capaccio Paestum
+166,42,Cerveteri
+167,5,Santa Marinella
+168,275,Taranto
+169,1,Besenello
+170,30,Trento
+171,80,Padova
+172,35,Bergamo
+173,22,Alessandria
+174,35,Barletta
+175,13,Teramo
+176,7,Cottanello
+177,15,Fermo
+178,39,Forlì
+179,29,Monsummano Terme
+180,38,Trani
+181,29,Avellino
+182,36,La Spezia
+183,102,Campobasso
+184,47,Prato
+185,26,Tricarico
+186,10,Enna
+187,7,Fano
+188,64,Chieti
+189,6,Vicenza
+190,14,Cesena
+191,1,Cherasco
+192,21,Ascea
+193,12,Foggia
+194,17,Foligno
+195,6,Capena
+196,56,Pescara
+197,30,Pesaro
+198,40,Grosseto
+199,10,Moncalieri
+200,6,Bene Vagienna
+201,15,Cividate Camuno
+202,68,Gradara
+203,32,Agrigento
+204,30,Monza
+205,17,Vigevano
+206,1,Cimitile
+207,20,Sulmona
+208,8,Fiavè
+209,21,Campli
+210,2,Canossa
+211,2,Campogalliano
+212,3,Giulianova
+213,25,Langhirano
+214,17,Oriolo Romano
+215,80,Arcevia
+216,24,Caprarola
+217,11,Avella
+218,15,Gavi
+219,21,Ardea
+220,26,Tuscania
+221,25,Formia
+222,16,Canino
+223,31,Celano
+224,1,Velletri
+225,2,Terracina
+226,43,Teano
+227,24,Camerino
+228,1,Capistrello
+229,3,Levanto
+230,4,Lodi
+231,6,Aquino
+232,4,Acqui Terme
+233,7,Nichelino
+234,2,Arona
+235,2,Monteu Roero
+236,5,Cogorno
+237,4,Andora
+238,9,Santa Maria del Cedro
+239,6,Tremezzo
+240,2,Cento
+241,6,Bobbio
+242,22,Sanremo
+243,2,Gorreto
+244,2,Chioggia
+245,14,Monopoli
+246,1,Galbiate
+247,3,Rivello
+248,1,San Fele
+249,1,Caselette
+250,1,Castellammare del Golfo
+251,1,Trebisacce
+252,4,Santa Margherita Ligure
+253,2,Paludi
+254,1,Castel Bolognese
+255,28,Pozzuoli
+256,5,Amendolara
+257,5,Cerignola
+258,3,Grosio
+259,7,Villagrande Strisaili
+260,8,Messina
+261,3,Fénis
+262,1,Settimo San Pietro
+263,1,Fermignano
+264,3,Mondolfo
+265,5,Taormina
+266,11,Latina
+267,4,Castellammare di Stabia
+268,3,Borgorose
+269,14,Altare
+270,1,Giffoni Valle Piana
+271,1,Campochiaro
+272,8,Frascati
+273,1,Oppido Mamertina
+274,1,Fucecchio
+275,4,Gravina in Puglia
+276,1,Taurasi
+277,2,Capua
+278,2,Mignano Monte Lungo
+279,2,Monteprandone
+280,2,Pioraco
+281,1,Capraia e Limite
+282,1,Casella
+283,4,Torre Annunziata
+284,2,Saltara
+285,2,Acquaviva Picena
+286,1,Cerreto d'Esi
+287,1,Treia
+288,1,Urbania
+289,1,Sassoferrato
+290,1,Valfurva
+291,11,Minori
+292,7,San Benedetto del Tronto
+293,1,Tolentino
+294,1,Guarene
+295,2,Collinas
+296,2,Santena
+297,1,Ceva
+298,3,Caraglio
+299,1,Cellatica
+300,2,Saint-Pierre
+301,1,Alpignano
+302,5,Gambolò
+303,5,Empoli
+304,3,Ozzano dell'Emilia
+305,2,Godega di Sant'Urbano
+306,1,Lodrino
+307,5,Castelfranco di Sopra
+308,4,San Lazzaro di Savena
+309,5,Albissola Marina
+310,1,Riva Ligure
+311,4,Monteu da Po
+312,3,Barzio
+313,2,Orsomarso
+314,3,Reggello
+315,2,Santu Lussurgiu
+316,1,Bairo
+317,7,Casale Monferrato
+318,5,Licenza
+319,4,Chieri
+320,1,Villa Estense
+321,4,Sommacampagna
+322,1,Lonato del Garda
+323,1,Sorrento
+324,1,Villeneuve
+325,1,Pont-Saint-Martin
+326,1,Gignod
+327,3,Manduria
+328,1,Lauria
+329,1,Monterotondo
+330,12,Ragusa
+331,1,Castellaneta
+332,1,Galeata
+333,2,Conversano
+334,2,Ranzo
+335,1,Padria
+336,1,Pastrengo
+337,1,Torri del Benaco
+338,1,Casalbore
+339,1,Almenno San Bartolomeo
+340,5,Marino
+341,2,Casole d'Elsa
+342,1,Lugo
+343,4,Campiglia Marittima
+344,1,Castelfiorentino
+345,1,Tricase
+346,2,Cirò Marina
+347,1,Montegrotto Terme
+348,2,Sesto San Giovanni
+349,3,Morbegno
+350,2,Casalino
+351,2,Possagno
+352,4,Barumini
+353,6,Albenga
+354,1,Marmirolo
+355,3,Corato
+356,1,Cavallirio
+357,3,Pieve di Cadore
+358,1,Bellaria-Igea Marina
+359,2,Nembro
+360,8,Casarano
+361,3,Suvereto
+362,2,Ozieri
+363,1,Pantelleria
+364,2,Valverde
+365,1,Villaperuccio
+366,1,Tratalias
+367,3,Cercola
+368,1,Casagiove
+369,5,Pomezia
+370,2,Thiene
+371,1,Megliadino San Vitale
+372,1,Argelato
+373,6,Alassio
+374,2,Feltre
+375,1,Mirandola
+376,1,Ostuni
+377,1,Cavenago d'Adda
+378,1,San Pietro al Natisone
+379,2,Casteggio
+380,1,Camugnano
+381,1,Serra de' Conti
+382,1,Polverara
+383,2,Angera
+384,1,Riese Pio X
+385,1,Savignone
+386,2,Ronco Scrivia
+387,1,Baone
+388,1,Monte di Procida
+389,1,Nerviano
+390,1,Bova
+391,2,Gibellina
+392,2,Calolziocorte
+393,1,Ischia
+394,1,Rivoli
+395,1,Osilo
+396,1,Veroli
+397,2,Castiglione del Lago
+398,1,Monfalcone
+399,1,Sant'Antonio Abate
+400,2,Sansepolcro
+401,2,Montelupo Fiorentino
+402,1,Tignale
+403,1,Mulazzo
+404,1,Leverano
+405,3,Bolzano/Bozen
+406,1,Saronno
+407,1,Vita
+408,1,Quiliano
+409,1,Celle Ligure
+410,2,Spotorno
+411,1,Rosarno
+412,2,Turi
+413,11,Catanzaro
+414,1,Orero
+415,1,Mergozzo
+416,1,Lonigo
+417,2,Arsago Seprio
+418,1,Manerba del Garda
+419,2,Arenzano
+420,3,Atzara
+421,1,Cinto Euganeo
+422,2,Casalserugo
+423,1,Candiana
+424,2,Paola
+425,1,Vobbia
+426,1,Dorgali
+427,2,Cassina de' Pecchi
+428,1,Tropea
+429,1,Tito
+430,2,Maiori
+431,1,Teggiano
+432,1,Atella
+433,1,Campi Bisenzio
+434,2,Bagnoregio
+435,7,Mesagne
+436,1,San Martino in Rio
+437,1,Santeramo in Colle
+438,3,Merate
+439,1,Colloredo di Monte Albano
+440,1,Majano
+441,1,Montelupone
+442,1,Montesano sulla Marcellana
+443,1,Monteviale
+444,1,Mezzolombardo
+445,1,Luco dei Marsi
+446,1,Altopascio
+447,1,Orani
+448,2,Cassano delle Murge
+449,1,Lesina
+450,2,Revine Lago
+451,1,Dovadola
+452,1,Bidonì
+453,1,Fossombrone
+454,1,Melito di Porto Salvo
+455,5,Magione
+456,3,Sirolo
+457,1,Campolongo Maggiore
+458,1,Arquata del Tronto
+459,3,Moneglia
+460,1,Taino
+461,1,Limatola
+462,2,Perfugas
+463,1,Campagna Lupia
+464,1,Tresigallo
+465,1,Morimondo
+466,1,Loano
+467,1,Lu e Cuccaro Monferrato
+468,2,Castelli
+469,1,Polpenazze del Garda
+470,1,Dolianova
+471,1,Alberona
+472,1,Montegalda
+473,1,Monterosso Grana
+474,38,San Giustino
+475,695,Venezia
+476,828,Firenze
+477,118,Arezzo
+478,70,Gubbio
+479,64,Orvieto
+480,52,Macerata
+481,36,Cremona
+482,349,Milano
+483,39,Melfi
+484,45,Portogruaro
+485,198,Bologna
+486,459,Ancona
+487,53,Pistoia
+488,35,Savona
+489,52,Urbino
+490,77,Ascoli Piceno
+491,56,Numana
+492,93,L'Aquila
+493,255,Sassari
+494,26,Nuoro
+495,30,Orbetello
+496,21,Rieti
+497,1,Frosolone
+498,18,Chiavari
+499,34,Bitonto
+500,43,Gioia del Colle
+501,114,Modena
+502,78,Venafro
+503,23,Castel San Vincenzo
+504,43,Catania
+505,32,Eboli
+506,33,Bernalda
+507,1,Calasetta
+508,21,Assisi
+509,4,Erice
+510,253,Cosenza
+511,1,San Giovanni Valdarno
+512,7,Sondrio
+513,126,Salerno
+514,4,Imola
+515,112,Ferrara
+516,23,Vercelli
+517,49,Cassano all'Ionio
+518,33,Brescia
+519,17,Trapani
+520,28,Finale Ligure
+521,9,Caltanissetta
+522,23,Calci
+523,18,Rimini
+524,77,Mantova
+525,20,Portovenere
+526,55,Crotone
+527,8,Belluno
+528,8,Oristano
+529,2,Sutri
+530,12,Varese
+531,28,Pordenone
+532,24,Grottaferrata
+533,5,Camogli
+534,22,Palestrina
+535,1,Macchiagodena
+536,1,Pizzo
+537,1,Sersale
+538,1,Ofena
+539,7,Avezzano
+540,1,Tortora
+541,12,Frosinone
+542,17,Copertino
+543,14,Castiglione della Pescaia
+544,28,Canosa di Puglia
+545,39,Agliè
+546,44,Racconigi
+547,26,Poggio a Caiano
+548,26,Teglio
+549,11,Certosa di Pavia
+550,1,San Vito al Tagliamento
+551,3,Supino
+552,1,Fiorano Modenese
+553,39,Alife
+554,1,Gavignano
+555,1,Palmoli
+556,3,Neviano
+557,24,Codigoro
+558,5,Bisaccia
+559,16,Russi
+560,10,Buccino
+561,21,Albugnano
+562,6,Giardini-Naxos
+563,8,Sassuolo
+564,28,Faenza
+565,38,Este
+566,26,Fratta Polesine
+567,18,Sperlonga
+568,28,Succivo
+569,2,Capestrano
+570,1,Castel San Pietro Terme
+571,6,Monteriggioni
+572,2,Rosignano Marittimo
+573,8,Piano di Sorrento
+574,41,Borgia
+575,19,Cassino
+576,19,Minturno
+577,31,Muro Lucano
+578,10,Saluzzo
+579,2,Ceriale
+580,1,San Colombano Certenoli
+581,1,Ortona
+582,1,Agugliano
+583,6,Fabriano
+584,1,Vico Equense
+585,3,Isili
+586,5,Rapallo
+587,14,Selargius
+588,20,Morro d'Alba
+589,2,Acri
+590,4,Busto Arsizio
+591,3,Borgoricco
+592,3,San Severo
+593,7,Gerace
+594,1,Cesenatico
+595,21,Pietrabbondante
+596,2,Sant'Antioco
+597,6,Siddi
+598,3,Santadi
+599,7,Bracciano
+600,29,Ortonovo
+601,2,Jelsi
+602,1,Bagnara Calabra
+603,2,Conegliano
+604,1,Serri
+605,1,Castropignano
+606,2,Asolo
+607,2,Morgex
+608,4,Carrara
+609,1,Spoltore
+610,2,Laconi
+611,3,Torre del Greco
+612,4,Morrovalle
+613,8,Recanati
+614,3,Ripe
+615,5,Sabaudia
+616,2,San Felice Circeo
+617,1,Maiolati Spontini
+618,4,Giovinazzo
+619,2,San Severino Marche
+620,4,Falconara Marittima
+621,1,Pergola
+622,1,Petriolo
+623,2,Corridonia
+624,2,Cupra Marittima
+625,5,Codogno
+626,5,Ivrea
+627,3,Carpi
+628,7,Chatillon
+629,3,Pau
+630,2,Città di Castello
+631,54,Asti
+632,1,Battipaglia
+633,7,Venaria Reale
+634,3,Caselle Torinese
+635,1,San Cesareo
+636,4,Asola
+637,3,Montegridolfo
+638,4,Bagnolo San Vito
+639,2,Montaione
+640,3,Foglizzo
+641,2,Dronero
+642,1,Castelnuovo Calcea
+643,2,Berchidda
+644,1,Cellamare
+645,2,Colleferro
+646,1,Macerata Campania
+647,3,Cava de' Tirreni
+648,4,Rezzoaglio
+649,8,Suzzara
+650,2,Avigliano
+651,2,Acquapendente
+652,2,Corfinio
+653,1,Gargnano
+654,2,Cremeno
+655,1,Ballabio
+656,5,Cernobbio
+657,5,Moimacco
+658,1,Macugnaga
+659,5,Crema
+660,1,Frassinoro
+661,2,Borzonasca
+662,1,Borgofranco d'Ivrea
+663,2,Cuccaro Monferrato
+664,2,Lunamatrona
+665,1,Cisterna d'Asti
+666,1,Roddi
+667,3,Carovigno
+668,1,Abbadia Lariana
+669,1,Bormio
+670,2,Campagna
+671,2,Sarre
+672,4,Issogne
+673,4,Bard
+674,1,Valgrisenche
+675,11,Concordia Sagittaria
+676,2,Quarto
+677,4,Collepardo
+678,2,Valtournenche
+679,1,Saint-Nicolas
+680,7,Sciacca
+681,1,Cefalù
+682,8,Nardò
+683,3,Traversetolo
+684,8,Viareggio
+685,1,Murialdo
+686,1,Bernezzo
+687,4,Piombino
+688,1,San Benigno Canavese
+689,1,Serravalle Scrivia
+690,2,Abano Terme
+691,1,Medole
+692,1,Taggia
+693,8,Alghero
+694,2,Mele
+695,1,Anzio
+696,1,Gaeta
+697,1,Carmagnola
+698,1,Arzergrande
+699,2,Livigno
+700,1,Prevalle
+701,1,Cortina d'Ampezzo
+702,6,Carbonia
+703,1,Monte San Pietro
+704,1,Sperlinga
+705,2,Bastia Umbra
+706,2,Iglesias
+707,2,Lendinara
+708,1,Grottammare
+709,1,Ponte San Nicolò
+710,3,Piove di Sacco
+711,1,Montebelluna
+712,3,Cologna Veneta
+713,1,Correzzola
+714,3,Legnaro
+715,1,Cisternino
+716,2,Corciano
+717,1,Nove
+718,1,Zuccarello
+719,2,Lipari
+720,2,Martinengo
+721,1,Montenerodomo
+722,1,Nocera Inferiore
+723,2,Vieste
+724,1,Rezzo
+725,1,Vecchiano
+726,1,Mollia
+727,4,Bettona
+728,1,Fiumalbo
+729,2,Valmontone
+730,2,Corleone
+731,1,Castellabate
+732,1,Giugliano in Campania
+733,1,Rocca di Papa
+734,2,Pieve Santo Stefano
+735,1,Pavullo nel Frignano
+736,2,Legnago
+737,1,Capoterra
+738,2,Acireale
+739,2,Caselle in Pittari
+740,1,Otranto
+741,1,Luino
+742,2,Bogliasco
+743,1,Villanovaforru
+744,1,Piatto
+745,1,Castel di Tora
+746,1,Petrella Tifernina
+747,3,Albisola Superiore
+748,4,Bitti
+749,1,Pietrapaola
+750,1,Ponte Gardena/Waidbruck
+751,1,San Giorgio in Bosco
+752,1,Villasimius
+753,2,Vietri sul Mare
+754,2,Castrovillari
+755,5,Francavilla Fontana
+756,1,Avise
+757,4,Pescia
+758,1,Riccione
+759,2,Martinsicuro
+760,3,Cattolica
+761,1,Jesolo
+762,1,Cotronei
+763,3,Chiari
+764,1,Pontremoli
+765,1,San Salvo
+766,1,Resia
+767,1,Cassine
+768,2,Pegognaga
+769,1,Palazzo Pignano
+770,1,Castelsardo
+771,1,Villa d'Almè
+772,2,Castenaso
+773,1,Pietrasanta
+774,1,Villanovafranca
+775,2,Biandronno
+776,1,Grinzane Cavour
+777,1,Fiesole
+778,3,Montanaro
+779,1,Pedavena
+780,1,Sorgono
+781,1,Codroipo
+782,2,San Giuliano Milanese
+783,1,Pezzaze
+784,2,Comunanza
+785,1,Chiusa di Pesio
+786,1,Servigliano
+787,1,Zagarolo
+788,1,Riofreddo
+789,2,Vimercate
+790,1,Patrica
+791,4,Monticelli d'Ongina
+792,1,Pietramontecorvino
+793,1,Sant'Angelo di Piove di Sacco
+794,1,Busca
+795,1,Perloz
+796,3,Vittorio Veneto
+797,1,Primaluna
+798,2,Pescaglia
+799,1,Taceno
+800,1,Olzai
+801,1,Castrocielo
+802,1,San Tammaro
+803,2,Albaredo per San Marco
+804,1,Santa Teresa Gallura
+805,1,Badia Polesine
+806,1,Codevigo
+807,1,Battaglia Terme
+808,1,Soave
+809,1,Anguillara Veneta
+810,1,Livorno Ferraris
+811,1,Ruffano
+812,1,Procida
+813,1,Sinnai
+814,886,Napoli
+815,113,Spoleto
+816,17,Campello sul Clitunno
+817,340,Torino
+818,305,Cagliari
+819,38,Lamezia Terme
+820,181,Parma
+821,129,Matera
+822,179,Bari
+823,26,Caorle
+824,49,Adria
+825,21,Civitacampomarano
+826,101,Senigallia
+827,22,Cingoli
+828,42,Fiumicino
+829,42,Novara
+830,18,Piacenza
+831,314,Trieste
+832,483,Genova
+833,14,La Maddalena
+834,54,Quarto d'Altino
+835,30,Montesarchio
+836,70,Sarno
+837,85,Pisa
+838,5,Savigliano
+839,1,Seravezza
+840,12,Ruvo di Puglia
+841,42,Manfredonia
+842,44,Sepino
+843,2,Marsala
+844,46,Isernia
+845,1,Cannara
+846,193,Tivoli
+847,3,San Benedetto dei Marsi
+848,19,Biella
+849,56,Capri
+850,1,Tolve
+851,4,Bordighera
+852,1,Lanusei
+853,41,Tarquinia
+854,2,Ilbono
+855,19,Nemi
+856,114,Stra
+857,320,Pavia
+858,10,Massa
+859,24,Rovigo
+860,12,Palmi
+861,1,Chiauci
+862,20,Atripalda
+863,110,Potenza
+864,281,Santa Maria Capua Vetere
+865,1,Bassano del Grappa
+866,28,Andria
+867,18,Imperia
+868,62,Ventimiglia
+869,17,Stilo
+870,1,Cetona
+871,2,San Casciano in Val di Pesa
+872,23,Scalea
+873,109,Pontecagnano Faiano
+874,1,Ortucchio
+875,54,Benevento
+876,30,Gioia Tauro
+877,35,Udine
+878,30,Bacoli
+879,1,Cellole
+880,1,San Prisco
+881,17,Como
+882,1,Motta San Giovanni
+883,34,Palermo
+884,44,Cerreto Guidi
+885,15,Maratea
+886,1,Stenico
+887,26,Gambatesa
+888,4,Sabbioneta
+889,1,Tortoreto
+890,1,Avigliano Umbro
+891,13,Livorno
+892,19,Mercogliano
+893,65,Pompei
+894,32,Policoro
+895,17,Padula
+896,15,Carmignano
+897,10,Cortona
+898,21,Portoferraio
+899,41,Capo di Ponte
+900,38,Altamura
+901,3,Urbisaglia
+902,3,San Giovanni in Fiore
+903,17,Lugagnano Val d'Arda
+904,17,Marzabotto
+905,4,Riolo Terme
+906,1,Argenta
+907,29,Nola
+908,30,Sarzana
+909,14,Bova Marina
+910,79,Viterbo
+911,1,Vignola
+912,2,Ravello
+913,18,Civitavecchia
+914,120,Aquileia
+915,8,Arpino
+916,9,Serralunga d'Alba
+917,21,Aosta
+918,23,Grumento Nova
+919,14,Civita Castellana
+920,31,Venosa
+921,5,Castiglione a Casauria
+922,6,Duino-Aurisina
+923,21,Sarsina
+924,7,Anacapri
+925,46,Maddaloni
+926,2,Senorbì
+927,8,Castiglione Chiavarese
+928,8,Martina Franca
+929,5,Boscoreale
+930,22,Cervia
+931,4,Bedollo
+932,6,Sanzeno
+933,6,Cuneo
+934,4,Talamona
+935,2,Lomazzo
+936,2,Pofi
+937,11,Sestri Levante
+938,1,Lovere
+939,4,Gavardo
+940,1,Molini di Triora
+941,18,Isola di Capo Rizzuto
+942,13,Mileto
+943,23,Monasterace
+944,9,Piedimonte Matese
+945,5,San Secondo di Pinerolo
+946,3,Civitanova Marche
+947,7,Jesi
+948,4,Lumezzane
+949,12,Lerici
+950,1,San Vero Milis
+951,24,Brindisi
+952,5,Varenna
+953,1,Diano Castello
+954,2,Calice Ligure
+955,12,Rovereto
+956,1,Montechiarugolo
+957,8,Sala Consilina
+958,1,Sassano
+959,2,Montefiore dell'Aso
+960,1,Militello in Val di Catania
+961,2,Loreto
+962,1,Offida
+963,4,Sant'Elpidio a Mare
+964,1,Cagli
+965,1,Frontone
+966,1,Mombaroccio
+967,1,Valdisotto
+968,2,Maglie
+969,1,Palazzo San Gervasio
+970,12,Cori
+971,2,Roccagloriosa
+972,2,San Pietro Avellana
+973,4,Fluminimaggiore
+974,3,Duronia
+975,1,Lu
+976,1,Mortara
+977,2,Otricoli
+978,15,Bassano Romano
+979,5,Bolsena
+980,3,Samarate
+981,3,Masserano
+982,2,Riva presso Chieri
+983,2,Rivalta Bormida
+984,4,Orta San Giulio
+985,2,Cene
+986,3,Irgoli
+987,1,Venzone
+988,4,Camaiore
+989,1,Castelnuovo Berardenga
+990,1,Neirone
+991,1,Lungro
+992,1,Mogliano Veneto
+993,2,Bisceglie
+994,1,Vado Ligure
+995,3,Cinisello Balsamo
+996,4,Fontanellato
+997,2,Figline Valdarno
+998,1,Ronchi dei Legionari
+999,2,Bresso
+1000,1,Gemona del Friuli
+1001,7,Cittaducale
+1002,1,Massino Visconti
+1003,4,Ome
+1004,1,Masone
+1005,6,Rosta
+1006,4,Sassello
+1007,1,San Vito dei Normanni
+1008,6,Varallo
+1009,13,Lecco
+1010,2,Formello
+1011,2,Villarbasse
+1012,1,Valperga
+1013,2,Serralunga di Crea
+1014,1,Tortolì
+1015,4,Alba
+1016,1,Jovencan
+1017,1,Introd
