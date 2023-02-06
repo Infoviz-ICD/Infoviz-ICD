@@ -1,11 +1,11 @@
 ,count,site
-0,6,Sede di Teatro Romano di Trieste
-1,7,"Sede di Museo archeologico nazionale  di Volcei ""Marcello Gigante"" di Buccino"
-2,10,Sede di Direzione Regionale Musei Basilicata
-3,4,Sede di Istituto Centrale per l'Archeologia
-4,2,"Sede di Museo civico pinacoteca ""Palazzo Lazzarini"""
-5,9,Sede di Archivio di Stato di Latina
-6,9,Sede di Archivio di Stato di Teramo
+0,4,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Molise"
+1,6,Sede di Teatro Romano di Trieste
+2,7,"Sede di Museo archeologico nazionale  di Volcei ""Marcello Gigante"" di Buccino"
+3,10,Sede di Direzione Regionale Musei Basilicata
+4,4,Sede di Istituto Centrale per l'Archeologia
+5,2,"Sede di Museo civico pinacoteca ""Palazzo Lazzarini"""
+6,9,Sede di Archivio di Stato di Latina
 7,2,Sede di Museo Nori de' Nobili
 8,2,Sede di Biblioteca Antonelliana
 9,2,"Sede di Museo di storia della mezzadria ""Sergio Anselmi"""
@@ -85,53 +85,53 @@
 83,2,Sede di Direzione Generale Creatività Contemporanea
 84,13,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Vittoriano
 85,2,Sede di Drugstore Museum e Circuito Necropoli Portuense
-86,1,Sede di Parco archeologico di Ercolano - Teatro romano
-87,1,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Barletta, Andria, Trani e Foggia"
-88,1,Sede di Museo Casa natale Giacomo Puccini
-89,2,Sede di Villa Adriana e Villa d'Este - Mensa ponderaria e Augusteum
-90,6,Sede di Galleria d'arte moderna e contemporanea di Bergamo - GAMeC
-91,2,Sede di Museo civico di Diano Marina
-92,1,Sede di Area archeologica di Libarna
-93,1,Sede di Area archeologica del Tempio Italico di Casalbore
-94,1,"Sede di Montegrotto Terme, area archeologica di viale Stazione / via degli Scavi"
-95,1,Sede di Archivio di Stato di Pesaro-Urbino. Sezione di Fano
-96,3,Sede di Archivio di Stato di Parma
-97,1,Sede di Museo del falegname Tino Sana
-98,3,Sede di Cenacolo di Ognissanti
-99,1,"Sede di Parco archeologico dei Campi Flegrei - Necropoli di Via Celle, settore della necropoli di Puteoli"
-100,1,"Sede di Museo civico archeologico ""Girolamo Rossi"""
-101,1,Sede di Area archeologica di Carminiello ai Mannesi
-102,2,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Chieti e Pescara"
-103,1,Sede di Cenacolo del Fuligno
-104,5,Sede di Archivio di Stato di Reggio Calabria. Sezione di Locri
-105,1,Sede di Galleria civica d’arte moderna - Palazzo Lomellini
-106,2,Sede di Museo civico Antonio Cordici
-107,1,Sede di Monumenti funerari della via Iulia Augusta
-108,4,Sede di Biblioteca Statale del Monumento nazionale di Montevergine
-109,1,Sede di Villa Ormond
-110,2,Sede di Museo del Paesaggio
-111,6,Sede di Tempio delle Tavole Palatine
-112,5,Sede di Parco archeologico di Herakleia
-113,1,Sede di Museo civico San Domenico
-114,1,Sede di Fondazione Galleria Rizzi
-115,1,"Sede di Area archeologica ""Su Nuraxi"""
-116,2,Sede di Civico museo archeologico di Ozieri
-117,1,Sede di Castello reale di Sarre
-118,2,Sede di Sito archeologico Nuraghe Nolza
-119,1,Sede di Fondazione Museo del tesoro del duomo e Archivio capitolare
-120,3,Sede di Pinacoteca Carlo Levi
-121,3,Sede di Richard West memorial gallery
-122,2,Sede di GIARDINI BOTANICI HANBURY - Centro di Servizi per il Ponente Ligure
-123,3,"Sede di Concordia Sagittaria, area archeologica sotto la Cattedrale"
-124,2,Sede di Museo archeologico nazionale di Fratta Polesine (barchessa di Villa Badoer)
-125,1,Sede di Museo storico archeologico e Area archeologica di San Paolo Belsito
-126,5,Sede di Archivio di Stato di Treviso
-127,1,Sede di Musei civici d'arte antica -  Museo civico medievale di Bologna
-128,5,Sede di Pinacoteca nazionale di Cagliari
-129,2,Sede di Area di Sa Carcaredda
-130,1,Sede di Museo civico Amedeo Lia
-131,1,Sede di Museo ornitologico della Sardegna
-132,1,Sede di Museo Poldi Pezzoli
+86,6,Sede di Tempio delle Tavole Palatine
+87,5,Sede di Parco archeologico di Herakleia
+88,1,Sede di Museo civico San Domenico
+89,1,Sede di Parco archeologico di Ercolano - Teatro romano
+90,1,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Barletta, Andria, Trani e Foggia"
+91,1,Sede di Museo Casa natale Giacomo Puccini
+92,2,Sede di Villa Adriana e Villa d'Este - Mensa ponderaria e Augusteum
+93,6,Sede di Galleria d'arte moderna e contemporanea di Bergamo - GAMeC
+94,2,Sede di Museo civico di Diano Marina
+95,1,Sede di Area archeologica di Libarna
+96,1,Sede di Area archeologica del Tempio Italico di Casalbore
+97,1,"Sede di Montegrotto Terme, area archeologica di viale Stazione / via degli Scavi"
+98,1,Sede di Archivio di Stato di Pesaro-Urbino. Sezione di Fano
+99,3,Sede di Archivio di Stato di Parma
+100,1,Sede di Museo del falegname Tino Sana
+101,3,Sede di Cenacolo di Ognissanti
+102,1,"Sede di Parco archeologico dei Campi Flegrei - Necropoli di Via Celle, settore della necropoli di Puteoli"
+103,1,"Sede di Museo civico archeologico ""Girolamo Rossi"""
+104,1,Sede di Area archeologica di Carminiello ai Mannesi
+105,2,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Chieti e Pescara"
+106,1,Sede di Cenacolo del Fuligno
+107,5,Sede di Archivio di Stato di Reggio Calabria. Sezione di Locri
+108,1,Sede di Galleria civica d’arte moderna - Palazzo Lomellini
+109,2,Sede di Museo civico Antonio Cordici
+110,1,Sede di Monumenti funerari della via Iulia Augusta
+111,4,Sede di Biblioteca Statale del Monumento nazionale di Montevergine
+112,1,Sede di Villa Ormond
+113,2,Sede di Museo del Paesaggio
+114,1,Sede di Museo civico Amedeo Lia
+115,1,Sede di Museo ornitologico della Sardegna
+116,1,Sede di Museo Poldi Pezzoli
+117,1,Sede di Fondazione Galleria Rizzi
+118,1,"Sede di Area archeologica ""Su Nuraxi"""
+119,2,Sede di Civico museo archeologico di Ozieri
+120,1,Sede di Castello reale di Sarre
+121,2,Sede di Sito archeologico Nuraghe Nolza
+122,1,Sede di Fondazione Museo del tesoro del duomo e Archivio capitolare
+123,3,Sede di Pinacoteca Carlo Levi
+124,3,Sede di Richard West memorial gallery
+125,2,Sede di GIARDINI BOTANICI HANBURY - Centro di Servizi per il Ponente Ligure
+126,3,"Sede di Concordia Sagittaria, area archeologica sotto la Cattedrale"
+127,2,Sede di Museo archeologico nazionale di Fratta Polesine (barchessa di Villa Badoer)
+128,1,Sede di Museo storico archeologico e Area archeologica di San Paolo Belsito
+129,5,Sede di Archivio di Stato di Treviso
+130,1,Sede di Musei civici d'arte antica -  Museo civico medievale di Bologna
+131,5,Sede di Pinacoteca nazionale di Cagliari
+132,2,Sede di Area di Sa Carcaredda
 133,1,Sede di Museo archeologico Lavinium
 134,2,"Sede di Fondazione Andre' Heller - Giardino botanico ""A. Hruska"""
 135,1,Sede di Chiesa di Santa Maria Maggiore di Venezia
@@ -146,11 +146,11 @@
 144,1,Sede di Museo Galileo. Istituto e museo di storia della scienza
 145,1,Sede di Museo civico del Palazzo pretorio dI Certaldo
 146,1,Sede di Civico museo archeologico di Casteggio e dell'Oltrepò pavese
-147,9,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Museo nazionale del Palazzo di Venezia
-148,3,Sede di Teatro e Anfiteatro romano
-149,7,Sede di Fortezza di  Castruccio Castracani - Castello di Sarzanello
-150,2,Sede di Galleria d'arte moderna di Milano
-151,3,Sede di Villa Carducci - Pandolfini a Legnaia
+147,3,Sede di Villa Carducci - Pandolfini a Legnaia
+148,9,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Museo nazionale del Palazzo di Venezia
+149,3,Sede di Teatro e Anfiteatro romano
+150,7,Sede di Fortezza di  Castruccio Castracani - Castello di Sarzanello
+151,2,Sede di Galleria d'arte moderna di Milano
 152,3,Sede di Gallerie degli Uffizi – Galleria d’Arte Moderna (Palazzo Pitti)
 153,1,Sede di Museo archeologico e aree archeologiche di Montelupo Fiorentino
 154,3,Sede di Villa del Boccaglione
@@ -161,8 +161,8 @@
 159,2,Sede di Museo di Palazzo Doria Pamphilj
 160,1,Sede di Abbazia di Fossanova
 161,4,Sede di Palazzo Patrizi Clementi
-162,4,Sede di Complesso architettonico Galata Museo del mare
-163,2,Sede di Parco archeologico di Ostia antica - Complesso della Basilica di S. Ippolito
+162,2,Sede di Parco archeologico di Ostia antica - Complesso della Basilica di S. Ippolito
+163,4,Sede di Complesso architettonico Galata Museo del mare
 164,1,Sede di Procuratie nuove - ex Palazzo reale
 165,1,"Sede di Fondazione Michetti ""Mu.Mi."""
 166,2,Sede di Museo della civiltà contadina in Val Vibrata
@@ -251,189 +251,189 @@
 249,2,Sede di Castello Piccolomini - Collezione Torlonia
 250,7,Sede di Museo d'Arte Orientale Venezia
 251,2,Sede di Museo Archeologico Nazionale di Cosa
-252,65,Sede di Museo tattile statale Omero
-253,53,Sede di Museo archeologico nazionale di Napoli
-254,18,Sede di Archivio di Stato di Savona
-255,42,Sede di Basilica di San Saturnino
-256,2,Sede di Museo archeologico statale di Cingoli Moscosi
-257,34,Sede di Museo nazionale Collezione Salce sede di San Gaetano
-258,46,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per l'area Metropolitana di Roma e per la Provincia di Rieti"
+252,65,Sede di Museo nazionale di Ravenna
+253,46,Sede di Museo nazionale di Matera - Palazzo Lanfranchi
+254,39,"Sede di Museo archeologico nazionale del Melfese ""Massimo Pallottino"""
+255,107,Sede di Museo archeologico nazionale di Cagliari
+256,63,Sede di Gallerie degli Uffizi – Gli Uffizi
+257,8,Sede di Museo archeologico nazionale Concordiese di Portogruaro
+258,68,Sede di Pinacoteca Nazionale di Bologna
 259,97,Sede di Museo di Palazzo Grimani
-260,51,Sede di Galleria dell'Accademia di Firenze
-261,28,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Biella, Novara, Verbano-Cusio-Ossola e Vercelli"
-262,2,"Sede di Musei del Bargello - Museo della Casa Fiorentina Antica, Palazzo Davanzati"
-263,13,Sede di Museo di Palazzo Nieddu del Rio
-264,27,Sede di Reggia di Caserta - Palazzo Reale
-265,75,Sede di Museo nazionale romano - Terme di Diocleziano
-266,3,Sede di Compendio Garibaldino di Caprera
-267,2,"Sede di Museo nazionale ""Memoriale Giuseppe Garibaldi"""
-268,36,Sede di Museo archeologico lametino
-269,214,Sede di Certosa e Museo di San Martino
-270,69,Sede di Museo archeologico nazionale della Valle del Sarno
-271,26,Sede di Museo dell'Opificio delle Pietre Dure
-272,13,Sede di Archivio di Stato di Rieti
-273,67,Sede di Direzione Regionale Musei Toscana
-274,39,Sede di Museo nazionale di San Matteo
-275,1,Sede di Museo civico A. Olmo e gipsoteca D.Calandra
-276,5,Sede di Archivio di Stato di Reggio Emilia
-277,1,Sede di Museo del lavoro e delle tradizioni popolari della Versilia storica
-278,114,Sede di Direzione Regionale Musei Liguria
-279,2,Sede di Museo di archeologia ligure
-280,30,Sede di Museo archeologico nazionale “Giuseppe Andreassi” e Parco archeologico di Egnazia
-281,13,Sede di Istituto Centrale per i Beni Sonori ed Audiovisivi
-282,21,Sede di Parco archeologico di Siponto
-283,85,Sede di Direzione Regionale Musei Sardegna
-284,6,Sede di Antiquarium e Parco archeologico di Castelseprio
-285,25,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Sassari e Nuoro"
-286,9,Sede di Museo archeologico Santa Maria delle Monache
-287,162,Sede di Direzione Regionale Musei Veneto
-288,42,Sede di Villa Adriana e Villa d'Este - Area archeologica di Villa Adriana
-289,46,Sede di Certosa di San Giacomo
-290,33,Sede di Parco archeologico di Paestum e Velia - Area archeologica di Paestum
-291,63,Sede di Museo e Real Bosco di Capodimonte
-292,27,Sede di Gallerie dell’Accademia di Venezia
-293,11,"Sede di Direzione Generale  Educazione, Ricerca e Istituti Culturali"
-294,1,Sede di Castel Beseno
-295,114,Sede di Museo nazionale di Villa Pisani
-296,15,Sede di Archivio di Stato di Bergamo
-297,295,Sede di Biblioteca Universitaria di Pavia
-298,55,Sede di Galleria nazionale dell'Umbria
-299,18,Sede di Archivio di Stato di Alessandria
-300,63,Sede di Gallerie degli Uffizi – Gli Uffizi
-301,28,Sede di Biblioteca nazionale Marciana
-302,8,Sede di Archivio di Stato di Bari. Sezione di Barletta
-303,45,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Palazzo Venezia
-304,26,Sede di Gallerie Estensi - Pinacoteca nazionale di Ferrara
-305,21,Sede di Archivio di Stato di Rovigo
-306,10,Sede di Archivio di Stato di Reggio Calabria. Sezione di Palmi
-307,56,Sede di Museo Hendrik Christian Andersen
-308,6,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Milano"
-309,14,Sede di Museo del Palazzo della Dogana dei Grani e Area archeologica dell'Antica Abellinum
-310,6,"Sede di Direzione Generale Archeologia, Belle Arti e Paesaggio"
-311,85,Sede di Gallerie Nazionali di Palazzo Spinola
-312,17,Sede di Gallerie estensi - Biblioteca estense universitaria
-313,1,Sede di Museo civico di Bassano del Grappa
-314,34,Sede di Museo nazionale archeologico della Sibaritide
-315,4,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Reggio Calabria e la provincia di Vibo Valentia"
-316,28,Sede di Castel del Monte
-317,6,Sede di Soprintendenza Archivistica della Sardegna
-318,65,Sede di Museo nazionale di Ravenna
-319,328,Sede di Museo archeologico nazionale delle Marche
-320,37,Sede di Museo nazionale Concordiese di Portogruaro
-321,48,Sede di Parco archeologico dell'Appia antica - Villa dei Quintili e Santa Maria Nova
-322,33,Sede di Area archeologica di Nervia
-323,20,Sede di Villa romana del Varignano
-324,17,Sede di Soprintendenza Archivistica e Bibliografica della Calabria
-325,8,Sede di Ex Regio Museo archeologico
-326,38,Sede di Compendio garibaldino di Caprera
-327,10,Sede di Biblioteca Statale Antonio Baldini
-328,7,Sede di Archivio di Stato di Varese
-329,48,Sede di Archivio di Stato di Siena
-330,27,Sede di Archivio di Stato di Reggio Calabria
-331,21,Sede di Museo Palazzo Pistilli
-332,88,Sede di Direzione Regionale Musei Emilia Romagna
-333,5,Sede di Biblioteca Medica Statale di Roma
-334,26,Sede di Biblioteca Vallicelliana di Roma
-335,10,Sede di Biblioteca Statale del Monumento Nazionale di Santa Giustina
-336,32,Sede di Archivio di Stato di Forlì-Cesena
-337,24,Sede di Museo nazionale di Casa Giusti
-338,34,Sede di Museo nazionale di Palazzo Reale
-339,6,Sede di Basilica di Superga
-340,33,Sede di Museo nazionale del Paleolitico di Isernia
-341,147,Sede di Museo archeologico dell'antica Capua e Mitreo
-342,30,Sede di Area archeologica del Teatro romano di Benevento
-343,7,Sede di Archivio di Stato di Chieti
-344,12,Sede di Archivio di Stato di Rimini
-345,20,Sede di Biblioteca statale Stelio Crise di Trieste
-346,13,Sede di Archivio di Stato di Imperia
-347,32,Sede di Biblioteca Statale di Lucca
-348,21,"Sede di Museo preistorico dei ""Balzi Rossi"" e zona archeologica"
-349,43,Sede di Castello svevo di Bari
-350,44,Sede di Villa medicea di Cerreto Guidi e Museo storico della Caccia e del Territorio
-351,27,Sede di Castello svevo di Trani
-352,20,Sede di Parco archeologico di Paestum e Velia - Area archeologica di Velia
-353,90,Sede di Museo archeologico nazionale di Firenze
-354,33,Sede di Pantheon
-355,28,Sede di Parco archeologico dell'Appia antica - Villa di Capo di Bove
-356,68,Sede di Pinacoteca Nazionale di Bologna
-357,2,Sede di Archivio di Stato di Vicenza
-358,12,Sede di Archivio di Stato di Pavia
-359,4,Sede di Archivio di Stato di Forlì-Cesena. Sezione di Cesena
-360,18,Sede di Complesso monumentale della Pilotta - Galleria nazionale di Parma
-361,9,Sede di Musei del Bargello - Museo di Casa Martelli
-362,13,Sede di Archivio di Stato di Lucca
-363,74,Sede di Villa Adriana e Villa d'Este - Villa d'Este
-364,14,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Cremona, Mantova e Lodi"
-365,1,Sede di Mausoleo delle Carceri Vecchie
-366,9,Sede di Archivio di Stato di Como
-367,9,Sede di Palazzo ducale di Genova
-368,10,Sede di Ex Chiesa del Tau
-369,21,Sede di Basilica di San Francesco
-370,46,Sede di Museo nazionale di Matera - Palazzo Lanfranchi
-371,21,Sede di Archivio di Stato di Pesaro-Urbino
-372,8,Sede di Museo dei Brettii e degli Enotri
-373,7,Sede di Parco archeologico dell'area urbana e della Necropoli di Crucinia di Metaponto
-374,32,Sede di Museo nazionale di Palazzo Mansi
-375,39,Sede di Parco archeologico di Pompei - Area archeologica di Pompei
-376,44,Sede di Parco archeologico dell'Appia antica  - Mausoleo di Cecilia Metella e Chiesa di San Nicola
-377,28,Sede di Museo nazionale Collezione Salce sede di Santa Margherita
-378,122,Sede di Museo archeologico nazionale dell'Umbria
-379,48,Sede di Museo nazionale di Villa Guinigi
-380,53,Sede di Villa medicea della Petraia
-381,2,Sede di Castello Angioino di Copertino
-382,3,Sede di Giardino della Villa a Castello
-383,2,Sede di Giardino di Villa Il Ventaglio
-384,4,Sede di Museo di Casa Giusti
-385,6,"Sede di Complesso monumentale del Castello Ducale, giardino e parco di Aglié"
-386,6,Sede di Complesso monumentale del Castello e Parco di Racconigi
-387,2,Sede di Cenacolo Vinciano
-388,3,Sede di Villa medicea di Poggio a Caiano e Giardino
-389,14,Sede di Museo Archeologico Nazionale della Valle Camonica
-390,2,"Sede di Museo nazionale delle residenze Napoleoniche ""Palazzina dei Mulini"""
-391,2,"Sede di Museo nazionale delle residenze Napoleoniche ""Villa di San Martino"""
-392,3,Sede di Basilica di San Francesco - Arezzo
-393,24,Sede di Palazzo Besta
-394,13,Sede di Parco Archeologico Nazionale dei Massi di Cemmo
-395,39,"Sede di Museo archeologico nazionale del Melfese ""Massimo Pallottino"""
-396,8,Sede di Biblioteca Statale di Cremona
-397,67,Sede di Rocca demaniale di Gradara
-398,3,Sede di Sede Espositiva in Palazzo Ducale di Tricarico
-399,32,Sede di Archivio di Stato di Agrigento
-400,22,Sede di Archivio di Stato di Terni
-401,80,Sede di Biblioteca Universitaria di Cagliari
-402,18,Sede di Archivio di Stato di Grosseto
-403,16,Sede di Parco archeologico di Cerveteri e Tarquinia - Necropoli della Banditaccia
-404,4,Sede di Museo di Capodimonte
-405,17,Sede di Tempietto sul Clitunno
-406,34,Sede di Ipogeo dei Volumni e Necropoli del Palazzone
-407,23,Sede di Teatro romano e Antiquarium di Gubbio
-408,35,Sede di Museo archeologico nazionale di Orvieto
-409,7,Sede di Musei Reali - Biblioteca Reale
-410,107,Sede di Museo archeologico nazionale di Cagliari
-411,8,Sede di Museo archeologico nazionale Concordiese di Portogruaro
-412,26,Sede di Museo e Galleria Borghese
-413,133,Sede di Direzione Regionale Musei Puglia
-414,18,Sede di Mausoleo di Teodorico
-415,3,Sede di Ex Chiesa di San Mattia
-416,16,"Sede di Museo nazionale etrusco ""Pompeo Aria"" ed area archeologica di Kainua - Marzabotto"
-417,102,Sede di Museo archeologico nazionale di Taranto
-418,2,Sede di Museo della bilancia
-419,25,Sede di Museo archeologico nazionale ed Area archeologica di Cosa
-420,15,Sede di Villa romana di Russi
-421,9,Sede di Ufficio Stampa e Comunicazione
-422,17,Sede di Archivio di Stato di Gorizia
-423,13,"Sede di Museo archeologico nazionale ""La Civitella"" e Monumenti e Aree archeologiche dell'antica Teate"
-424,3,Sede di Archivio di Stato dell'Aquila. Sezione di Avezzano
-425,6,Sede di Reggia di Caserta - Parco Reale e Giardino Inglese
-426,17,Sede di Palazzo Altieri
-427,2,Sede di Regione Autonoma Trentino-Alto Adige/Südtirol
-428,15,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Cagliari e le province di Oristano e Sud Sardegna"
-429,8,"Sede di Museo nazionale del cinema - Fondazione ""Maria Adriana Prolo"""
-430,2,Sede di Museo Palazzo Ricci Arte italiana del '900
-431,21,Sede di Parco Archeologico di Veio
-432,47,"Sede di Museo Boncompagni Ludovisi per le arti decorative, il costume e la moda dei secoli XIX e XX"
-433,21,Sede di Villa Lante
-434,45,Sede di Museo nazionale di Matera - Museo Domenico Ridola
+260,48,Sede di Archivio di Stato di Siena
+261,65,Sede di Museo tattile statale Omero
+262,53,Sede di Museo archeologico nazionale di Napoli
+263,18,Sede di Archivio di Stato di Savona
+264,42,Sede di Basilica di San Saturnino
+265,2,Sede di Museo archeologico statale di Cingoli Moscosi
+266,34,Sede di Museo nazionale Collezione Salce sede di San Gaetano
+267,46,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per l'area Metropolitana di Roma e per la Provincia di Rieti"
+268,51,Sede di Galleria dell'Accademia di Firenze
+269,28,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Biella, Novara, Verbano-Cusio-Ossola e Vercelli"
+270,2,"Sede di Musei del Bargello - Museo della Casa Fiorentina Antica, Palazzo Davanzati"
+271,13,Sede di Museo di Palazzo Nieddu del Rio
+272,27,Sede di Reggia di Caserta - Palazzo Reale
+273,75,Sede di Museo nazionale romano - Terme di Diocleziano
+274,3,Sede di Compendio Garibaldino di Caprera
+275,2,"Sede di Museo nazionale ""Memoriale Giuseppe Garibaldi"""
+276,36,Sede di Museo archeologico lametino
+277,214,Sede di Certosa e Museo di San Martino
+278,69,Sede di Museo archeologico nazionale della Valle del Sarno
+279,26,Sede di Museo dell'Opificio delle Pietre Dure
+280,13,Sede di Archivio di Stato di Rieti
+281,67,Sede di Direzione Regionale Musei Toscana
+282,39,Sede di Museo nazionale di San Matteo
+283,1,Sede di Museo civico A. Olmo e gipsoteca D.Calandra
+284,5,Sede di Archivio di Stato di Reggio Emilia
+285,1,Sede di Museo del lavoro e delle tradizioni popolari della Versilia storica
+286,114,Sede di Direzione Regionale Musei Liguria
+287,2,Sede di Museo di archeologia ligure
+288,30,Sede di Museo archeologico nazionale “Giuseppe Andreassi” e Parco archeologico di Egnazia
+289,13,Sede di Istituto Centrale per i Beni Sonori ed Audiovisivi
+290,21,Sede di Parco archeologico di Siponto
+291,85,Sede di Direzione Regionale Musei Sardegna
+292,6,Sede di Antiquarium e Parco archeologico di Castelseprio
+293,25,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Sassari e Nuoro"
+294,9,Sede di Museo archeologico Santa Maria delle Monache
+295,162,Sede di Direzione Regionale Musei Veneto
+296,42,Sede di Villa Adriana e Villa d'Este - Area archeologica di Villa Adriana
+297,46,Sede di Certosa di San Giacomo
+298,33,Sede di Parco archeologico di Paestum e Velia - Area archeologica di Paestum
+299,63,Sede di Museo e Real Bosco di Capodimonte
+300,27,Sede di Gallerie dell’Accademia di Venezia
+301,11,"Sede di Direzione Generale  Educazione, Ricerca e Istituti Culturali"
+302,1,Sede di Castel Beseno
+303,114,Sede di Museo nazionale di Villa Pisani
+304,15,Sede di Archivio di Stato di Bergamo
+305,295,Sede di Biblioteca Universitaria di Pavia
+306,55,Sede di Galleria nazionale dell'Umbria
+307,18,Sede di Archivio di Stato di Alessandria
+308,28,Sede di Biblioteca nazionale Marciana
+309,8,Sede di Archivio di Stato di Bari. Sezione di Barletta
+310,45,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Palazzo Venezia
+311,26,Sede di Gallerie Estensi - Pinacoteca nazionale di Ferrara
+312,21,Sede di Archivio di Stato di Rovigo
+313,10,Sede di Archivio di Stato di Reggio Calabria. Sezione di Palmi
+314,56,Sede di Museo Hendrik Christian Andersen
+315,6,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Milano"
+316,14,Sede di Museo del Palazzo della Dogana dei Grani e Area archeologica dell'Antica Abellinum
+317,6,"Sede di Direzione Generale Archeologia, Belle Arti e Paesaggio"
+318,85,Sede di Gallerie Nazionali di Palazzo Spinola
+319,17,Sede di Gallerie estensi - Biblioteca estense universitaria
+320,1,Sede di Museo civico di Bassano del Grappa
+321,34,Sede di Museo nazionale archeologico della Sibaritide
+322,4,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Reggio Calabria e la provincia di Vibo Valentia"
+323,28,Sede di Castel del Monte
+324,6,Sede di Soprintendenza Archivistica della Sardegna
+325,328,Sede di Museo archeologico nazionale delle Marche
+326,37,Sede di Museo nazionale Concordiese di Portogruaro
+327,48,Sede di Parco archeologico dell'Appia antica - Villa dei Quintili e Santa Maria Nova
+328,33,Sede di Area archeologica di Nervia
+329,20,Sede di Villa romana del Varignano
+330,17,Sede di Soprintendenza Archivistica e Bibliografica della Calabria
+331,8,Sede di Ex Regio Museo archeologico
+332,38,Sede di Compendio garibaldino di Caprera
+333,10,Sede di Biblioteca Statale Antonio Baldini
+334,7,Sede di Archivio di Stato di Varese
+335,27,Sede di Archivio di Stato di Reggio Calabria
+336,21,Sede di Museo Palazzo Pistilli
+337,88,Sede di Direzione Regionale Musei Emilia Romagna
+338,5,Sede di Biblioteca Medica Statale di Roma
+339,26,Sede di Biblioteca Vallicelliana di Roma
+340,10,Sede di Biblioteca Statale del Monumento Nazionale di Santa Giustina
+341,32,Sede di Archivio di Stato di Forlì-Cesena
+342,24,Sede di Museo nazionale di Casa Giusti
+343,34,Sede di Museo nazionale di Palazzo Reale
+344,6,Sede di Basilica di Superga
+345,33,Sede di Museo nazionale del Paleolitico di Isernia
+346,147,Sede di Museo archeologico dell'antica Capua e Mitreo
+347,30,Sede di Area archeologica del Teatro romano di Benevento
+348,7,Sede di Archivio di Stato di Chieti
+349,12,Sede di Archivio di Stato di Rimini
+350,20,Sede di Biblioteca statale Stelio Crise di Trieste
+351,13,Sede di Archivio di Stato di Imperia
+352,32,Sede di Biblioteca Statale di Lucca
+353,21,"Sede di Museo preistorico dei ""Balzi Rossi"" e zona archeologica"
+354,43,Sede di Castello svevo di Bari
+355,44,Sede di Villa medicea di Cerreto Guidi e Museo storico della Caccia e del Territorio
+356,27,Sede di Castello svevo di Trani
+357,20,Sede di Parco archeologico di Paestum e Velia - Area archeologica di Velia
+358,90,Sede di Museo archeologico nazionale di Firenze
+359,33,Sede di Pantheon
+360,28,Sede di Parco archeologico dell'Appia antica - Villa di Capo di Bove
+361,2,Sede di Archivio di Stato di Vicenza
+362,12,Sede di Archivio di Stato di Pavia
+363,4,Sede di Archivio di Stato di Forlì-Cesena. Sezione di Cesena
+364,18,Sede di Complesso monumentale della Pilotta - Galleria nazionale di Parma
+365,9,Sede di Musei del Bargello - Museo di Casa Martelli
+366,13,Sede di Archivio di Stato di Lucca
+367,74,Sede di Villa Adriana e Villa d'Este - Villa d'Este
+368,14,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Cremona, Mantova e Lodi"
+369,1,Sede di Mausoleo delle Carceri Vecchie
+370,9,Sede di Archivio di Stato di Como
+371,9,Sede di Palazzo ducale di Genova
+372,10,Sede di Ex Chiesa del Tau
+373,21,Sede di Basilica di San Francesco
+374,21,Sede di Archivio di Stato di Pesaro-Urbino
+375,8,Sede di Museo dei Brettii e degli Enotri
+376,7,Sede di Parco archeologico dell'area urbana e della Necropoli di Crucinia di Metaponto
+377,32,Sede di Museo nazionale di Palazzo Mansi
+378,39,Sede di Parco archeologico di Pompei - Area archeologica di Pompei
+379,44,Sede di Parco archeologico dell'Appia antica  - Mausoleo di Cecilia Metella e Chiesa di San Nicola
+380,28,Sede di Museo nazionale Collezione Salce sede di Santa Margherita
+381,122,Sede di Museo archeologico nazionale dell'Umbria
+382,48,Sede di Museo nazionale di Villa Guinigi
+383,53,Sede di Villa medicea della Petraia
+384,2,Sede di Castello Angioino di Copertino
+385,3,Sede di Giardino della Villa a Castello
+386,2,Sede di Giardino di Villa Il Ventaglio
+387,4,Sede di Museo di Casa Giusti
+388,6,"Sede di Complesso monumentale del Castello Ducale, giardino e parco di Aglié"
+389,6,Sede di Complesso monumentale del Castello e Parco di Racconigi
+390,2,Sede di Cenacolo Vinciano
+391,3,Sede di Villa medicea di Poggio a Caiano e Giardino
+392,14,Sede di Museo Archeologico Nazionale della Valle Camonica
+393,2,"Sede di Museo nazionale delle residenze Napoleoniche ""Palazzina dei Mulini"""
+394,2,"Sede di Museo nazionale delle residenze Napoleoniche ""Villa di San Martino"""
+395,3,Sede di Basilica di San Francesco - Arezzo
+396,24,Sede di Palazzo Besta
+397,13,Sede di Parco Archeologico Nazionale dei Massi di Cemmo
+398,8,Sede di Biblioteca Statale di Cremona
+399,67,Sede di Rocca demaniale di Gradara
+400,3,Sede di Sede Espositiva in Palazzo Ducale di Tricarico
+401,32,Sede di Archivio di Stato di Agrigento
+402,22,Sede di Archivio di Stato di Terni
+403,80,Sede di Biblioteca Universitaria di Cagliari
+404,18,Sede di Archivio di Stato di Grosseto
+405,16,Sede di Parco archeologico di Cerveteri e Tarquinia - Necropoli della Banditaccia
+406,4,Sede di Museo di Capodimonte
+407,17,Sede di Tempietto sul Clitunno
+408,34,Sede di Ipogeo dei Volumni e Necropoli del Palazzone
+409,23,Sede di Teatro romano e Antiquarium di Gubbio
+410,35,Sede di Museo archeologico nazionale di Orvieto
+411,7,Sede di Musei Reali - Biblioteca Reale
+412,45,Sede di Museo nazionale di Matera - Museo Domenico Ridola
+413,17,Sede di Archivio di Stato di Gorizia
+414,102,Sede di Museo archeologico nazionale di Taranto
+415,26,Sede di Museo e Galleria Borghese
+416,133,Sede di Direzione Regionale Musei Puglia
+417,18,Sede di Mausoleo di Teodorico
+418,3,Sede di Ex Chiesa di San Mattia
+419,16,"Sede di Museo nazionale etrusco ""Pompeo Aria"" ed area archeologica di Kainua - Marzabotto"
+420,2,Sede di Museo della bilancia
+421,25,Sede di Museo archeologico nazionale ed Area archeologica di Cosa
+422,15,Sede di Villa romana di Russi
+423,9,Sede di Ufficio Stampa e Comunicazione
+424,13,"Sede di Museo archeologico nazionale ""La Civitella"" e Monumenti e Aree archeologiche dell'antica Teate"
+425,3,Sede di Archivio di Stato dell'Aquila. Sezione di Avezzano
+426,6,Sede di Reggia di Caserta - Parco Reale e Giardino Inglese
+427,17,Sede di Palazzo Altieri
+428,2,Sede di Regione Autonoma Trentino-Alto Adige/Südtirol
+429,15,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Cagliari e le province di Oristano e Sud Sardegna"
+430,8,"Sede di Museo nazionale del cinema - Fondazione ""Maria Adriana Prolo"""
+431,2,Sede di Museo Palazzo Ricci Arte italiana del '900
+432,21,Sede di Parco Archeologico di Veio
+433,47,"Sede di Museo Boncompagni Ludovisi per le arti decorative, il costume e la moda dei secoli XIX e XX"
+434,21,Sede di Villa Lante
 435,18,Sede di Museo archeologico nazionale di Sperlonga e Area archeologica
 436,12,Sede di Museo archeologico dell'Agro Falisco - Forte Sangallo
 437,12,Sede di Museo archeologico nazionale di Vulci
@@ -498,38 +498,38 @@
 496,3,Sede di Museo delle tradizioni agroalimentari della Sardegna - Casa Steri
 497,3,Sede di Castello di Fenis
 498,3,Sede di Pinacoteca civica e galleria di arte contemporanea di Jesi
-499,10,Sede di Archivio di Stato di Sassari
-500,41,Sede di Archivio centrale dello Stato
-501,2,Sede di Parco archeologico di Pompei - Reggia del Quisisana
-502,14,Sede di Villa Rosa - Museo dell'Arte Vetraria Altarese
-503,11,Sede di Castello di San Terenzo
-504,1,Sede di Parco delle incisioni rupestri con Rupe Magna di Grosio
-505,16,Sede di Soprintendenza Archivistica e Bibliografica dell'Umbria
-506,4,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Molise"
-507,1,Sede di Museo archeologico Oliveriano
-508,7,Sede di Museo civico Villa Colloredo Mels
-509,2,Sede di Museo della carta e della filigrana di Pioraco
-510,7,Sede di Archivio di Stato di Brindisi
-511,1,"Sede di Museo del mare e della costa ""Marcello Zei"""
-512,1,Sede di MUSE' - Nuovo museo Paludi di Celano - Centro di restauro
-513,1,Sede di Museo storico aeronautico
-514,1,Sede di Museo internazionale del presepio di Morrovalle
-515,2,Sede di Fondazione Villa del Balì
-516,1,Sede di Parco Archeologico dell'Appia antica - Acquedotto dei Quintili
-517,2,Sede di Fortezza medievale e Museo della Pagliarola
-518,1,Sede di Museo archeologico e della Via Flaminia
-519,1,Sede di Raccolta di opere d’arte Antica Farmacia Giuli
-520,2,Sede di Museo della Resistenza di Falconara Marittima
-521,1,Sede di Museo del Santuario di San Giacomo della Marca di Monteprandone - Musei sistini del piceno
-522,1,"Sede di Museo di arte moderna, dell’informazione e della fotografia"
-523,1,Sede di Musei di Palazzo ducale
-524,2,Sede di Museo Federico II - Stupor Mundi
-525,1,Sede di Museo archeologico del territorio di Cupra Marittima
-526,1,Sede di Civica raccolta d’arte e raccolta incisori marchigiani
-527,1,"Sede di Area archeologica e museo ""La Fenice"""
-528,1,Sede di Alca - Museo e Biblioteca comunali
-529,3,"Sede di Musei civici ""Luigi Barni"""
-530,8,Sede di Segretariato Regionale del Ministero della cultura per la Puglia
+499,9,Sede di Archivio di Stato di Teramo
+500,10,Sede di Archivio di Stato di Sassari
+501,41,Sede di Archivio centrale dello Stato
+502,2,Sede di Parco archeologico di Pompei - Reggia del Quisisana
+503,14,Sede di Villa Rosa - Museo dell'Arte Vetraria Altarese
+504,11,Sede di Castello di San Terenzo
+505,1,Sede di Parco delle incisioni rupestri con Rupe Magna di Grosio
+506,16,Sede di Soprintendenza Archivistica e Bibliografica dell'Umbria
+507,2,Sede di Polo museale di San Francesco
+508,1,Sede di Museo archeologico Oliveriano
+509,7,Sede di Museo civico Villa Colloredo Mels
+510,2,Sede di Museo della carta e della filigrana di Pioraco
+511,7,Sede di Archivio di Stato di Brindisi
+512,1,"Sede di Museo del mare e della costa ""Marcello Zei"""
+513,1,Sede di MUSE' - Nuovo museo Paludi di Celano - Centro di restauro
+514,1,Sede di Museo storico aeronautico
+515,1,Sede di Museo internazionale del presepio di Morrovalle
+516,2,Sede di Fondazione Villa del Balì
+517,1,Sede di Parco Archeologico dell'Appia antica - Acquedotto dei Quintili
+518,2,Sede di Fortezza medievale e Museo della Pagliarola
+519,1,Sede di Museo archeologico e della Via Flaminia
+520,1,Sede di Raccolta di opere d’arte Antica Farmacia Giuli
+521,2,Sede di Museo della Resistenza di Falconara Marittima
+522,1,Sede di Museo del Santuario di San Giacomo della Marca di Monteprandone - Musei sistini del piceno
+523,1,"Sede di Museo di arte moderna, dell’informazione e della fotografia"
+524,1,Sede di Musei di Palazzo ducale
+525,2,Sede di Museo Federico II - Stupor Mundi
+526,1,Sede di Museo archeologico del territorio di Cupra Marittima
+527,1,Sede di Civica raccolta d’arte e raccolta incisori marchigiani
+528,1,"Sede di Area archeologica e museo ""La Fenice"""
+529,1,Sede di Alca - Museo e Biblioteca comunali
+530,3,"Sede di Musei civici ""Luigi Barni"""
 531,7,Sede di Ex Ospedale di San Rocco
 532,8,Sede di Cappella della Ss. Annunziata
 533,18,Sede di Parco archeologico di Ostia antica - Area archeologica dei Porti Imperiali di Claudio e Traiano
@@ -607,46 +607,46 @@
 605,1,"Sede di Area archeologica Su Nuraxi ""Centro G. Lilliu"""
 606,3,Sede di Musei capitolini Museo Palazzo dei Conservatori
 607,14,Sede di Parco archeologico del Colosseo - Colosseo. Anfiteatro Flavio
-608,7,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Museo centrale del Risorgimento di Roma
-609,3,Sede di Complesso Museale di S. Francesco di Trevi
-610,2,Sede di Museo archeologico del territorio di Populonia
-611,1,Sede di Castello di Castell'Alfero
-612,2,Sede di Museo archeologico nazionale La Civitella di Chieti
-613,4,Sede di Cappella dell'Annunziata
-614,2,Sede di Museo archeologico nazionale La Civitella di Chieti e Monumenti e Aree archeologiche dell'antica Teate
-615,1,Sede di Palazzo Chigi alla Postierla
-616,2,"Sede di Museo d'arte orientale ""Edoardo Chiossone"""
-617,1,"Sede di Museo ""Stibbert"""
-618,1,"Sede di Biblioteca comunale ""Aurelio Cassar"""
-619,3,"Sede di Museo etnografico ""Giovanni Podenzana"""
-620,2,Sede di Castello di San Giorgio
-621,1,Sede di Museo storico della campana Marinelli snc
-622,1,"Sede di Parco archeologico dei Campi Flegrei - Necropoli di Cappella, Misenum"
-623,1,Sede di Fondazione Carla Musazzi
-624,1,Sede di MAGA - Museo Arte Gallarate
-625,2,"Sede di Museo archeologico regionale eoliano ""Luigi Bernabò Brea"""
-626,2,Sede di Biblioteca Classense
-627,4,Sede di Palazzo Economo
-628,1,Sede di Museo Baroffio e del Santuario del Sacro Monte sopra Varese
-629,1,Sede di Casa del Cardinale Bessarione
-630,1,Sede di Parco archeologico di Iuvanum
-631,2,Sede di Museo diocesano Giovanni Tarantini di Brindisi
-632,1,Sede di Castello di Rivoli - Museo d'arte contemporanea
-633,2,Sede di MUSE - Museo delle Scienze di Trento
-634,1,Sede di Museo archeologico provinciale dell’Agro Nocerino
-635,2,"Sede di Musei di Villa Torlonia, Casina delle Civette"
-636,1,Sede di Museo di paesaggi e narrazioni (SMO - Slovensko multimedialno okno)
-637,2,Sede di Palazzina del Belvedere - Collezione Archeologica Faldetta
-638,2,Sede di Museo Cabriniano
-639,2,Sede di Civico museo archeologico di Angera
-640,1,Sede di Musei di Strada Nuova - Galleria di Palazzo Bianco
-641,3,Sede di Parco Archeologico di Sibari
-642,2,"Sede di Musei di villa Torlonia, Casino dei Principi"
-643,2,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Comune di Venezia e Laguna"
-644,2,Sede di Ex Ospedale San Rocco
-645,3,Sede di Museo della pesca del Lago Trasimeno
-646,1,Sede di Casa museo Ivan Bruschi
-647,3,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Lucca e Massa Carrara"
+608,3,"Sede di Museo etnografico ""Giovanni Podenzana"""
+609,2,Sede di Castello di San Giorgio
+610,7,Sede di Istituto autonomo Vittoriano e Palazzo Venezia - Museo centrale del Risorgimento di Roma
+611,3,Sede di Complesso Museale di S. Francesco di Trevi
+612,2,Sede di Museo archeologico del territorio di Populonia
+613,1,Sede di Castello di Castell'Alfero
+614,2,Sede di Museo archeologico nazionale La Civitella di Chieti
+615,4,Sede di Cappella dell'Annunziata
+616,2,Sede di Museo archeologico nazionale La Civitella di Chieti e Monumenti e Aree archeologiche dell'antica Teate
+617,1,Sede di Palazzo Chigi alla Postierla
+618,2,"Sede di Museo d'arte orientale ""Edoardo Chiossone"""
+619,1,"Sede di Museo ""Stibbert"""
+620,1,"Sede di Biblioteca comunale ""Aurelio Cassar"""
+621,2,Sede di Civico museo archeologico di Angera
+622,1,Sede di Museo storico della campana Marinelli snc
+623,1,"Sede di Parco archeologico dei Campi Flegrei - Necropoli di Cappella, Misenum"
+624,1,Sede di Fondazione Carla Musazzi
+625,1,Sede di MAGA - Museo Arte Gallarate
+626,2,"Sede di Museo archeologico regionale eoliano ""Luigi Bernabò Brea"""
+627,2,Sede di Biblioteca Classense
+628,4,Sede di Palazzo Economo
+629,1,Sede di Museo Baroffio e del Santuario del Sacro Monte sopra Varese
+630,1,Sede di Casa del Cardinale Bessarione
+631,1,Sede di Parco archeologico di Iuvanum
+632,2,Sede di Museo diocesano Giovanni Tarantini di Brindisi
+633,1,Sede di Castello di Rivoli - Museo d'arte contemporanea
+634,2,Sede di MUSE - Museo delle Scienze di Trento
+635,1,Sede di Museo archeologico provinciale dell’Agro Nocerino
+636,2,"Sede di Musei di Villa Torlonia, Casina delle Civette"
+637,1,Sede di Museo di paesaggi e narrazioni (SMO - Slovensko multimedialno okno)
+638,2,Sede di Palazzina del Belvedere - Collezione Archeologica Faldetta
+639,2,Sede di Museo Cabriniano
+640,1,Sede di Casa museo Ivan Bruschi
+641,3,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Lucca e Massa Carrara"
+642,1,Sede di Musei di Strada Nuova - Galleria di Palazzo Bianco
+643,3,Sede di Parco Archeologico di Sibari
+644,2,"Sede di Musei di villa Torlonia, Casino dei Principi"
+645,2,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Comune di Venezia e Laguna"
+646,2,Sede di Ex Ospedale San Rocco
+647,3,Sede di Museo della pesca del Lago Trasimeno
 648,2,Sede di Museo civico Castello Ursino
 649,1,Sede di Museo e Abbazia di San Caprasio
 650,1,Sede di Archivio di Stato di Bolzano
@@ -673,25 +673,25 @@
 671,3,Sede di Biblioteca Universitaria Alessandrina
 672,2,Sede di Archivio di Stato di Cosenza. Sezione di Castrovillari
 673,1,Sede di Archivio di Stato di Imperia. Sezione di Ventimiglia
-674,1,Sede di Museo civico del Mare di Tropea - MuMaT
-675,3,Sede di Archivio di Stato di Pistoia. Sezione di Pescia
+674,3,Sede di Archivio di Stato di Pistoia. Sezione di Pescia
+675,1,Sede di Museo civico del Mare di Tropea - MuMaT
 676,1,Sede di Comprensorio archeologico del Circeo
 677,1,Sede di Museo civico di Rovereto
 678,3,Sede di Museo del Carnevale
 679,2,Sede di Museo archeologico del Finale
-680,1,Sede di Ecomuseo Val Resia
-681,1,Sede di Museo civico di storia naturale di Trieste
-682,1,Sede di Museo civico di Montesano sulla Marcellana
-683,1,Sede di Museo del Palazzo Piccolomini
-684,1,Sede di Museo civico di Scienze Naturali Severo Sini
-685,1,Sede di Museo del patrimonio industriale
-686,1,Sede di Antico Frantoio Iacovone
-687,1,"Sede di Museo civico archeologico ""R.Lamrechts"""
-688,9,Sede di Istituto Centrale per il Restauro
-689,2,Sede di Muv - Museo della civiltà Villanoviana
-690,1,Sede di Ex Chiesa di Sant'Agostino di Orvieto
-691,1,Sede di Museo civico Porta della terra e Parco archeologico del Quadrilatero
-692,1,Sede di Fornace Alba Docilia
+680,1,Sede di Museo civico Porta della terra e Parco archeologico del Quadrilatero
+681,1,Sede di Fornace Alba Docilia
+682,1,Sede di Ecomuseo Val Resia
+683,1,Sede di Museo civico di storia naturale di Trieste
+684,1,Sede di Museo civico di Montesano sulla Marcellana
+685,1,Sede di Museo del Palazzo Piccolomini
+686,1,Sede di Museo civico di Scienze Naturali Severo Sini
+687,1,Sede di Museo del patrimonio industriale
+688,1,Sede di Antico Frantoio Iacovone
+689,1,"Sede di Museo civico archeologico ""R.Lamrechts"""
+690,9,Sede di Istituto Centrale per il Restauro
+691,2,Sede di Muv - Museo della civiltà Villanoviana
+692,1,Sede di Ex Chiesa di Sant'Agostino di Orvieto
 693,1,Sede di Museo Nivola
 694,1,Sede di Palazzo dei Diamanti
 695,1,Sede di Museo archeologico provinciale di Salerno
@@ -728,166 +728,166 @@
 726,2,"Sede di Galleria ""Giorgio Franchetti"" alla Ca' d'Oro"
 727,4,Sede di Museo archeologico nazionale della Sibaritide
 728,2,Sede di Tomba di Virgilio
-729,1,"Sede di Museo della ""Memoria contadina"" di Casalciprano"
-730,1,Sede di Gamc - Galleria d’arte moderna e contemporanea Lorenzo Viani
-731,1,Sede di Grotte di Toirano
-732,2,Sede di Chiesa di San Giovanni Battista
-733,1,Sede di Museo Sòn de Lenga di Espaci Occitan
-734,1,Sede di Museo degli innocenti
-735,2,Sede di Museo archeologico nazionale di Ferrara
-736,2,Sede di Museo archeologico di Venezia
-737,1,Sede di Castello Malaspina dal Verme Bobbio
-738,1,Sede di Castello di Acquafredda
+729,1,Sede di Castello di Acquafredda
+730,1,"Sede di Museo della ""Memoria contadina"" di Casalciprano"
+731,1,Sede di Gamc - Galleria d’arte moderna e contemporanea Lorenzo Viani
+732,1,Sede di Grotte di Toirano
+733,2,Sede di Chiesa di San Giovanni Battista
+734,1,Sede di Museo Sòn de Lenga di Espaci Occitan
+735,1,Sede di Museo degli innocenti
+736,2,Sede di Museo archeologico nazionale di Ferrara
+737,2,Sede di Museo archeologico di Venezia
+738,1,Sede di Castello Malaspina dal Verme Bobbio
 739,1,Sede di Museo teatrale alla Scala
-740,96,Sede di Museo archeologico nazionale di Reggio Calabria
-741,1018,Sede di Ministero della cultura
-742,421,Sede di Museo delle Civiltà
-743,67,Sede di Museo archeologico nazionale di Cividale del Friuli
-744,18,Sede di Galleria Nazionale delle Marche
-745,92,Sede di Rocca Roveresca di Senigallia
-746,9,Sede di Gallerie Nazionali di Arte Antica - Galleria Corsini
-747,143,Sede di Parco archeologico di Ostia antica - Area archeologica di Ostia antica
-748,7,Sede di Parco archeologico di Ostia antica - Museo delle navi
-749,10,Sede di Parco archeologico di Ostia antica - Necropoli di Porto - Isola Sacra
-750,45,Sede di Musei del Bargello - Museo nazionale del Bargello
-751,48,Sede di Museo archeologico nazionale di Adria
-752,56,Sede di Antiquarium statale di Numana
-753,4,Sede di Musei del Bargello - Cappelle Medicee
-754,37,Sede di Museo e Parco archeologico nazionale di Locri
-755,31,Sede di Museo Storico e il Parco del Castello di Miramare
-756,54,Sede di MuNDA - Museo nazionale d'Abruzzo
-757,92,Sede di Museo nazionale romano - Palazzo Massimo
-758,8,Sede di Soprintendenza Archivistica e Bibliografica del Veneto e del Trentino Alto-Adige
-759,44,Sede di Museo Diego Aragona Pignatelli Cortes e Museo delle Carrozze
-760,43,Sede di Grotte di Catullo e Museo Archeologico di Sirmione
-761,45,Sede di Villa Romana e Antiquarium
-762,39,Sede di Pinacoteca nazionale di Sassari
-763,10,Sede di Museo archeologico di Quarto d'Altino
-764,98,Sede di Parco archeologico del Colosseo - Foro Romano e Palatino
-765,30,Sede di Museo archeologico nazionale del Sannio Caudino
-766,63,Sede di Galleria Spada
-767,1,Sede di Museo archeologico Caburrum
-768,12,Sede di Museo archeologico nazionale di Chiavari
-769,31,"Sede di Galleria nazionale della Puglia ""Girolamo e Rosaria Devanna"""
-770,1,Sede di Area Archeologica del Santuario Etrusco di Cannicella
-771,23,Sede di Museo archeologico nazionale e Castello di Gioia del Colle
-772,23,Sede di Biblioteca Statale di Macerata
-773,2,Sede di Museo civico Polironiano
-774,23,Sede di Soprintendenza Archivistica della Sicilia - Archivio di Stato di Palermo
-775,23,Sede di Complesso monumentale di San Vincenzo al Volturno
-776,19,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio dell'Umbria"
-777,31,Sede di Museo archeologico di Eboli e della Media Valle del Sele e Aree archeologiche delle fornaci SS. Cosma e Damiano e della Villa Romana di Paterno
-778,10,Sede di Archivio di Stato di Biella
-779,19,Sede di Museo archeologico nazionale di Metaponto
-780,62,Sede di Musei Reali
-781,19,Sede di Archivio di Stato di Perugia. Sezione di Spoleto
-782,19,Sede di Museo delle navi romane di Nemi
-783,162,Sede di Museo archeologico nazionale di Taranto - MArTA
-784,160,Sede di Gallerie dell'Accademia di Venezia
-785,9,Sede di Archivio di Stato di Ancona
-786,19,Sede di Biblioteca Universitaria di Padova
-787,21,Sede di Biblioteca Nazionale Marciana di Venezia
-788,37,Sede di Archivio di Stato di Torino
-789,54,"Sede di Museo archeologico nazionale ""Vito Capialbi"""
-790,5,Sede di Archivio di Stato di Sondrio
-791,20,Sede di Archivio di Stato di Bari
-792,32,Sede di Parco archeologico di Paestum e Velia - Museo archeologico nazionale
-793,98,Sede di Biblioteca Universitaria di Sassari
-794,51,Sede di Pinacoteca di Brera
-795,13,Sede di Archivio di Stato di Vercelli
-796,35,Sede di Pinacoteca di Brera - Biblioteca Nazionale Braidense di Milano
-797,21,"Sede di Biblioteca nazionale di Napoli ""Vittorio Emanuele III"""
-798,1,Sede di Soprintendenza Nazionale per Il Patrimonio Culturale Subacqueo
-799,6,Sede di Archivio di Stato di Novara
-800,17,Sede di Archivio di Stato di Trapani
-801,9,Sede di Archivio di Stato di Enna
-802,11,Sede di Gallerie degli Uffizi
-803,45,Sede di Archivio di Stato di Perugia
-804,8,Sede di Archivio di Stato di Bari. Sezione di Trani 
-805,14,Sede di Archivio di Stato di Avellino
-806,21,Sede di Parco archeologico di Cerveteri e Tarquinia - Museo archeologico nazionale di Tarquinia
-807,7,Sede di Museo diocesano Mons. Aurelio Sorrentino
-808,36,Sede di Direzione regionale Musei Calabria
-809,11,Sede di Archivio di Stato di Matera
-810,17,Sede di Forte San Giovanni
-811,55,Sede di Archivio di Stato di Cosenza
-812,28,Sede di Pinacoteca nazionale di Siena
-813,2,Sede di Biblioteca Universitaria di Pisa
-814,16,Sede di Archivio di Stato di Venezia
-815,9,Sede di Archivio di Stato di Caltanissetta
-816,1,Sede di Gallerie degli Uffizi - Museo delle porcellane
-817,110,Sede di Palazzo Reale di Napoli
-818,15,Sede di Segretariato Regionale del Ministero della cultura per la Liguria
-819,14,Sede di Museo nazionale d'arte medievale e moderna
-820,1,Sede di Museo civico per la preistoria del Monte Cetona
-821,86,Sede di Museo di San Marco
-822,41,Sede di Museo archeologico nazionale “Gaio Cilnio Mecenate” e Anfiteatro romano
-823,26,Sede di Castello di Capua
-824,20,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Ravenna, Forlì-Cesena e Rimini"
-825,7,Sede di Villa Jovis
-826,7,Sede di Archivio di Stato di Taranto
-827,26,Sede di Galleria Giorgio Franchetti alla Ca' d'Oro
-828,24,Sede di Parco archeologico di Cerveteri e Tarquinia - Museo nazionale archeologico Cerite
-829,47,Sede di Villa Adriana e Villa d'Este - Santuario di Ercole Vincitore
-830,9,Sede di Archivio di Stato di Arezzo
-831,2,Sede di Archivio di Stato di Foggia
-832,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la Provincia di Cosenza"
-833,13,Sede di Archivio di Stato di Udine
-834,24,Sede di Gallerie Nazionali di Arte Antica - Palazzo Barberini
-835,104,Sede di Museo Palazzo Reale di Genova
-836,12,Sede di Palazzo Reale di Milano
-837,115,Sede di Direzione Regionale Musei Piemonte
-838,24,Sede di Archivio di Stato di Pordenone
-839,14,Sede di Palazzo De Lieto - Pinacoteca Angelo Brando di Maratea
-840,21,Sede di Museo nazionale archeologico e Castello di Manfredonia
-841,11,Sede di Segretario Generale
-842,1,Sede di Centro di paleontologia vegetale della foresta fossile di Dunarobba
-843,11,Sede di Palazzo Reale di Genova
-844,18,Sede di Parco archeologico dei Campi Flegrei - Museo archeologico dei Campi Flegrei nel Castello di Baia
-845,12,Sede di Archivio di Stato di Perugia. Sezione di Foligno
-846,10,Sede di Biblioteca Statale Annessa al Monumento Nazionale di Grottaferrata
-847,1,Sede di Castel Stenico
-848,11,Sede di Archivio di Stato di Livorno
-849,72,Sede di Biblioteca Nazionale di Cosenza
-850,24,Sede di Archivio di Stato di Pescara
-851,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio del Friuli Venezia Giulia"
-852,9,Sede di Archivio di Stato di Pesaro-Urbino. Sezione di Urbino
-853,29,Sede di Soprintendenza Archivistica e Bibliografica della Puglia
-854,12,Sede di Archivio di Stato di Caserta
-855,10,Sede di Archivio di Stato di Frosinone
-856,44,Sede di Giardino della Villa medicea di Castello
-857,33,Sede di Parco archeologico dell'Appia antica - Parco delle Tombe della via Latina e Basilica di Santo Stefano
-858,164,Sede di Museo storico e il Parco del Castello di Miramare
-859,64,Sede di Biblioteca Vallicelliana
-860,26,Sede di Museo archeologico nazionale della Siritide - Policoro
-861,15,Sede di Certosa di San Lorenzo
-862,1,Sede di Certosa monumentale di Calci
-863,15,Sede di Area archeologica di Comeana - Tumuli di Montefortini e Boschetti
-864,35,Sede di Palazzo Carignano
-865,21,Sede di Area archeologica di Roselle
-866,2,Sede di Palazzo Sinesi
-867,9,Sede di Castello di Moncalieri
-868,3,Sede di Area archeologica di Augusta Bagiennorum
-869,13,Sede di Parco Nazionale delle Incisioni Rupestri
-870,13,Sede di MUPRE - Museo Nazionale della Preistoria della Valle Camonica
-871,40,Sede di Castello Scaligero di Sirmione
-872,17,Sede di Cappella Espiatoria
-873,11,Sede di Complesso Monumentale e Museo della Certosa di Pavia
-874,28,Sede di Istituto Centrale per la Grafica
-875,18,Sede di Direzione Regionale Musei Friuli Venezia Giulia
-876,2,Sede di Museo archeologico statale e Parco archeologico di Urbs Salvia
-877,13,Sede di Palazzo Pepoli Campogrande
-878,49,Sede di Area archeologica di Carsulae
-879,7,Sede di Reggia di Caserta
-880,2,Sede di Museo Archeologico Nazionale di Cagliari
-881,5,Sede di Biblioteca Medicea Laurenziana
-882,1,Sede di Gallerie degli Uffizi - Palazzo Pitti
-883,3,Sede di Soprintendenza Archivistica e Bibliografica della Liguria
-884,17,Sede di Area archeologica e Antiquarium di Veleia
-885,22,Sede di Fortezza Firmafede
-886,25,Sede di Castello di Torrechiara
-887,6,Sede di Carcere Borbonico
-888,16,Sede di Villa Adriana e Villa d'Este
+740,1,Sede di Gallerie degli Uffizi - Palazzo Pitti
+741,35,Sede di Pinacoteca di Brera - Biblioteca Nazionale Braidense di Milano
+742,29,Sede di Soprintendenza Archivistica e Bibliografica della Puglia
+743,48,Sede di Museo archeologico nazionale di Adria
+744,37,Sede di Museo e Parco archeologico nazionale di Locri
+745,54,"Sede di Museo archeologico nazionale ""Vito Capialbi"""
+746,96,Sede di Museo archeologico nazionale di Reggio Calabria
+747,1018,Sede di Ministero della cultura
+748,421,Sede di Museo delle Civiltà
+749,67,Sede di Museo archeologico nazionale di Cividale del Friuli
+750,18,Sede di Galleria Nazionale delle Marche
+751,92,Sede di Rocca Roveresca di Senigallia
+752,9,Sede di Gallerie Nazionali di Arte Antica - Galleria Corsini
+753,143,Sede di Parco archeologico di Ostia antica - Area archeologica di Ostia antica
+754,7,Sede di Parco archeologico di Ostia antica - Museo delle navi
+755,10,Sede di Parco archeologico di Ostia antica - Necropoli di Porto - Isola Sacra
+756,45,Sede di Musei del Bargello - Museo nazionale del Bargello
+757,56,Sede di Antiquarium statale di Numana
+758,4,Sede di Musei del Bargello - Cappelle Medicee
+759,31,Sede di Museo Storico e il Parco del Castello di Miramare
+760,54,Sede di MuNDA - Museo nazionale d'Abruzzo
+761,92,Sede di Museo nazionale romano - Palazzo Massimo
+762,8,Sede di Soprintendenza Archivistica e Bibliografica del Veneto e del Trentino Alto-Adige
+763,44,Sede di Museo Diego Aragona Pignatelli Cortes e Museo delle Carrozze
+764,43,Sede di Grotte di Catullo e Museo Archeologico di Sirmione
+765,45,Sede di Villa Romana e Antiquarium
+766,39,Sede di Pinacoteca nazionale di Sassari
+767,10,Sede di Museo archeologico di Quarto d'Altino
+768,98,Sede di Parco archeologico del Colosseo - Foro Romano e Palatino
+769,30,Sede di Museo archeologico nazionale del Sannio Caudino
+770,63,Sede di Galleria Spada
+771,1,Sede di Museo archeologico Caburrum
+772,12,Sede di Museo archeologico nazionale di Chiavari
+773,31,"Sede di Galleria nazionale della Puglia ""Girolamo e Rosaria Devanna"""
+774,1,Sede di Area Archeologica del Santuario Etrusco di Cannicella
+775,23,Sede di Museo archeologico nazionale e Castello di Gioia del Colle
+776,23,Sede di Biblioteca Statale di Macerata
+777,2,Sede di Museo civico Polironiano
+778,23,Sede di Soprintendenza Archivistica della Sicilia - Archivio di Stato di Palermo
+779,23,Sede di Complesso monumentale di San Vincenzo al Volturno
+780,19,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio dell'Umbria"
+781,31,Sede di Museo archeologico di Eboli e della Media Valle del Sele e Aree archeologiche delle fornaci SS. Cosma e Damiano e della Villa Romana di Paterno
+782,10,Sede di Archivio di Stato di Biella
+783,19,Sede di Museo archeologico nazionale di Metaponto
+784,62,Sede di Musei Reali
+785,19,Sede di Archivio di Stato di Perugia. Sezione di Spoleto
+786,19,Sede di Museo delle navi romane di Nemi
+787,162,Sede di Museo archeologico nazionale di Taranto - MArTA
+788,160,Sede di Gallerie dell'Accademia di Venezia
+789,9,Sede di Archivio di Stato di Ancona
+790,19,Sede di Biblioteca Universitaria di Padova
+791,21,Sede di Biblioteca Nazionale Marciana di Venezia
+792,37,Sede di Archivio di Stato di Torino
+793,5,Sede di Archivio di Stato di Sondrio
+794,20,Sede di Archivio di Stato di Bari
+795,32,Sede di Parco archeologico di Paestum e Velia - Museo archeologico nazionale
+796,98,Sede di Biblioteca Universitaria di Sassari
+797,51,Sede di Pinacoteca di Brera
+798,13,Sede di Archivio di Stato di Vercelli
+799,21,"Sede di Biblioteca nazionale di Napoli ""Vittorio Emanuele III"""
+800,1,Sede di Soprintendenza Nazionale per Il Patrimonio Culturale Subacqueo
+801,6,Sede di Archivio di Stato di Novara
+802,17,Sede di Archivio di Stato di Trapani
+803,9,Sede di Archivio di Stato di Enna
+804,11,Sede di Gallerie degli Uffizi
+805,45,Sede di Archivio di Stato di Perugia
+806,8,Sede di Archivio di Stato di Bari. Sezione di Trani 
+807,14,Sede di Archivio di Stato di Avellino
+808,21,Sede di Parco archeologico di Cerveteri e Tarquinia - Museo archeologico nazionale di Tarquinia
+809,7,Sede di Museo diocesano Mons. Aurelio Sorrentino
+810,36,Sede di Direzione regionale Musei Calabria
+811,11,Sede di Archivio di Stato di Matera
+812,17,Sede di Forte San Giovanni
+813,55,Sede di Archivio di Stato di Cosenza
+814,28,Sede di Pinacoteca nazionale di Siena
+815,2,Sede di Biblioteca Universitaria di Pisa
+816,16,Sede di Archivio di Stato di Venezia
+817,9,Sede di Archivio di Stato di Caltanissetta
+818,1,Sede di Gallerie degli Uffizi - Museo delle porcellane
+819,110,Sede di Palazzo Reale di Napoli
+820,15,Sede di Segretariato Regionale del Ministero della cultura per la Liguria
+821,14,Sede di Museo nazionale d'arte medievale e moderna
+822,1,Sede di Museo civico per la preistoria del Monte Cetona
+823,86,Sede di Museo di San Marco
+824,41,Sede di Museo archeologico nazionale “Gaio Cilnio Mecenate” e Anfiteatro romano
+825,26,Sede di Castello di Capua
+826,20,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Ravenna, Forlì-Cesena e Rimini"
+827,7,Sede di Villa Jovis
+828,7,Sede di Archivio di Stato di Taranto
+829,26,Sede di Galleria Giorgio Franchetti alla Ca' d'Oro
+830,24,Sede di Parco archeologico di Cerveteri e Tarquinia - Museo nazionale archeologico Cerite
+831,47,Sede di Villa Adriana e Villa d'Este - Santuario di Ercole Vincitore
+832,9,Sede di Archivio di Stato di Arezzo
+833,2,Sede di Archivio di Stato di Foggia
+834,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la Provincia di Cosenza"
+835,13,Sede di Archivio di Stato di Udine
+836,24,Sede di Gallerie Nazionali di Arte Antica - Palazzo Barberini
+837,104,Sede di Museo Palazzo Reale di Genova
+838,12,Sede di Palazzo Reale di Milano
+839,115,Sede di Direzione Regionale Musei Piemonte
+840,24,Sede di Archivio di Stato di Pordenone
+841,14,Sede di Palazzo De Lieto - Pinacoteca Angelo Brando di Maratea
+842,21,Sede di Museo nazionale archeologico e Castello di Manfredonia
+843,11,Sede di Segretario Generale
+844,1,Sede di Centro di paleontologia vegetale della foresta fossile di Dunarobba
+845,11,Sede di Palazzo Reale di Genova
+846,18,Sede di Parco archeologico dei Campi Flegrei - Museo archeologico dei Campi Flegrei nel Castello di Baia
+847,12,Sede di Archivio di Stato di Perugia. Sezione di Foligno
+848,10,Sede di Biblioteca Statale Annessa al Monumento Nazionale di Grottaferrata
+849,1,Sede di Castel Stenico
+850,11,Sede di Archivio di Stato di Livorno
+851,72,Sede di Biblioteca Nazionale di Cosenza
+852,24,Sede di Archivio di Stato di Pescara
+853,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio del Friuli Venezia Giulia"
+854,9,Sede di Archivio di Stato di Pesaro-Urbino. Sezione di Urbino
+855,12,Sede di Archivio di Stato di Caserta
+856,10,Sede di Archivio di Stato di Frosinone
+857,44,Sede di Giardino della Villa medicea di Castello
+858,33,Sede di Parco archeologico dell'Appia antica - Parco delle Tombe della via Latina e Basilica di Santo Stefano
+859,164,Sede di Museo storico e il Parco del Castello di Miramare
+860,64,Sede di Biblioteca Vallicelliana
+861,26,Sede di Museo archeologico nazionale della Siritide - Policoro
+862,15,Sede di Certosa di San Lorenzo
+863,1,Sede di Certosa monumentale di Calci
+864,15,Sede di Area archeologica di Comeana - Tumuli di Montefortini e Boschetti
+865,35,Sede di Palazzo Carignano
+866,21,Sede di Area archeologica di Roselle
+867,2,Sede di Palazzo Sinesi
+868,9,Sede di Castello di Moncalieri
+869,3,Sede di Area archeologica di Augusta Bagiennorum
+870,13,Sede di Parco Nazionale delle Incisioni Rupestri
+871,13,Sede di MUPRE - Museo Nazionale della Preistoria della Valle Camonica
+872,40,Sede di Castello Scaligero di Sirmione
+873,17,Sede di Cappella Espiatoria
+874,11,Sede di Complesso Monumentale e Museo della Certosa di Pavia
+875,28,Sede di Istituto Centrale per la Grafica
+876,18,Sede di Direzione Regionale Musei Friuli Venezia Giulia
+877,2,Sede di Museo archeologico statale e Parco archeologico di Urbs Salvia
+878,13,Sede di Palazzo Pepoli Campogrande
+879,49,Sede di Area archeologica di Carsulae
+880,7,Sede di Reggia di Caserta
+881,2,Sede di Museo Archeologico Nazionale di Cagliari
+882,5,Sede di Biblioteca Medicea Laurenziana
+883,16,Sede di Villa Adriana e Villa d'Este
+884,3,Sede di Soprintendenza Archivistica e Bibliografica della Liguria
+885,17,Sede di Area archeologica e Antiquarium di Veleia
+886,22,Sede di Fortezza Firmafede
+887,25,Sede di Castello di Torrechiara
+888,6,Sede di Carcere Borbonico
 889,20,Sede di Museo archeologico statale di Cingoli
 890,16,Sede di Museo archeologico nazionale di Civitavecchia
 891,100,Sede di Museo archeologico nazionale di Aquileia
@@ -940,60 +940,60 @@
 938,2,Sede di MAV - Museo Archeologico Virtuale
 939,12,Sede di Museo nazionale Etrusco di Villa Giulia
 940,6,Sede di Parco Archeologico di Ercolano
-941,3,Sede di Parco Archeologico di Rudiae
-942,5,Sede di Archivio di Stato di Nuoro
-943,3,Sede di Civico museo archelogico della Valle Sabbia
-944,2,Sede di Gallerie degli Uffizi - Museo della Moda e del Costume (Palazzo Pitti)
-945,3,Sede di MAT - Museo dell’Alto Tavoliere di San Severo
-946,1,Sede di Museo provinciale di storia naturale
-947,8,Sede di Rione Testaccio
-948,1,Sede di Museo civico di Castel Bolognese
-949,24,Sede di Musei del Bargello - Museo delle Cappelle Medicee
-950,3,Sede di Villa Durazzo
-951,4,Sede di Biblioteca Universitaria Alessandrina di Roma
-952,6,Sede di Soprintendenza Archivistica e Bibliografica della Toscana
-953,14,Sede di Parco archeologico dei Campi Flegrei - Parco archeologico di Cuma
-954,9,"Sede di Parco archeologico dei Campi Flegrei - Anfiteatro Flavio, Puteoli"
-955,33,"Sede di Complesso monumentale del Castello ducale, del giardino e parco di Aglié"
-956,18,Sede di Le Castella
-957,13,Sede di Museo statale di Mileto
-958,23,Sede di Museo e Parco archeologico dell'Antica Kaulon
-959,5,Sede di Museo archeologico nazionale di Amendolara
-960,1,Sede di Villa Corsini a Castello
-961,3,Sede di Oratorio di San Desiderio
-962,21,Sede di Santuario italico
-963,1,Sede di Museo civico Visconti Venosta
-964,1,Sede di Museo per la storia dell’Università di Pavia
-965,7,Sede di Museo dell’ara Pacis Augustae
-966,9,Sede di Museo nazionale della scienza e della tecnologia Leonardo da Vinci
-967,7,Sede di Museo nazionale Romano
-968,30,Sede di Museo archeologico nazionale e zona archeologica di Luni
-969,11,Sede di MAO - Museo d’Arte Orientale
-970,6,Sede di Madre - Museo d’arte contemporanea Donnaregina
-971,1,Sede di Museo mineralogico campano
-972,2,Sede di Chiostro di San Domenico
-973,2,Sede di Museo del sigillo
-974,1,Sede di Complesso termale di Via Terracina
-975,4,Sede di Biblioteca Statale del Monumento Nazionale di Grottaferrata
-976,1,Sede di Casa-Museo di Palazzo Sorbello
-977,30,"Sede di Pinacoteca civica ""Francesco Podesti"""
-978,5,Sede di Palazzo Barrago
-979,13,Sede di Archivio di Stato di Vibo Valentia
-980,11,"Sede di Direzione Generale Educazione, ricerca e istituti culturali"
-981,2,Sede di Pinacoteca provinciale di Salerno
-982,1,"Sede di Area archeologica ""Santa Vittoria"""
-983,1,"Sede di Pinacoteca ""Giuseppe De Nittis"""
-984,1,Sede di Archivio storico
-985,13,Sede di Segretariato Regionale del Ministero della cultura per il Veneto
-986,2,Sede di Museo d'arte contemporanea Casa del console
-987,8,Sede di Segretariato Regionale del Ministero della cultura per il Friuli Venezia Giulia
-988,1,Sede di Galleria d’arte di Palazzo Sarcinelli
-989,1,Sede di MuDOP - Museo Diocesano Oppido-Palmi
-990,5,Sede di Palazzo Medici Riccardi
-991,8,Sede di Gallerie d'Italia
-992,5,Sede di Castello Estense
-993,2,Sede di Musei civici - Pinacoteca e museo della carrozza
-994,2,Sede di Polo museale di San Francesco
+941,6,Sede di Madre - Museo d’arte contemporanea Donnaregina
+942,1,Sede di Museo mineralogico campano
+943,3,Sede di Parco Archeologico di Rudiae
+944,5,Sede di Archivio di Stato di Nuoro
+945,3,Sede di Civico museo archelogico della Valle Sabbia
+946,2,Sede di Gallerie degli Uffizi - Museo della Moda e del Costume (Palazzo Pitti)
+947,3,Sede di MAT - Museo dell’Alto Tavoliere di San Severo
+948,1,Sede di Museo provinciale di storia naturale
+949,8,Sede di Rione Testaccio
+950,1,Sede di Museo civico di Castel Bolognese
+951,24,Sede di Musei del Bargello - Museo delle Cappelle Medicee
+952,3,Sede di Villa Durazzo
+953,4,Sede di Biblioteca Universitaria Alessandrina di Roma
+954,6,Sede di Soprintendenza Archivistica e Bibliografica della Toscana
+955,14,Sede di Parco archeologico dei Campi Flegrei - Parco archeologico di Cuma
+956,9,"Sede di Parco archeologico dei Campi Flegrei - Anfiteatro Flavio, Puteoli"
+957,33,"Sede di Complesso monumentale del Castello ducale, del giardino e parco di Aglié"
+958,18,Sede di Le Castella
+959,13,Sede di Museo statale di Mileto
+960,23,Sede di Museo e Parco archeologico dell'Antica Kaulon
+961,5,Sede di Museo archeologico nazionale di Amendolara
+962,1,Sede di Villa Corsini a Castello
+963,3,Sede di Oratorio di San Desiderio
+964,21,Sede di Santuario italico
+965,1,Sede di Museo civico Visconti Venosta
+966,1,Sede di Museo per la storia dell’Università di Pavia
+967,7,Sede di Museo dell’ara Pacis Augustae
+968,9,Sede di Museo nazionale della scienza e della tecnologia Leonardo da Vinci
+969,7,Sede di Museo nazionale Romano
+970,30,Sede di Museo archeologico nazionale e zona archeologica di Luni
+971,11,Sede di MAO - Museo d’Arte Orientale
+972,8,Sede di Segretariato Regionale del Ministero della cultura per la Puglia
+973,2,Sede di Chiostro di San Domenico
+974,2,Sede di Museo del sigillo
+975,1,Sede di Complesso termale di Via Terracina
+976,4,Sede di Biblioteca Statale del Monumento Nazionale di Grottaferrata
+977,1,Sede di Casa-Museo di Palazzo Sorbello
+978,30,"Sede di Pinacoteca civica ""Francesco Podesti"""
+979,5,Sede di Palazzo Barrago
+980,13,Sede di Archivio di Stato di Vibo Valentia
+981,11,"Sede di Direzione Generale Educazione, ricerca e istituti culturali"
+982,2,Sede di Pinacoteca provinciale di Salerno
+983,1,"Sede di Area archeologica ""Santa Vittoria"""
+984,1,"Sede di Pinacoteca ""Giuseppe De Nittis"""
+985,1,Sede di Archivio storico
+986,13,Sede di Segretariato Regionale del Ministero della cultura per il Veneto
+987,2,Sede di Museo d'arte contemporanea Casa del console
+988,8,Sede di Segretariato Regionale del Ministero della cultura per il Friuli Venezia Giulia
+989,1,Sede di Galleria d’arte di Palazzo Sarcinelli
+990,1,Sede di MuDOP - Museo Diocesano Oppido-Palmi
+991,5,Sede di Palazzo Medici Riccardi
+992,8,Sede di Gallerie d'Italia
+993,5,Sede di Castello Estense
+994,2,Sede di Musei civici - Pinacoteca e museo della carrozza
 995,3,Sede di Museo dell'ossidiana
 996,2,"Sede di Museo etnografico ""Antico mulino ad acqua Licheri"""
 997,2,Sede di Pinacoteca comunale di Città di Castello
@@ -1070,60 +1070,60 @@
 1068,4,Sede di Museo del corallo di Alghero
 1069,3,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per l'area Metropolitana di Napoli"
 1070,1,Sede di Musei di Palazzo dei Pio - Museo del Palazzo
-1071,1,Sede di Museo civico di arte antica in Palazzo Comunale
-1072,1,Sede di Museo civico di scienze naturali Enrico Caffi
-1073,4,Sede di Ex Convento di San Francesco della Scarpa
-1074,2,Sede di Palazzo Perrando
-1075,2,Sede di Museo artistico della bambola - Collezione Maria Micaelli
-1076,2,Sede di Parco archeominerario di San Silvestro
-1077,3,Sede di Museo ferroviario piemontese
-1078,6,Sede di Opificio delle Pietre Dure
-1079,1,Sede di Criptoportico forense di Aosta
-1080,1,Sede di Loggia della Mercanzia o Loggia di Banchi
-1081,2,Sede di Segretariato Regionale del Ministero della cultura per l'Emilia-Romagna
-1082,2,Sede di Giardini botanici Hanbury - Centro universitario di servizi
-1083,4,"Sede di Museo archeologico e antiquarium ""Archeoderi"""
-1084,4,Sede di Museo archeologico di Metauros
-1085,4,Sede di Parco archeologico di Cerveteri e Tarquinia
-1086,4,Sede di Archivio di Stato di Cremona
-1087,2,Sede di Palazzo Rocca Costaguta
-1088,1,Sede di Teatro San Carlo
-1089,2,Sede di Museo civico di Piedimonte Matese
-1090,3,Sede di Museo del Novecento di Milano
-1091,5,Sede di Musei capitolini
-1092,1,Sede di Palazzo Gavotti
-1093,1,Sede di Teatro del Collegio di San Carlo
-1094,1,Sede di Parco archeologico di Pompei - Scavi archeologici di Stabiae (Villa Arianna)
-1095,1,Sede di Area archeologica di Segesta
-1096,1,Sede di Il Borgo del Maglio - Museo Il Maglio Averoldi - Casa museo Pietro Malossi
-1097,1,Sede di Museo delle icone e d’arte sacra
-1098,1,Sede di Gallerie Estensi - Museo lapidario estense
-1099,1,Sede di Museo diocesano di Pozzuoli
-1100,1,Sede di Cappella di San Severo
-1101,1,"Sede di Museo etnografico ""Francesco Prelorenzo"""
-1102,1,Sede di Museo Folligeniali
-1103,1,Sede di Abbazia di Montevergine
-1104,1,Sede di Palazzo vecchio del comune - battistero di Albenga
-1105,2,Sede di Castello di Ceglie del Campo
-1106,1,"Sede di Museo delle arti monastiche ""Le Stanze del Tempo Sospeso"""
-1107,3,Sede di Galleria d’arte moderna di Roma
-1108,2,Sede di Abbazia di Soffena
-1109,3,Sede di Museo Sigismondo Castromediano
-1110,1,Sede di Museo di Palazzo Ducale di Mantova
-1111,1,Sede di Abbazia greca di San Nilo e Museo dell'Abbazia
-1112,1,Sede di Museo Emilio Greco
-1113,1,Sede di Castello dei Conti Guidi - Mostre permanenti
+1071,2,Sede di Museo civico di Piedimonte Matese
+1072,3,Sede di Museo del Novecento di Milano
+1073,1,Sede di Museo civico di arte antica in Palazzo Comunale
+1074,1,Sede di Museo civico di scienze naturali Enrico Caffi
+1075,4,Sede di Ex Convento di San Francesco della Scarpa
+1076,2,Sede di Palazzo Perrando
+1077,2,Sede di Museo artistico della bambola - Collezione Maria Micaelli
+1078,2,Sede di Parco archeominerario di San Silvestro
+1079,3,Sede di Museo ferroviario piemontese
+1080,6,Sede di Opificio delle Pietre Dure
+1081,1,Sede di Criptoportico forense di Aosta
+1082,1,Sede di Loggia della Mercanzia o Loggia di Banchi
+1083,2,Sede di Segretariato Regionale del Ministero della cultura per l'Emilia-Romagna
+1084,2,Sede di Giardini botanici Hanbury - Centro universitario di servizi
+1085,4,"Sede di Museo archeologico e antiquarium ""Archeoderi"""
+1086,4,Sede di Museo archeologico di Metauros
+1087,4,Sede di Parco archeologico di Cerveteri e Tarquinia
+1088,4,Sede di Archivio di Stato di Cremona
+1089,2,Sede di Palazzo Rocca Costaguta
+1090,1,Sede di Teatro San Carlo
+1091,1,"Sede di Museo delle arti monastiche ""Le Stanze del Tempo Sospeso"""
+1092,3,Sede di Galleria d’arte moderna di Roma
+1093,5,Sede di Musei capitolini
+1094,1,Sede di Palazzo Gavotti
+1095,1,Sede di Teatro del Collegio di San Carlo
+1096,1,Sede di Parco archeologico di Pompei - Scavi archeologici di Stabiae (Villa Arianna)
+1097,1,Sede di Area archeologica di Segesta
+1098,1,Sede di Il Borgo del Maglio - Museo Il Maglio Averoldi - Casa museo Pietro Malossi
+1099,1,Sede di Museo delle icone e d’arte sacra
+1100,1,Sede di Gallerie Estensi - Museo lapidario estense
+1101,1,Sede di Museo diocesano di Pozzuoli
+1102,1,Sede di Cappella di San Severo
+1103,1,"Sede di Museo etnografico ""Francesco Prelorenzo"""
+1104,1,Sede di Museo Folligeniali
+1105,1,Sede di Abbazia di Montevergine
+1106,1,Sede di Palazzo vecchio del comune - battistero di Albenga
+1107,2,Sede di Castello di Ceglie del Campo
+1108,1,Sede di Castello dei Conti Guidi - Mostre permanenti
+1109,2,Sede di Abbazia di Soffena
+1110,3,Sede di Museo Sigismondo Castromediano
+1111,1,Sede di Museo di Palazzo Ducale di Mantova
+1112,1,Sede di Abbazia greca di San Nilo e Museo dell'Abbazia
+1113,1,Sede di Museo Emilio Greco
 1114,2,Sede di Museo archeologico nazionale di Siena
 1115,1,Sede di Museo civico di Sansepolcro
 1116,1,Sede di Museo della ceramica di Montelupo
 1117,1,Sede di Complesso di Santa Chiara e San Francesco della Scarpa
 1118,1,Sede di Casa di Goethe
 1119,1,Sede di Spazio San Pancrazio
-1120,3,Sede di Archivio di Stato di Roma. Sede distaccata
-1121,3,Sede di Museo napoleonico
-1122,1,Sede di Parco archeologico dei Campi Flegrei - Parco archeologico di Liternum
-1123,1,Sede di Museo della città Civico e Diocesano di Acquapendente
-1124,2,Sede di Museo diocesano di Padova
+1120,2,Sede di Museo diocesano di Padova
+1121,3,Sede di Archivio di Stato di Roma. Sede distaccata
+1122,3,Sede di Museo napoleonico
+1123,1,Sede di Parco archeologico dei Campi Flegrei - Parco archeologico di Liternum
+1124,1,Sede di Museo della città Civico e Diocesano di Acquapendente
 1125,2,Sede di Archivio Storico Regione Liguria
 1126,2,Sede di Archivio di Stato di Siracusa
 1127,2,Sede di Museo archeologico di Cesena
@@ -1165,22 +1165,22 @@
 1163,2,Sede di Chiesa di Santa Marta
 1164,1,Sede di Museo archeologico e d'arte della Maremma
 1165,1,Sede di Casalino Farsetti
-1166,1,"Sede di Museo archeologico versiliese ""Bruno Antonucci"""
-1167,1,"Sede di Museo d'arte moderna e contemporanea ""Antonio Ortiz Echague"""
-1168,1,Sede di Museo nazionale ferroviario di Pietrarsa
-1169,1,"Sede di Pinacoteca ""Michele De Napoli"""
-1170,2,Sede di Museo preistorico dell'Isolino Virginia
-1171,1,Sede di Biblioteche Riunite “ Civica e A. Ursino e Recupero”.
-1172,1,Sede di Palazzo Merulana
-1173,1,Sede di Museo della ceramica di Grottaglie
-1174,1,Sede di Area archeologica Villa dei Nonii Arrii
-1175,1,Sede di Galleria d'Arte Moderna Paolo e Adele Giannoni
-1176,2,Sede di Musei civici di Cuneo - Casa museo Galimberti
-1177,1,Sede di Museo del carbone
-1178,1,Sede di Museo delle langhe
-1179,1,Sede di Villa Romana di Toscolano Maderno
-1180,1,Sede di Anfiteatro verlasce
-1181,2,Sede di Villa Reale di Monza
+1166,2,Sede di Villa Reale di Monza
+1167,1,"Sede di Museo archeologico versiliese ""Bruno Antonucci"""
+1168,1,"Sede di Museo d'arte moderna e contemporanea ""Antonio Ortiz Echague"""
+1169,1,Sede di Museo nazionale ferroviario di Pietrarsa
+1170,1,"Sede di Pinacoteca ""Michele De Napoli"""
+1171,2,Sede di Museo preistorico dell'Isolino Virginia
+1172,1,Sede di Biblioteche Riunite “ Civica e A. Ursino e Recupero”.
+1173,1,Sede di Palazzo Merulana
+1174,1,Sede di Museo della ceramica di Grottaglie
+1175,1,Sede di Area archeologica Villa dei Nonii Arrii
+1176,1,Sede di Galleria d'Arte Moderna Paolo e Adele Giannoni
+1177,2,Sede di Musei civici di Cuneo - Casa museo Galimberti
+1178,1,Sede di Museo del carbone
+1179,1,Sede di Museo delle langhe
+1180,1,Sede di Villa Romana di Toscolano Maderno
+1181,1,Sede di Anfiteatro verlasce
 1182,1,"Sede di Museo civico, archeologico e della Collegiata"
 1183,1,Sede di Archivio di Stato di Perugia. Sezione di Gubbio
 1184,1,Sede di Palais Mamming Museum
@@ -1190,18 +1190,18 @@
 1188,2,Sede di Palazzo Roverella
 1189,2,Sede di Museo archeologico e paleobotanico di Perfugas
 1190,1,Sede di Convento dei Cappuccini
-1191,1,Sede di Museo dell’Abbazia di Morimondo
-1192,1,Sede di Museo della Regina
-1193,3,Sede di Museo archeologico di Santa Maria delle Monache
-1194,3,Sede di Museo Sannitico
-1195,3,Sede di Palazzo Pistilli
-1196,2,Sede di Museo archeologico dell'Agro Falisco e Forte Sangallo
-1197,1,Sede di Museo archeologico cadorino
-1198,1,Sede di Area archeologica di Marzabotto
-1199,1,Sede di Fortezza di Castruccio Castracani
-1200,2,Sede di Museo archeologico nazionale dell'Antica Allifae
-1201,2,Sede di Museo archeologico di Vulci
-1202,2,Sede di Mitreo Barberini
+1191,2,Sede di Mitreo Barberini
+1192,1,Sede di Museo dell’Abbazia di Morimondo
+1193,1,Sede di Museo della Regina
+1194,3,Sede di Museo archeologico di Santa Maria delle Monache
+1195,3,Sede di Museo Sannitico
+1196,3,Sede di Palazzo Pistilli
+1197,2,Sede di Museo archeologico dell'Agro Falisco e Forte Sangallo
+1198,1,Sede di Museo archeologico cadorino
+1199,1,Sede di Area archeologica di Marzabotto
+1200,1,Sede di Fortezza di Castruccio Castracani
+1201,2,Sede di Museo archeologico nazionale dell'Antica Allifae
+1202,2,Sede di Museo archeologico di Vulci
 1203,1,Sede di Su tempiesu
 1204,1,"Sede di Musei civici di Villa Paolina - Museo archeologico Alberto Carlo Blanc, Museo degli strumenti musicali Giovanni Ciuffreda e Atelier Alfredo Catarsini"
 1205,2,Sede di Museo pucciniano di Celle di Pescaglia
@@ -1212,129 +1212,129 @@
 1210,1,Sede di Parco Archeologico dell'Appia antica - Torre del Fiscale
 1211,3,Sede di Museo nazionale dell'età neoclassica in Romagna in Palazzo Milzetti
 1212,2,Sede di Parco Archeologico della Sibaritide
-1213,79,Sede di Biblioteca nazionale Marciana - Sale monumentali
-1214,25,Sede di Fortezza di Santa Barbara
-1215,89,Sede di Castel Sant'Elmo e Museo del Novecento a Napoli
-1216,57,Sede di Museo archeologico statale di Ascoli Piceno
-1217,2,Sede di Parco archeologica di Ostia antica - Castello Giulio II
-1218,2,Sede di Parco archeologico di Ostia antica - Complesso degli antichi Porti di Claudio e Traiano
-1219,17,Sede di Archivio di Stato di Piacenza
-1220,18,Sede di Palazzo Spinola
-1221,42,Sede di Museo nazionale romano - Crypta Balbi
-1222,115,Sede di Museo nazionale romano - Palazzo Altemps
-1223,40,Sede di Villa della Regina
-1224,17,Sede di Biblioteca Marucelliana
-1225,434,Sede di Museo nazionale etrusco di Villa Giulia
-1226,37,Sede di Parco archeologico di Ercolano - Area archeologica
-1227,4,Sede di Altare prenuragico di Monte d’Accoddi
-1228,1,Sede di Museo Antiquarium Turritano di Porto Torres
-1229,32,"Sede di Museo nazionale archeologico ed etnografico ""Giovanni Antonio Sanna"""
-1230,1,"Sede di Museo archeologico nazionale ""Giorgio Asproni"""
-1231,13,"Sede di Museo nazionale etrusco, Necropoli di Poggio Renzo e Tomba del Colle"
-1232,67,Sede di Galleria Nazionale d'Arte Moderna e Contemporanea
-1233,8,Sede di Scuderie del Quirinale
-1234,4,Sede di Biblioteca nazionale Marciana - Sale monumentali e Ridotti dei Procuratori
-1235,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Caserta e Benevento"
-1236,3,Sede di Area archeologica di Cosa
-1237,43,Sede di Archivio di Stato di Roma
-1238,4,Sede di Pinacoteca Nazionale e Museo di Palazzo Mansi
-1239,210,Sede di Direzione regionale Musei Lombardia
-1240,98,Sede di Direzione Regionale Musei Campania
-1241,12,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Brindisi e Lecce"
-1242,50,Sede di Direzione Musei Statali della Città di Roma
-1243,8,Sede di Archivio di Stato di Verbania
-1244,11,Sede di Parco Archeologico di Ostia Antica
-1245,14,Sede di Direzione Regionale Musei Molise
-1246,16,Sede di Museo delle arti e tradizioni popolari dell’Alta Valle del Tevere - Palazzo Taglieschi
-1247,12,Sede di Museo nazionale Jatta
-1248,31,Sede di Gallerie Estensi - Galleria estense
-1249,16,Sede di Parco archeologico di Sepino - Area archeologica di Altilia-Saepinum
-1250,30,Sede di Museo archeologico di Venafro
-1251,12,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di L'Aquila e Teramo"
-1252,3,Sede di Biblioteca Statale Isontina di Gorizia
-1253,25,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la Basilicata"
-1254,67,Sede di Museo della ceramica Duca di Martina in Villa Floridiana
-1255,17,Sede di Archivio di Stato di Perugia. Sezione di Assisi
-1256,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la provincia di Viterbo e per l'Etruria meridionale"
-1257,74,Sede di Galleria nazionale di Cosenza
-1258,25,Sede di Biblioteca nazionale centrale di Roma
-1259,1,Sede di Castel Thun
-1260,159,Sede di Biblioteca Universitaria di Genova
-1261,40,Sede di Archivio di Stato di Firenze
-1262,17,Sede di Biblioteca Marucelliana di Firenze
-1263,58,Sede di Biblioteca Universitaria di Napoli
-1264,8,Sede di Istituto Centrale per la Patologia degli Archivi e del Libro
-1265,9,Sede di Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche - ICCU
-1266,17,Sede di Archivio di Stato di Salerno
-1267,10,Sede di Archivio di Stato di Massa
-1268,12,Sede di Archivio di Stato di Trieste
-1269,20,Sede di Soprintendenza Archivistica e Bibliografica della Lombardia
-1270,3,"Sede di Archivio di Stato di Bologna, Sezione di Imola"
-1271,54,Sede di Museo nazionale degli strumenti musicali
-1272,23,Sede di Museo di Casa Vasari
-1273,47,Sede di Biblioteca Nazionale di Potenza
-1274,134,Sede di Anfiteatro campano
-1275,6,Sede di Archivio di Stato di Trento
-1276,17,Sede di Archivio di Stato di Ascoli Piceno
-1277,11,Sede di Archivio di Stato di Fermo
-1278,56,Sede di Complesso Monumentale della Pilotta
-1279,16,Sede di Archivio di Stato di Brescia
-1280,8,Sede di Biblioteca Nazionale  Sagarriga Visconti Volpi
-1281,22,Sede di Museo nazionale della Certosa monumentale di Calci
-1282,4,Sede di Museo diocesano tridentino
-1283,21,Sede di Castello di Civitacampomarano
-1284,62,Sede di Direzione Regionale Musei Marche
-1285,23,Sede di Antiquarium di Torre Cimalonga
-1286,11,Sede di Archivio di Stato di Ravenna
-1287,18,Sede di Museo e Parco archeologico nazionale di Capo Colonna
-1288,42,Sede di Museo sannitico
-1289,16,Sede di La Cattolica
-1290,3,Sede di Segretariato Regionale del Ministero della cultura per la Campania
-1291,26,Sede di Parco archeologico di Sepino - Museo della città e del territorio
-1292,109,Sede di Museo archeologico nazionale di Pontecagnano e Parco archeologico di Pontecagnano
-1293,10,Sede di Castello del Buonconsiglio
-1294,44,Sede di Archivio di Stato di Prato
-1295,23,Sede di Palazzo Ducale di Tricarico
-1296,27,Sede di Archivio di Stato di Catania
-1297,20,Sede di Parco archeologico di Monte Sannace
-1298,18,Sede di Gallerie degli Uffizi - Giardino di Boboli
-1299,26,Sede di Biblioteca Nazionale Universitaria di Torino
-1300,15,Sede di Archivio di Stato di Mantova
-1301,6,Sede di Biblioteca e Complesso monumentale dei Girolamini
-1302,3,Sede di Archivio di Stato di Oristano
-1303,18,"Sede di Museo archeologico nazionale Prenestino, Santuario della Fortuna Primigenia e Complesso degli edifici del foro di Praeneste"
-1304,12,Sede di Archivio di Stato di Pistoia
-1305,26,Sede di Museo archeologico Metauros
-1306,45,Sede di Archivio di Stato di Milano
-1307,20,Sede di Villa Brandi
-1308,10,Sede di Palazzo Chigi Piccolomini alla Postierla
-1309,1,Sede di Parco archeologico di Pompei - Villa romana di Cellole
-1310,19,Sede di Biblioteca Nazionale Centrale di Firenze
-1311,60,Sede di Museo nazionale etrusco e necropoli di Chiusi
-1312,20,Sede di Archivio di Stato di Bologna
-1313,7,Sede di Archivio di Stato di Belluno
-1314,5,Sede di Soprintendenza Archivistica e Bibliografica dell’Emilia-Romagna
-1315,13,Sede di Biblioteca Statale del Monumento Nazionale di Montevergine
-1316,38,Sede di Castello Bufalini
-1317,24,Sede di Museo nazionale di Archeologia del Mare
-1318,50,Sede di Museo nazionale di Castel Sant'Angelo e Passetto di Borgo
-1319,9,Sede di Istituto Centrale per il Catalogo e la Documentazione
-1320,22,Sede di Parco Archeologico del Colosseo
-1321,7,Sede di Museo archeologico nazionale “Gaio Cilnio Mecenate”
-1322,9,Sede di Area archeologica del Sodo e Tomba di Camucia
-1323,10,Sede di Area archeologica di Vetulonia
-1324,20,Sede di Antiquarium e zona archeologica di Canne della Battaglia
-1325,12,Sede di Museo archeologico nazionale della Lomellina
-1326,36,Sede di Museo nazionale archeologico di Altamura
-1327,7,Sede di Galleria Borghese
-1328,30,Sede di Centro per il libro e la lettura
-1329,14,Sede di Terme di Caracalla
-1330,34,Sede di Museo archeologico nazionale di Crotone
-1331,44,Sede di Museo archeologico nazionale e Teatro romano di Spoleto
-1332,18,Sede di Biblioteca statale Isontina di Gorizia
-1333,1,Sede di Complesso monumentale della Pilotta
-1334,15,Sede di Museo archeologico nazionale di Verona
-1335,91,Sede di Direzione Regionale Musei Lazio
+1213,1,Sede di Complesso monumentale della Pilotta
+1214,15,Sede di Museo archeologico nazionale di Verona
+1215,24,Sede di Museo nazionale di Archeologia del Mare
+1216,91,Sede di Direzione Regionale Musei Lazio
+1217,21,Sede di Castello di Civitacampomarano
+1218,67,Sede di Museo della ceramica Duca di Martina in Villa Floridiana
+1219,79,Sede di Biblioteca nazionale Marciana - Sale monumentali
+1220,25,Sede di Fortezza di Santa Barbara
+1221,89,Sede di Castel Sant'Elmo e Museo del Novecento a Napoli
+1222,57,Sede di Museo archeologico statale di Ascoli Piceno
+1223,2,Sede di Parco archeologica di Ostia antica - Castello Giulio II
+1224,2,Sede di Parco archeologico di Ostia antica - Complesso degli antichi Porti di Claudio e Traiano
+1225,17,Sede di Archivio di Stato di Piacenza
+1226,18,Sede di Palazzo Spinola
+1227,42,Sede di Museo nazionale romano - Crypta Balbi
+1228,115,Sede di Museo nazionale romano - Palazzo Altemps
+1229,40,Sede di Villa della Regina
+1230,17,Sede di Biblioteca Marucelliana
+1231,434,Sede di Museo nazionale etrusco di Villa Giulia
+1232,37,Sede di Parco archeologico di Ercolano - Area archeologica
+1233,4,Sede di Altare prenuragico di Monte d’Accoddi
+1234,1,Sede di Museo Antiquarium Turritano di Porto Torres
+1235,32,"Sede di Museo nazionale archeologico ed etnografico ""Giovanni Antonio Sanna"""
+1236,1,"Sede di Museo archeologico nazionale ""Giorgio Asproni"""
+1237,13,"Sede di Museo nazionale etrusco, Necropoli di Poggio Renzo e Tomba del Colle"
+1238,67,Sede di Galleria Nazionale d'Arte Moderna e Contemporanea
+1239,8,Sede di Scuderie del Quirinale
+1240,4,Sede di Biblioteca nazionale Marciana - Sale monumentali e Ridotti dei Procuratori
+1241,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Caserta e Benevento"
+1242,3,Sede di Area archeologica di Cosa
+1243,43,Sede di Archivio di Stato di Roma
+1244,4,Sede di Pinacoteca Nazionale e Museo di Palazzo Mansi
+1245,210,Sede di Direzione regionale Musei Lombardia
+1246,98,Sede di Direzione Regionale Musei Campania
+1247,12,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Brindisi e Lecce"
+1248,50,Sede di Direzione Musei Statali della Città di Roma
+1249,8,Sede di Archivio di Stato di Verbania
+1250,11,Sede di Parco Archeologico di Ostia Antica
+1251,14,Sede di Direzione Regionale Musei Molise
+1252,16,Sede di Museo delle arti e tradizioni popolari dell’Alta Valle del Tevere - Palazzo Taglieschi
+1253,12,Sede di Museo nazionale Jatta
+1254,31,Sede di Gallerie Estensi - Galleria estense
+1255,16,Sede di Parco archeologico di Sepino - Area archeologica di Altilia-Saepinum
+1256,30,Sede di Museo archeologico di Venafro
+1257,12,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di L'Aquila e Teramo"
+1258,3,Sede di Biblioteca Statale Isontina di Gorizia
+1259,25,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la Basilicata"
+1260,17,Sede di Archivio di Stato di Perugia. Sezione di Assisi
+1261,22,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la provincia di Viterbo e per l'Etruria meridionale"
+1262,74,Sede di Galleria nazionale di Cosenza
+1263,25,Sede di Biblioteca nazionale centrale di Roma
+1264,1,Sede di Castel Thun
+1265,159,Sede di Biblioteca Universitaria di Genova
+1266,40,Sede di Archivio di Stato di Firenze
+1267,17,Sede di Biblioteca Marucelliana di Firenze
+1268,58,Sede di Biblioteca Universitaria di Napoli
+1269,8,Sede di Istituto Centrale per la Patologia degli Archivi e del Libro
+1270,9,Sede di Istituto Centrale per il Catalogo Unico delle biblioteche italiane e per le informazioni bibliografiche - ICCU
+1271,17,Sede di Archivio di Stato di Salerno
+1272,10,Sede di Archivio di Stato di Massa
+1273,12,Sede di Archivio di Stato di Trieste
+1274,20,Sede di Soprintendenza Archivistica e Bibliografica della Lombardia
+1275,3,"Sede di Archivio di Stato di Bologna, Sezione di Imola"
+1276,54,Sede di Museo nazionale degli strumenti musicali
+1277,23,Sede di Museo di Casa Vasari
+1278,47,Sede di Biblioteca Nazionale di Potenza
+1279,134,Sede di Anfiteatro campano
+1280,6,Sede di Archivio di Stato di Trento
+1281,17,Sede di Archivio di Stato di Ascoli Piceno
+1282,11,Sede di Archivio di Stato di Fermo
+1283,56,Sede di Complesso Monumentale della Pilotta
+1284,16,Sede di Archivio di Stato di Brescia
+1285,8,Sede di Biblioteca Nazionale  Sagarriga Visconti Volpi
+1286,22,Sede di Museo nazionale della Certosa monumentale di Calci
+1287,4,Sede di Museo diocesano tridentino
+1288,62,Sede di Direzione Regionale Musei Marche
+1289,23,Sede di Antiquarium di Torre Cimalonga
+1290,11,Sede di Archivio di Stato di Ravenna
+1291,18,Sede di Museo e Parco archeologico nazionale di Capo Colonna
+1292,42,Sede di Museo sannitico
+1293,16,Sede di La Cattolica
+1294,3,Sede di Segretariato Regionale del Ministero della cultura per la Campania
+1295,26,Sede di Parco archeologico di Sepino - Museo della città e del territorio
+1296,109,Sede di Museo archeologico nazionale di Pontecagnano e Parco archeologico di Pontecagnano
+1297,10,Sede di Castello del Buonconsiglio
+1298,44,Sede di Archivio di Stato di Prato
+1299,23,Sede di Palazzo Ducale di Tricarico
+1300,27,Sede di Archivio di Stato di Catania
+1301,20,Sede di Parco archeologico di Monte Sannace
+1302,18,Sede di Gallerie degli Uffizi - Giardino di Boboli
+1303,26,Sede di Biblioteca Nazionale Universitaria di Torino
+1304,15,Sede di Archivio di Stato di Mantova
+1305,6,Sede di Biblioteca e Complesso monumentale dei Girolamini
+1306,3,Sede di Archivio di Stato di Oristano
+1307,18,"Sede di Museo archeologico nazionale Prenestino, Santuario della Fortuna Primigenia e Complesso degli edifici del foro di Praeneste"
+1308,12,Sede di Archivio di Stato di Pistoia
+1309,26,Sede di Museo archeologico Metauros
+1310,45,Sede di Archivio di Stato di Milano
+1311,20,Sede di Villa Brandi
+1312,10,Sede di Palazzo Chigi Piccolomini alla Postierla
+1313,1,Sede di Parco archeologico di Pompei - Villa romana di Cellole
+1314,19,Sede di Biblioteca Nazionale Centrale di Firenze
+1315,60,Sede di Museo nazionale etrusco e necropoli di Chiusi
+1316,20,Sede di Archivio di Stato di Bologna
+1317,7,Sede di Archivio di Stato di Belluno
+1318,5,Sede di Soprintendenza Archivistica e Bibliografica dell’Emilia-Romagna
+1319,13,Sede di Biblioteca Statale del Monumento Nazionale di Montevergine
+1320,38,Sede di Castello Bufalini
+1321,50,Sede di Museo nazionale di Castel Sant'Angelo e Passetto di Borgo
+1322,9,Sede di Istituto Centrale per il Catalogo e la Documentazione
+1323,22,Sede di Parco Archeologico del Colosseo
+1324,7,Sede di Museo archeologico nazionale “Gaio Cilnio Mecenate”
+1325,9,Sede di Area archeologica del Sodo e Tomba di Camucia
+1326,10,Sede di Area archeologica di Vetulonia
+1327,20,Sede di Antiquarium e zona archeologica di Canne della Battaglia
+1328,12,Sede di Museo archeologico nazionale della Lomellina
+1329,36,Sede di Museo nazionale archeologico di Altamura
+1330,7,Sede di Galleria Borghese
+1331,30,Sede di Centro per il libro e la lettura
+1332,14,Sede di Terme di Caracalla
+1333,34,Sede di Museo archeologico nazionale di Crotone
+1334,44,Sede di Museo archeologico nazionale e Teatro romano di Spoleto
+1335,18,Sede di Biblioteca statale Isontina di Gorizia
 1336,26,Sede di Parco Archeologico di Pompei
 1337,4,Sede di Soprintendenza archivistica e bibliografica dell'Umbria
 1338,13,Sede di Battistero degli Ariani
@@ -1393,77 +1393,77 @@
 1391,3,Sede di Parco archeologico di Pompei - Antiquarium di Boscoreale
 1392,12,"Sede di Soprintendenza Speciale Archeologia, Belle Arti e Paesaggio di Roma"
 1393,10,"Sede di Museo e Parco archeologico ""Archeoderi"""
-1394,11,Sede di Cenacolo di Sant'Apollonia
-1395,18,Sede di Forte Santa Tecla
-1396,30,Sede di Biblioteca di storia moderna e contemporanea
-1397,21,Sede di Biblioteca statale di Cremona
-1398,12,Sede di Museo nazionale Memoriale Giuseppe Garibaldi
-1399,2,Sede di Archivio di Stato di Catanzaro. Sezione di Lamezia Terme
-1400,9,Sede di Archivio di stato di Cagliari
-1401,4,Sede di Musel - Museo Archeologico e della Città
-1402,2,Sede di Museo didattico della Seta
-1403,26,Sede di Archivio di Stato di Palermo
-1404,19,Sede di Biblioteca Medica Statale Di Roma
-1405,13,Sede di Archivio di Stato di Benevento
-1406,2,Sede di Museo del tessile e della tradizione industriale
-1407,27,Sede di Villa del Colle del Cardinale
-1408,1,Sede di Museo provinciale del territorio
-1409,2,Sede di MACA - Museo Arte Contemporanea Acri
-1410,30,Sede di Parco e Tomba di Virgilio
-1411,3,Sede di Parco archeologico dell'Appia antica - Villa di Sette Bassi
-1412,43,Sede di Museo archeologico nazionale di Venezia
-1413,10,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Imperia e Savona"
-1414,18,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Genova e la provincia di La Spezia"
-1415,8,Sede di Museo egizio di Torino
-1416,7,Sede di Chiesa di San Francesco d'Assisi
-1417,1,"Sede di Castello di Canossa e Museo nazionale ""Naborre Campanini"""
-1418,16,Sede di Soprintendenza Archivistica e Bibliografica della Campania
-1419,4,Sede di Museo di Roma
-1420,14,Sede di Galleria nazionale delle Marche
-1421,1,Sede di Palazzo delle papesse Centro arte contemporanea
-1422,10,Sede di MART - Museo di arte moderna e contemporanea di Trento Rovereto
-1423,1,Sede di Museo della Marineria dell'alto e medio Adriatico
-1424,3,Sede di Pinacoteca Accademia Carrara
-1425,1,Sede di Direzione Generale Cinema e Audiovisivo
-1426,6,Sede di Archivio di Stato di Messina
-1427,3,Sede di Pinacoteca comunale galleria d’arte moderna Marco Moretti
-1428,2,Sede di Biblioteca e Complesso Monumentale dei Girolamini
-1429,6,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Comune di Napoli"
-1430,14,Sede di Archivio Centrale dello Stato
-1431,4,Sede di Archivio di Stato di Lucca - Sede distaccata
-1432,23,Sede di Biblioteca Casanatense di Roma
-1433,10,Sede di MAXXI - Museo nazionale delle arti del XXI secolo
-1434,3,Sede di Soprintendenza Archivistica e Bibliografica della Basilicata
-1435,9,Sede di Archivio di Stato di Padova
-1436,4,Sede di Biblioteca Nazionale Centrale di Roma
-1437,3,Sede di Museo di Roma in Trastevere
-1438,16,Sede di Archivio di Stato di Genova
-1439,2,"Sede di Parco archeologico dei Campi Flegrei - Piscina Mirabilis, Misenum"
-1440,3,Sede di Casa museo villa monastero
-1441,3,Sede di Parco archeologico culturale di Tuscolo
-1442,2,Sede di Soprintendenza Archivistica e Bibliografica dell'Abruzzo e del Molise
-1443,10,Sede di Biblioteca Riccardiana di Firenze
-1444,10,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Parma e Piacenza"
-1445,5,Sede di Museo Mucirama
-1446,1,Sede di Museo civico Libreria S. Giacomo della Marca
-1447,2,Sede di Centro Documentazione Archeologica
-1448,2,Sede di Musei civici di Pesaro
-1449,2,Sede di Centro visitatori Biotopo protetto e aree archeologiche Torbiera di Fiavé
-1450,1,Sede di Gallerie degli Uffizi - Corridoio Vasariano
-1451,4,Sede di Dolmen di San Silvestro
-1452,3,Sede di Museo Bodoniano
-1453,1,Sede di Castello della Zisa
-1454,1,Sede di Polo museale di Palazzo De Castellotti
-1455,1,Sede di Biblioteca F. Antolisei
-1456,1,"Sede di Raccolta comunale d’arte della ""Rocca di Frontone"""
-1457,1,Sede di Museo della civiltà contadina di Mombaroccio
-1458,1,"Sede di Museo dei legni processionali ""Mons. M. Manfroni"" della Confraternita del SS. sacramento"
-1459,1,Sede di Museo di arte contemporanea e dei pittori dell’emigrazione
-1460,1,Sede di Museo della carta e della filigrana di Fabriano
-1461,1,Sede di Museo del Duomo di Milano
-1462,2,Sede di Raccolta d'arte Carlo Lamberti
-1463,1,Sede di Museo Vallivo Valfurva Mario Testorelli
-1464,1,Sede di Museo universitario d'Abruzzo - Museo di storia delle scienze biomediche
-1465,2,Sede di Museo di Comunità della Festa del Grano di Jelsi
+1394,23,Sede di Biblioteca Casanatense di Roma
+1395,11,Sede di Cenacolo di Sant'Apollonia
+1396,10,Sede di MAXXI - Museo nazionale delle arti del XXI secolo
+1397,18,Sede di Forte Santa Tecla
+1398,30,Sede di Biblioteca di storia moderna e contemporanea
+1399,21,Sede di Biblioteca statale di Cremona
+1400,12,Sede di Museo nazionale Memoriale Giuseppe Garibaldi
+1401,2,Sede di Archivio di Stato di Catanzaro. Sezione di Lamezia Terme
+1402,9,Sede di Archivio di stato di Cagliari
+1403,4,Sede di Musel - Museo Archeologico e della Città
+1404,2,Sede di Museo didattico della Seta
+1405,26,Sede di Archivio di Stato di Palermo
+1406,19,Sede di Biblioteca Medica Statale Di Roma
+1407,13,Sede di Archivio di Stato di Benevento
+1408,2,Sede di Museo del tessile e della tradizione industriale
+1409,27,Sede di Villa del Colle del Cardinale
+1410,1,Sede di Museo provinciale del territorio
+1411,2,Sede di MACA - Museo Arte Contemporanea Acri
+1412,30,Sede di Parco e Tomba di Virgilio
+1413,3,Sede di Parco archeologico dell'Appia antica - Villa di Sette Bassi
+1414,43,Sede di Museo archeologico nazionale di Venezia
+1415,10,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Imperia e Savona"
+1416,18,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per la città metropolitana di Genova e la provincia di La Spezia"
+1417,8,Sede di Museo egizio di Torino
+1418,7,Sede di Chiesa di San Francesco d'Assisi
+1419,1,"Sede di Castello di Canossa e Museo nazionale ""Naborre Campanini"""
+1420,16,Sede di Soprintendenza Archivistica e Bibliografica della Campania
+1421,4,Sede di Museo di Roma
+1422,14,Sede di Galleria nazionale delle Marche
+1423,1,Sede di Palazzo delle papesse Centro arte contemporanea
+1424,10,Sede di MART - Museo di arte moderna e contemporanea di Trento Rovereto
+1425,1,Sede di Museo della Marineria dell'alto e medio Adriatico
+1426,3,Sede di Pinacoteca Accademia Carrara
+1427,1,Sede di Direzione Generale Cinema e Audiovisivo
+1428,6,Sede di Archivio di Stato di Messina
+1429,3,Sede di Pinacoteca comunale galleria d’arte moderna Marco Moretti
+1430,2,Sede di Biblioteca e Complesso Monumentale dei Girolamini
+1431,6,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per il Comune di Napoli"
+1432,14,Sede di Archivio Centrale dello Stato
+1433,4,Sede di Archivio di Stato di Lucca - Sede distaccata
+1434,2,Sede di Museo di Comunità della Festa del Grano di Jelsi
+1435,3,Sede di Soprintendenza Archivistica e Bibliografica della Basilicata
+1436,9,Sede di Archivio di Stato di Padova
+1437,4,Sede di Biblioteca Nazionale Centrale di Roma
+1438,3,Sede di Museo di Roma in Trastevere
+1439,16,Sede di Archivio di Stato di Genova
+1440,2,"Sede di Parco archeologico dei Campi Flegrei - Piscina Mirabilis, Misenum"
+1441,3,Sede di Casa museo villa monastero
+1442,3,Sede di Parco archeologico culturale di Tuscolo
+1443,2,Sede di Soprintendenza Archivistica e Bibliografica dell'Abruzzo e del Molise
+1444,10,Sede di Biblioteca Riccardiana di Firenze
+1445,10,"Sede di Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Parma e Piacenza"
+1446,5,Sede di Museo Mucirama
+1447,1,Sede di Museo civico Libreria S. Giacomo della Marca
+1448,2,Sede di Centro Documentazione Archeologica
+1449,2,Sede di Musei civici di Pesaro
+1450,2,Sede di Centro visitatori Biotopo protetto e aree archeologiche Torbiera di Fiavé
+1451,1,Sede di Gallerie degli Uffizi - Corridoio Vasariano
+1452,4,Sede di Dolmen di San Silvestro
+1453,3,Sede di Museo Bodoniano
+1454,1,Sede di Castello della Zisa
+1455,1,Sede di Polo museale di Palazzo De Castellotti
+1456,1,Sede di Biblioteca F. Antolisei
+1457,1,"Sede di Raccolta comunale d’arte della ""Rocca di Frontone"""
+1458,1,Sede di Museo della civiltà contadina di Mombaroccio
+1459,1,"Sede di Museo dei legni processionali ""Mons. M. Manfroni"" della Confraternita del SS. sacramento"
+1460,1,Sede di Museo di arte contemporanea e dei pittori dell’emigrazione
+1461,1,Sede di Museo della carta e della filigrana di Fabriano
+1462,1,Sede di Museo del Duomo di Milano
+1463,2,Sede di Raccolta d'arte Carlo Lamberti
+1464,1,Sede di Museo Vallivo Valfurva Mario Testorelli
+1465,1,Sede di Museo universitario d'Abruzzo - Museo di storia delle scienze biomediche
 1466,2,Sede di Musei civici d'arte antica - Collezioni comunali d'arte di Bologna
 1467,5,Sede di Museo Archeologico di Sala Consilina
