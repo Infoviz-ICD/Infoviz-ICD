@@ -34,3 +34,7 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     border-color: rgb(160, 52, 52);
     background-color: rgb(7, 153, 26);
 }
+
+#Chart1 {
+    max-width: 60%; 
+}
