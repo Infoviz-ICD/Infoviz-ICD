@@ -72,7 +72,7 @@
 			});
 		</script>
     </section>
-	<div id="chart"></div>
+	<section id="container"></section>
 	<script>			// create data
 		var data = [
 		  ["Lombardia", 1389],
@@ -103,10 +103,15 @@
 		var series = chart.bar(data);
 		
 		// set the container id
+		chart.title('Events per Italian Region');
 		chart.container("container");
 		
 		// initiate drawing the chart
 		chart.draw()
+		normal.height(30);
+    	normal.width(50);
+
+
 		;</script>
 		<!-- Plotly chart will be drawn inside this DIV --></div>
     <footer>
