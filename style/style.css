@@ -2,6 +2,11 @@ html {
     scroll-behavior: smooth;
  }
 
+ /*
+nav { 
+    background-color: #fff;
+}
+
 nav a {
     color: #000;
 }
@@ -11,18 +16,125 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     color: rgb(46, 46, 46);
 }
 
+
+*/
+
 .masthead {
+    top: 0;
     height: 100vh;
     min-height: 500px;
-    color: rgb(7, 153, 26);
+    color: #58a27b;
 }
+
+.masthead::before {
+    content: "";
+    top: 0;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    background-image: url("../images/background.jpg");
+    background-size:cover;
+    animation: fadeIn 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 1;}
+    50% {opacity: 0.5;}
+    100% {opacity: 0.2;}
+}
+
+#onTop {
+    text-align: center;
+    padding: 5%;
+}
+
+.masthead h1 {
+    animation: display 3s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+}
+
+@keyframes display {
+    0% {opacity: 0;  color: #58a27b ; visibility: visible;}
+    50% {opacity: 0.5;  color: #58a27b;}
+    100% {opacity: 1;  color: #58a27b; visibility: visible;}  
+}
+
+.wrap {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 
 .masthead button {
     text-decoration: none;
+    width: 13em;
+    height: 3em;
     border-radius: 5em;
     padding: 1%;
-    background-color: none;
+    background-color: #66bf90;
     margin-top: 3%;
+    visibility: hidden;
+    animation: popUp 1s;
+    animation-delay: 5s;
+    animation-fill-mode: forwards;
+    box-shadow: 0.5em 0.5em 0.7em #58a27b;
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    position: relative;
+    outline: none;
+    text-transform: uppercase;
+}
+
+button::before {
+    content: '';
+      border-radius: 1000px;
+      min-width: calc(15em + 1em);
+      min-height: calc(4em + 1em);
+      border: 0.5em solid #66bf90;
+      box-shadow: 0 0 2em #58a27b;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0;
+      transition: all .3s ease-in-out 0s;
+}
+
+button::after {
+    content: '';
+    width: 2em; 
+    height: 2em;
+    border-radius: 100%;
+    border: 0.5em solid #66bf90;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: ring 1.5s infinite;
+  }
+
+  @keyframes ring {
+    0% {
+      width: 30px;
+      height: 30px;
+      opacity: 1;
+    }
+    100% {
+      width: 300px;
+      height: 300px;
+      opacity: 0;
+    }
+}
+
+@keyframes popUp {
+    0% {opacity:0.5;}
+    100% {visibility: visible;}
 }
 
 .masthead button a {
@@ -31,10 +143,84 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
 }
 
 .masthead button:hover {
-    border-color: rgb(160, 52, 52);
-    background-color: rgb(7, 153, 26);
+    background-color: #58a27b;
+    transform: translateY(-6px);
+}
+
+.masthead button:hover::before, .masthead button:focus::before {
+    opacity: 1;
+  }
+
+.masthead button:hover::after, .masthead button:focus::after {
+    animation: none;
+    display: none;
+  }
+
+#firstSection, #lastSection {
+    height: 90vh;
+    margin-top: 10vh;
 }
 
 #Chart1 {
     max-width: 60%; 
+}
+
+#events, #properties {
+    height: 90vh;
+    position: relative;
+}
+
+#events a {
+    text-decoration: none;
+    font-size:x-large;
+    font-weight: bold;
+    color: orange;
+}
+
+#properties a{
+    text-decoration: none;
+    font-size:x-large;
+    font-weight: bold;
+    color:blue;
+}
+
+#events button:hover {
+    background-color: orange;
+}
+
+#events button{
+    margin:0;
+    position:absolute;
+    top: 20%;
+    left: 45%;
+    -ms-transform: translate(-50%, 50%);
+    transform: translate(-50%, 50%);
+    border-radius: 15%;
+    padding: 5%;
+    width: 35vh;
+    border-color: orange;
+    border-width: 1em;
+
+}
+
+#properties button {
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 45%;
+    -ms-transform: translate(-50%, 50%);
+    transform: translate(-50%, 50%);
+    border-radius: 15%;
+    padding: 5%;
+    width: 35vh;
+    border-color: blue;
+    border-width: 1em;
+}
+
+#properties button:hover {
+    background-color: blue;
+}
+
+#properties button:hover a, #events button:hover a {
+    color: #fff;
 }
