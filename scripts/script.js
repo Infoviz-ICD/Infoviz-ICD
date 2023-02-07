@@ -55,8 +55,11 @@ var data = [
   ["Sicilia", 214],
   ["Valle d'Aosta",58]];
 
+container.height(30);
+container.width(50);
+
 // create a chart
-chart = anychart.bar();
+chart1 = anychart.bar();
 
 // create a bar series and set the data
 var series = chart.bar(data);
