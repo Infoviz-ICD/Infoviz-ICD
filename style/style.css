@@ -67,7 +67,6 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
 }
 
 .wrap {
-    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -158,16 +157,6 @@ button::after {
     animation: none;
     display: none;
   }
-
-.masthead button:focus {
-    bottom: -100vh;
-    transition: bottom 2s;
-}
-
-.masthead button:focus #onTop{
-    top: -100vh;
-    transition: top 2s;
-}
 
 #firstSection, #lastSection {
     height: 90vh;
