@@ -84,10 +84,19 @@
   orientation: 'h',
   marker: {
     color: '#f0cb69',
-	height: 200,
   },
   name: 'Events per Italian Region'
 }];
+
+var config = {
+  toImageButtonOptions: {
+    format: 'svg', // one of png, svg, jpeg, webp
+    filename: 'custom_image',
+    height: 500,
+    width: 700,
+    scale: 1 // Multiply title/legend/axis/canvas sizes by this factor
+  }
+};
 
 Plotly.newPlot('myDiv', data);
   
