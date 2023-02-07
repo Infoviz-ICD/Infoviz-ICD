@@ -70,7 +70,18 @@
 			});
 		</script>
     </section>
-	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+	<div id='myDiv'>
+		<script>
+			var data = [
+  {
+    x: ['Lombardia','Lazio','Toscana','Piemonte','Emilia-Romagna','Basilicata','Puglia','Abruzzo','Umbria','Marche','Campnia','Trentino-Alto Adige','Calabria','Sardegna','Veneto','Frili-Venezia Giulia','Molise','Liguria','Sicilia','Valle Aosta'],
+    y: [1389, 4488, 1857,813,1116,482,1006,338,775,1156,2396,71,980,773,1388,625,378,938,214,58],
+    type: 'bar'
+  }
+];
+
+Plotly.newPlot('myDiv', data);
+		</script><!-- Plotly chart will be drawn inside this DIV --></div>
     <footer>
         <p>A project for the course "Information Visualization</p>
         <p>MA "Digital Humanities and Digital Knowledge" - University of Bologna</p>
