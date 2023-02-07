@@ -46,6 +46,8 @@
 		</div>
 	</header>
 
+
+
     <section id="firstSection">
 		<canvas id="Chart1"></canvas>
 		<script>
@@ -72,45 +74,23 @@
 			});
 		</script>
     </section>
-	<div id="container"></div>
-	<script>			// create data
-		var data = [
-		  ["Lombardia", 1389],
-		  ["lazio", 4488],
-		  ["Toscana", 1857],
-		  ["Piemonte", 813],
-		  ["Emilia-Romagna", 1116],
-		  ["Basilicata", 482],
-		  ["Puglia", 1006],
-		  ["Abruzzo", 338],
-		  ["Umbria", 775],
-		  ["Marche", 1156],
-		  ["Campania", 2396],
-		  ["Trentino-Alto Adige", 71],
-		  ["Calabria", 980],
-		  ["Sardegna", 773],
-		  ["Veneto", 1388],
-		  ["Friuli-Venezia Giulia", 635],
-		  ["Molise", 378],
-		  ["Liguria", 938],
-		  ["Sicilia", 214],
-		  ["Valle d'Aosta",58]];
-		
-		// create a chart
-		chart = anychart.bar();
-		
-		// create a bar series and set the data
-		var series = chart.bar(data);
-		
-		normal.height(100);
-    	normal.width(50);
-		// set the container id
-		chart.title('Events per Italian Region');
-		chart.container("container");
-		
-		
-		// initiate drawing the chart
-		chart.draw();
+	<div id="myDiv"></div>
+	<script>
+		var data = [{
+			type: 'bar',
+	y:['Lombardia','Lazio','Toscana','Piemonte','Emilia-Romagna','Basilicata','Puglia','Abruzzo','Umbria','Marche','Campania','Trentino-Alto Adige','Calabria','Sardegna','Veneto','Frili-Venezia Giulia','Molise','Liguria','Sicilia','Valle Aosta'],
+    x: [1389, 4488, 1857,813,1116,482,1006,338,775,1156,2396,71,980,773,1388,625,378,938,214,58],
+
+  orientation: 'h',
+  marker: {
+    color: '#f0cb69',
+	height: 200,
+  },
+  name: 'Events per Italian Region'
+}];
+
+Plotly.newPlot('myDiv', data);
+  
 		
 
 
