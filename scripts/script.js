@@ -30,3 +30,39 @@ var data = [
 ];
 
 Plotly.newPlot('myDiv', data);
+
+
+			// create data
+var data = [
+  ["Lombardia", 1389],
+  ["lazio", 4488],
+  ["Toscana", 1857],
+  ["Piemonte", 813],
+  ["Emilia-Romagna", 1116],
+  ["Basilicata", 482],
+  ["Puglia", 1006],
+  ["Abruzzo", 338],
+  ["Umbria", 775],
+  ["Marche", 1156],
+  ["Campania", 2396],
+  ["Trentino-Alto Adige", 71],
+  ["Calabria", 980],
+  ["Sardegna", 773],
+  ["Veneto", 1388],
+  ["Friuli-Venezia Giulia", 635],
+  ["Molise", 378],
+  ["Liguria", 938],
+  ["Sicilia", 214],
+  ["Valle d'Aosta",58]];
+
+// create a chart
+chart = anychart.bar();
+
+// create a bar series and set the data
+var series = chart.bar(data);
+
+// set the container id
+chart.container("container");
+
+// initiate drawing the chart
+chart.draw();
