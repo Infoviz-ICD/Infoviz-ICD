@@ -10,6 +10,8 @@
 		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 		<script src='https://cdn.plot.ly/plotly-2.18.0.min.js'></script>
+		<script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-core.min.js"></script>
+<script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-cartesian.min.js"></script>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
     <body>
@@ -70,17 +72,41 @@
 			});
 		</script>
     </section>
-	<div id='myDiv'>
 		<script>
-			var data = [
-  {
-    x: ['Lombardia','Lazio','Toscana','Piemonte','Emilia-Romagna','Basilicata','Puglia','Abruzzo','Umbria','Marche','Campnia','Trentino-Alto Adige','Calabria','Sardegna','Veneto','Frili-Venezia Giulia','Molise','Liguria','Sicilia','Valle Aosta'],
-    y: [1389, 4488, 1857,813,1116,482,1006,338,775,1156,2396,71,980,773,1388,625,378,938,214,58],
-    type: 'bar'
-  }
-];
+			// create data
+var data = [
+  ["Lombardia", 1389],
+  ["lazio", 4488],
+  ["Toscana", 1857],
+  ["Piemonte", 813],
+  ["Emilia-Romagna", 1116],
+  ["Basilicata", 482],
+  ["Puglia", 1006],
+  ["Abruzzo", 338],
+  ["Umbria", 775],
+  ["Marche", 1156],
+  ["Campania", 2396],
+  ["Trentino-Alto Adige", 71],
+  ["Calabria", 980],
+  ["Sardegna", 773],
+  ["Veneto", 1388],
+  ["Friuli-Venezia Giulia", 635],
+  ["Molise", 378],
+  ["Liguria", 938],
+  ["Sicilia", 214],
+  ["Valle d'Aosta",58]];
 
-Plotly.newPlot('myDiv', data);
+// create a chart
+chart = anychart.bar();
+
+// create a bar series and set the data
+var series = chart.bar(data);
+
+// set the container id
+chart.container("container");
+
+// initiate drawing the chart
+chart.draw();
 		</script><!-- Plotly chart will be drawn inside this DIV --></div>
     <footer>
         <p>A project for the course "Information Visualization</p>
