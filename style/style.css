@@ -24,6 +24,7 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     height: 100vh;
     min-height: 500px;
     color: #58a27b;
+    overflow: hidden;
 }
 
 .masthead::before {
@@ -41,26 +42,27 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
 
 @keyframes fadeIn {
     0% {opacity: 1;}
-    50% {opacity: 0.5;}
-    100% {opacity: 0.2;}
+    100% {opacity: 0.5;}
 }
 
 #onTop {
     text-align: center;
-    padding: 5%;
+    padding: 3%;
+    position: relative;
+    background-color: white;
 }
 
-.masthead h1 {
-    animation: display 3s;
+.masthead h1, #onTop {
+    animation: display 1s;
     animation-delay: 1s;
     animation-fill-mode: forwards;
     visibility: hidden;
 }
 
 @keyframes display {
-    0% {opacity: 0;  color: #58a27b ; visibility: visible;}
-    50% {opacity: 0.5;  color: #58a27b;}
-    100% {opacity: 1;  color: #58a27b; visibility: visible;}  
+    0% {opacity: 0;  color: #66bf90 ; visibility: visible;}
+    50% {opacity: 0.5;  color: #66bf90;}
+    100% {opacity: 1;  color: #66bf90; visibility: visible;}  
 }
 
 .wrap {
@@ -80,7 +82,7 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     margin-top: 3%;
     visibility: hidden;
     animation: popUp 1s;
-    animation-delay: 5s;
+    animation-delay: 3s;
     animation-fill-mode: forwards;
     box-shadow: 0.5em 0.5em 0.7em #58a27b;
     transition: all 0.3s ease-in-out 0s;
@@ -155,6 +157,16 @@ button::after {
     animation: none;
     display: none;
   }
+
+.masthead button:focus {
+    bottom: -100vh;
+    transition: bottom 2s;
+}
+
+.masthead button:focus #onTop{
+    top: -100vh;
+    transition: top 2s;
+}
 
 #firstSection, #lastSection {
     height: 90vh;
