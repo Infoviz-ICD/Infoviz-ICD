@@ -3,28 +3,11 @@ html {
     width:100%;
  }
 
- /*
-nav { 
-    background-color: #fff;
-}
-
-nav a {
-    color: #000;
-}
-
-nav a.nav-link:hover, nav a.navbar-brand:hover {
-    text-decoration: underline;
-    color: rgb(46, 46, 46);
-}
-
-
-*/
-
 .masthead {
     top: 0;
     height: 100vh;
     min-height: 500px;
-    /*overflow: hidden;*/
+    overflow: hidden;
 }
 
 #background {
@@ -165,6 +148,14 @@ button::after {
     margin-top: 10vh;
 }
 
+#First {
+    position:relative;
+}
+
+#First h1 {
+    color:#000;
+}
+
 #Chart1 {
     max-width: 60%; 
 }
@@ -272,3 +263,17 @@ to {
     --num: 2386;
 }
 }
+
+/* The progress container (grey background) */
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc;
+  }
+  
+  /* The progress bar (scroll indicator) */
+  .progress-bar {
+    height: 8px;
+    background: #04AA6D;
+    width: 0%;
+  }
