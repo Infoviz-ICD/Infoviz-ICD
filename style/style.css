@@ -24,11 +24,10 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     top: 0;
     height: 100vh;
     min-height: 500px;
-    color: #58a27b;
     overflow: hidden;
 }
 
-.masthead::before {
+#background {
     content: "";
     top: 0;
     right: 0px;
@@ -39,6 +38,8 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     background-size:cover;
     animation: fadeIn 2s;
     animation-fill-mode: forwards;
+    background-repeat: no-repeat;
+    z-index: -2;
 }
 
 @keyframes fadeIn {
@@ -50,7 +51,7 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     text-align: center;
     padding: 3%;
     position: relative;
-    background-color: white;
+    background-color: #58a27b;
 }
 
 .masthead h1, #onTop {
@@ -58,12 +59,13 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     animation-delay: 1s;
     animation-fill-mode: forwards;
     visibility: hidden;
+    color:#fff;
 }
 
 @keyframes display {
-    0% {opacity: 0;  color: #66bf90 ; visibility: visible;}
-    50% {opacity: 0.5;  color: #66bf90;}
-    100% {opacity: 1;  color: #66bf90; visibility: visible;}  
+    0% {opacity: 0; visibility: visible;}
+    50% {opacity: 0.5;}
+    100% {opacity: 1; visibility: visible;}  
 }
 
 .wrap {
