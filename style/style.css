@@ -3,32 +3,14 @@ html {
     width:100%;
  }
 
- /*
-nav { 
-    background-color: #fff;
-}
-
-nav a {
-    color: #000;
-}
-
-nav a.nav-link:hover, nav a.navbar-brand:hover {
-    text-decoration: underline;
-    color: rgb(46, 46, 46);
-}
-
-
-*/
-
 .masthead {
     top: 0;
     height: 100vh;
     min-height: 500px;
-    color: #58a27b;
     overflow: hidden;
 }
 
-.masthead::before {
+#background {
     content: "";
     top: 0;
     right: 0px;
@@ -39,6 +21,8 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     background-size:cover;
     animation: fadeIn 2s;
     animation-fill-mode: forwards;
+    background-repeat: no-repeat;
+    z-index: -2;
 }
 
 @keyframes fadeIn {
@@ -50,7 +34,7 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     text-align: center;
     padding: 3%;
     position: relative;
-    background-color: white;
+    background-color: #58a27b;
 }
 
 .masthead h1, #onTop {
@@ -58,12 +42,13 @@ nav a.nav-link:hover, nav a.navbar-brand:hover {
     animation-delay: 1s;
     animation-fill-mode: forwards;
     visibility: hidden;
+    color:#fff;
 }
 
 @keyframes display {
-    0% {opacity: 0;  color: #66bf90 ; visibility: visible;}
-    50% {opacity: 0.5;  color: #66bf90;}
-    100% {opacity: 1;  color: #66bf90; visibility: visible;}  
+    0% {opacity: 0; visibility: visible;}
+    50% {opacity: 0.5;}
+    100% {opacity: 1; visibility: visible;}  
 }
 
 .wrap {
@@ -163,6 +148,14 @@ button::after {
     margin-top: 10vh;
 }
 
+#First {
+    position:relative;
+}
+
+#First h1 {
+    color:#000;
+}
+
 #Chart1 {
     max-width: 60%; 
 }
@@ -226,3 +219,61 @@ button::after {
 #properties button:hover a, #events button:hover a {
     color: #fff;
 }
+
+@property --num {
+    syntax: "<integer>";
+    initial-value: 0;
+    inherits: false;
+  }
+  
+#CEvalue {
+animation: CEcounter 5s normal forwards;
+counter-reset: num var(--num);
+font: 800 40px system-ui;
+padding: 2rem;
+}
+#CEvalue::after {
+content: counter(num);
+}
+  
+@keyframes CEcounter {
+from {
+    --num: 0;
+}
+to {
+    --num: 1509;
+}
+}
+
+#CPvalue {
+    animation: CPcounter 5s normal forwards;
+    counter-reset: num var(--num);
+    font: 800 40px system-ui;
+    padding: 2rem;
+    }
+#CPvalue::after {
+content: counter(num);
+}
+    
+@keyframes CPcounter {
+from {
+    --num: 0;
+}
+to {
+    --num: 2386;
+}
+}
+
+/* The progress container (grey background) */
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc;
+  }
+  
+  /* The progress bar (scroll indicator) */
+  .progress-bar {
+    height: 8px;
+    background: #04AA6D;
+    width: 0%;
+  }
