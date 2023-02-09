@@ -148,18 +148,7 @@ button::after {
     margin-top: 10vh;
 }
 
-#First {
-    position:relative;
-}
-
-#First h1 {
-    color:#000;
-}
-
-#Chart1 {
-    max-width: 60%; 
-}
-
+/*
 #events, #properties {
     height: 90vh;
     position: relative;
@@ -219,6 +208,38 @@ button::after {
 #properties button:hover a, #events button:hover a {
     color: #fff;
 }
+*/
+
+.mainTitle {
+    color:#fff;
+    background-color: #58a27b;
+    margin-bottom: 1em;
+}
+
+.text {
+    background-color: #f4f9f6;
+    padding: 2%;
+    font-size: large;
+}
+
+
+#First, #Second {
+    position:relative;
+    height: 100vh;
+    min-height: 500px;
+}
+
+#First .mainTitle {
+    margin-left:-20%;
+    padding-left: 20%;
+}
+
+@media screen and (min-width:992px) {
+    #First {
+        margin: 2%;
+        padding: 2%;
+    }
+}
 
 @property --num {
     syntax: "<integer>";
@@ -229,7 +250,7 @@ button::after {
 #CEvalue {
 animation: CEcounter 5s normal forwards;
 counter-reset: num var(--num);
-font: 800 40px system-ui;
+font: 800 2em system-ui;
 padding: 2rem;
 }
 #CEvalue::after {
@@ -248,7 +269,7 @@ to {
 #CPvalue {
     animation: CPcounter 5s normal forwards;
     counter-reset: num var(--num);
-    font: 800 40px system-ui;
+    font: 800 2em system-ui;
     padding: 2rem;
     }
 #CPvalue::after {
@@ -264,16 +285,107 @@ to {
 }
 }
 
-/* The progress container (grey background) */
+.cards h1 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.cards h2 {
+    font-size: x-large;
+    text-align: center;
+}
+
+.values {
+    margin-top:-5vh;
+    text-align: center;
+}
+
+#eventsCard {
+    background-color: #f0cb69;
+    margin: auto;
+    width: 40%;
+    border-radius: 15%;
+    padding:4%;
+    height:20vh;
+}
+
+#propertiesCard {
+    background-color: #ab91c5;
+    margin: auto;
+    width: 40%;
+    margin-top: 3em; 
+    border-radius: 15%;
+    padding:4%;
+    height: 20vh;
+}
+
+/*
 .progress-container {
     width: 100%;
-    height: 8px;
+    height: 0.5em;
     background: #ccc;
+    bottom:0;
+    position: fixed;
   }
   
-  /* The progress bar (scroll indicator) */
   .progress-bar {
     height: 8px;
     background: #04AA6D;
     width: 0%;
   }
+*/
+.progress-container {
+    position: fixed;
+    top: 90vh;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+
+ul.progress-bar {
+    height: 1em;
+    list-style: none;
+    position: relative;
+    flex-direction: row;
+    justify-content: space-evenly;
+    overflow: hidden;
+    width: 70%;
+    margin:auto;
+  }
+  
+  ul.progress-bar::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    background: #dc5356;
+    width: 70%;
+    height: 2em;
+  }
+  
+  ul.progress-bar li {
+    background: #000;
+    border-radius: 100px;
+    width: 15px;
+    height: 15px;
+    z-index: 1;
+    position: relative;
+  }
+  ul.progress-bar li.stop ~ li {
+    background: #777;
+  }
+  ul.progress-bar li.stop ~ li::after {
+    height: 0;
+  }
+  ul.progress-bar li::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    background: #000;
+    width: 5px;
+    height: 100vh;
+  }
+
+.hide {
+    display: none;
+}
