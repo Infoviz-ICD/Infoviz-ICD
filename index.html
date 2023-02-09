@@ -48,19 +48,59 @@
 	  			</div>
 			</div>
 		</div>
+	</header>
 		
 	<div id="First">
-		<h1>Cultural Events</h1>
-		<div id="CE" class="values"></div>
-		<h1>Cultural Properties</h1>
-		<div id="CP" class="values"></div>
-		<div class="progress-container">
-			<div class="progress-bar" id="myBar">
+		<div class="row">
+			<div class="col-lg-7 col-sm-12">
+				<h1 class="mainTitle">Cultural Properties and Cultural Events in LOD</h1>
+				<div class="text">
+				<p>dati.beniculturali.it is a project with aims at collecting and making accessible italian cultural data available in linked open data (LOD).</p>
+				<p>Our project aims at exploring two classes which are accessible through dati.beniculturali.it: 
+					<ul>
+						<li>Cultural Events: described through the ontology CIS from Culture-ON</li>
+						<li>Cultural Properties: described through the ontology Arco.</li>
+					</ul>
+				</p>
+				</div>
+			</div>
+			<div class="col-lg-5 col-sm-12 cards">
+				<h1>The overall numbers</h1>
+				<div id="eventsCard">
+					<h2>Cultural</br> Events</h2>
+					<div id="CE" class="values"></div>
+				</div>
+				<div id="propertiesCard">
+					<h2>Cultural Properties</h2>
+					<div id="CP" class="values"></div>
+				</div>	
+			</div>	
+		</div>
+	</div>		
+
+	<div id="Second">
+		<div class="row">
+			<p>Are those data representative of the cultural sites in Italy?</p>
 		</div>
 	</div>
+
+	<div class="progress-container hide">
+		<ul class="progress-bar">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li class="stop"></li>
+			<li></li>
+		</ul>
 	</div>
 
+
 <!--
+
+		<div class="progress-container hide">
+		<div class="progress-bar" id="myBar"></div>
+	</div>
+
     <section id="firstSection">
 		<div class="chart"></div>
 			<canvas id="Chart1"></canvas>
