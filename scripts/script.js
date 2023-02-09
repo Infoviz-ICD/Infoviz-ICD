@@ -1,11 +1,12 @@
 $(document).ready(function() {
   $("#start").click(function() {
     $("#start").animate({bottom: "-100vh"});
-    $("#onTop").animate({top: "-20vh"});
+    $("#onTop").animate({top: "-100vh"});
     document.getElementById("background").style.background = 0;
     $("#First").animate({top:"-100vh"})
     $("#CE").prop('id', 'CEvalue');
     $("#CP").prop('id', 'CPvalue');
+    $(".progress-container").removeClass("hide");
   })
 });
 
