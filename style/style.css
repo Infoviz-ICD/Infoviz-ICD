@@ -339,10 +339,9 @@ to {
     top: 90vh;
     width: 100%;
     margin: auto;
-    text-align: center;
   }
 
-ul.progress-bar {
+ul.myBar {
     height: 1em;
     list-style: none;
     position: relative;
@@ -351,39 +350,52 @@ ul.progress-bar {
     overflow: hidden;
     width: 70%;
     margin:auto;
+    display: flex;
   }
   
-  ul.progress-bar::after {
+  ul.myBar::after {
     content: "";
     position: absolute;
-    top: 0;
     background: #dc5356;
-    width: 70%;
-    height: 2em;
+    width: 65%;
+    height: 0.4em;
+    margin: 0.3em;
+    z-index:-1;
   }
   
-  ul.progress-bar li {
-    background: #000;
-    border-radius: 100px;
-    width: 15px;
-    height: 15px;
+#progression {
+    content: "";
+    position: absolute;
+    background: #58a27b;
+    width: 0;
+    max-width: 65%;
+    text-align: left;
+    height: 0.4em;
+    margin: 0.3em;
     z-index: 1;
+    left: 9em;
+}
+
+  ul.myBar li {
+    background: #dc5356;
+    color: #dc5356;
+    border-radius: 100%;
+    width: 1em;
+    height: 1em;
+    z-index: 2;
     position: relative;
   }
-  ul.progress-bar li.stop ~ li {
-    background: #777;
+  ul.myBar li.stop ~ li {
+    background: #58a27b;
   }
-  ul.progress-bar li.stop ~ li::after {
+  ul.myBar li.stop ~ li::after {
     height: 0;
   }
-  ul.progress-bar li::after {
+  ul.myBar li::after {
     content: "";
     position: absolute;
     bottom: 0;
-    left: 5px;
-    background: #000;
-    width: 5px;
-    height: 100vh;
+    background: #dc5356;
   }
 
 .hide {
