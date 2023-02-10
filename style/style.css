@@ -148,68 +148,6 @@ button::after {
     margin-top: 10vh;
 }
 
-/*
-#events, #properties {
-    height: 90vh;
-    position: relative;
-}
-
-#events a {
-    text-decoration: none;
-    font-size:x-large;
-    font-weight: bold;
-    color: orange;
-}
-
-#properties a{
-    text-decoration: none;
-    font-size:x-large;
-    font-weight: bold;
-    color:blue;
-}
-
-#events button:hover {
-    background-color: orange;
-}
-
-#events button{
-    margin:0;
-    position:absolute;
-    top: 20%;
-    left: 45%;
-    -ms-transform: translate(-50%, 50%);
-    transform: translate(-50%, 50%);
-    border-radius: 15%;
-    padding: 5%;
-    width: 35vh;
-    border-color: orange;
-    border-width: 1em;
-
-}
-
-#properties button {
-    margin: 0;
-    position: absolute;
-    top: 20%;
-    left: 45%;
-    -ms-transform: translate(-50%, 50%);
-    transform: translate(-50%, 50%);
-    border-radius: 15%;
-    padding: 5%;
-    width: 35vh;
-    border-color: blue;
-    border-width: 1em;
-}
-
-#properties button:hover {
-    background-color: blue;
-}
-
-#properties button:hover a, #events button:hover a {
-    color: #fff;
-}
-*/
-
 .mainTitle {
     color:#fff;
     background-color: #58a27b;
@@ -319,21 +257,7 @@ to {
     height: 20vh;
 }
 
-/*
-.progress-container {
-    width: 100%;
-    height: 0.5em;
-    background: #ccc;
-    bottom:0;
-    position: fixed;
-  }
-  
-  .progress-bar {
-    height: 8px;
-    background: #04AA6D;
-    width: 0%;
-  }
-*/
+
 .progress-container {
     position: fixed;
     top: 90vh;
