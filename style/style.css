@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
 html {
     scroll-behavior: smooth;
     width:100%;
@@ -143,21 +145,23 @@ button::after {
     display: none;
   }
 
-#firstSection, #lastSection {
-    height: 90vh;
-    margin-top: 10vh;
-}
-
 .mainTitle {
     color:#fff;
     background-color: #58a27b;
     margin-bottom: 1em;
 }
 
+
 .text {
-    background-color: #f4f9f6;
+    background-color: #f4f9f6e4;
     padding: 2%;
     font-size: large;
+    height: 90%;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#First .text p {
+    padding-left: 2%;
 }
 
 
@@ -168,8 +172,8 @@ button::after {
 }
 
 #First .mainTitle {
-    margin-left:-20%;
-    padding-left: 20%;
+    margin-left:-30%;
+    padding-left: 30%;
 }
 
 @media screen and (min-width:992px) {
@@ -257,6 +261,16 @@ to {
     height: 20vh;
 }
 
+#Second {
+    padding: 10%; 
+    padding-top: 5%;
+}
+
+#Second h1, h3 {
+    text-align: center;
+}
+
+/*Progress container*/
 
 .progress-container {
     position: fixed;
@@ -271,7 +285,6 @@ ul.myBar {
     position: relative;
     flex-direction: row;
     justify-content: space-evenly;
-    overflow: hidden;
     width: 70%;
     margin:auto;
     display: flex;
@@ -297,29 +310,47 @@ ul.myBar {
     height: 0.4em;
     margin: 0.3em;
     z-index: 1;
-    left: 9em;
+    left:12.5em;
 }
 
-  ul.myBar li {
-    background: #dc5356;
-    color: #dc5356;
-    border-radius: 100%;
-    width: 1em;
-    height: 1em;
-    z-index: 2;
-    position: relative;
-  }
-  ul.myBar li.stop ~ li {
-    background: #58a27b;
-  }
-  ul.myBar li.stop ~ li::after {
-    height: 0;
-  }
-  ul.myBar li::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    background: #dc5356;
+@media screen and (max-width:992px) {
+#progression {
+    left: 9em;
+}
+}
+
+ul.myBar li {
+background: #dc5356;
+color: #dc5356;
+border-radius: 100%;
+width: 1em;
+height: 1em;
+z-index: 2;
+position: relative;
+cursor: pointer;
+animation: pulse 2s infinite;
+}
+
+ul.myBar li.stop {
+background: #58a27b;
+animation: none;
+}
+
+@keyframes pulse {
+    0% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+    }
+    
+    70% {
+      transform: scale(1);
+      box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+    }
+    
+    100% {
+      transform: scale(0.95);
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
   }
 
 .hide {
