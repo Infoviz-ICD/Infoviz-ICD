@@ -9,6 +9,18 @@ $(document).ready(function() {
     $("#CP").prop('id', 'CPvalue');
     $(".progress-container").removeClass("hide");
   })
+
+  $(".nextB").click(function () {
+    $(".nextB").prop("class", "stop")
+    var top = $("#Second").position().top;
+    $('html').scrollTop(top);
+  })
+
+  $(".nextC").click(function () {
+    $(".nextC").prop("class", "stop")
+    var top = $("#Third").position().top;
+    $('html').scrollTop(top);
+  })
 });
 
 
@@ -21,3 +33,16 @@ function myFunction() {
   var scrolled = (winScroll / height) * 100;
   document.getElementById("progression").style.width = scrolled + "%";
 }
+
+
+
+/*
+function getDocumentOffsetPosition(el) {
+  let top = 0, left = 0;
+  while (el !== null) {
+      top += el.offsetTop;
+      left += el.offsetLeft;
+      el = el.offsetParent;
+  }
+  return {top, left};
+}*/
