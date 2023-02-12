@@ -156,7 +156,9 @@ button::after {
     background-color: #f4f9f6e4;
     padding: 2%;
     font-size: large;
-    height: 90%;
+}
+
+.text p { 
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -164,8 +166,11 @@ button::after {
     padding-left: 2%;
 }
 
+#First .text {
+    height: 90%;
+}
 
-#First, #Second {
+#First, #Second, #Third {
     position:relative;
     height: 100vh;
     min-height: 500px;
@@ -263,24 +268,36 @@ to {
 
 #Second {
     padding: 10%; 
-    padding-top: 5%;
+    padding-top: 3%;
 }
 
 #Second h1, h3 {
     text-align: center;
 }
 
+#Second h1 {
+    padding: 1%;
+}
+
+#Second figure {
+    margin-top: 3%;
+}
+
 #Second img {
-    max-width: 50%;
+    max-width: 60%;
     margin: auto;
     display: flex;
+}
+
+.center {
+    text-align: center;
 }
 
 /*Progress container*/
 
 .progress-container {
     position: fixed;
-    top: 90vh;
+    top: 95vh;
     width: 100%;
     margin: auto;
   }
