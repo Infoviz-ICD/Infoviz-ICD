@@ -270,6 +270,12 @@ to {
     text-align: center;
 }
 
+#Second img {
+    max-width: 50%;
+    margin: auto;
+    display: flex;
+}
+
 /*Progress container*/
 
 .progress-container {
