@@ -21,6 +21,7 @@ $(document).ready(function() {
     var top = $("#Third").position().top;
     $('html').scrollTop(top);
   })
+
 });
 
 
@@ -33,8 +34,6 @@ function myFunction() {
   var scrolled = (winScroll / height) * 100;
   document.getElementById("progression").style.width = scrolled + "%";
 }
-
-
 
 /*
 function getDocumentOffsetPosition(el) {
