@@ -338,12 +338,13 @@ to {
     margin-right: -30%;
 }
 
-#comparisonregion {
-    height: 90vh;
+#sitesperregion, #institutesperregion {
     width:  95%;
+    height: 35vh;
     display: block;
     position: relative;
-    margin-left: -5%;
+    margin: auto;
+    padding: 2%;
 }
 
 #Forth {
