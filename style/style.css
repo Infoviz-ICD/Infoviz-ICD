@@ -5,6 +5,8 @@ html {
     width:100%;
  }
 
+/*Cover page*/
+
 .masthead {
     top: 0;
     height: 100vh;
@@ -155,12 +157,21 @@ button::after {
 .text {
     background-color: #f4f9f6e4;
     padding: 2%;
-    font-size: large;
+    font-size: 1.1em;
 }
 
 .text p { 
     font-family: 'Oxygen', sans-serif;
 }
+
+
+#First, #Second, #Third {
+    position:relative;
+    height: 100vh;
+    min-height: 500px;
+}
+
+/*First Section*/
 
 #First .text p {
     padding-left: 2%;
@@ -170,11 +181,6 @@ button::after {
     height: 90%;
 }
 
-#First, #Second, #Third {
-    position:relative;
-    height: 100vh;
-    min-height: 500px;
-}
 
 #First .mainTitle {
     margin-left:-30%;
@@ -266,6 +272,8 @@ to {
     height: 20vh;
 }
 
+/*Second section*/
+
 #Second {
     padding: 10%; 
     padding-top: 3%;
@@ -291,6 +299,36 @@ to {
 
 .center {
     text-align: center;
+}
+
+/*Third section*/
+
+#Third .mainTitle {
+    text-align: center;
+    padding: 1%;
+}
+
+#Third .text {
+    margin:auto;
+    width: 95%;
+    height: 75%;
+}
+
+#timerange {
+    margin: auto;
+    width: 80%;
+    height: 60%;
+}
+
+@media screen and (min-width:992px) {
+    #Third .text {
+        padding-left:10%;
+        padding-right:10%;
+    }
+
+    #timerange {
+        margin-left: 10%;
+    }
 }
 
 /*Progress container*/
