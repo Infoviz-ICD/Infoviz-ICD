@@ -3,6 +3,7 @@
 html {
     scroll-behavior: smooth;
     width:100%;
+    overflow-x: hidden;
  }
 
 /*Cover page*/
@@ -165,7 +166,7 @@ button::after {
 }
 
 
-#First, #Second, #Third {
+#First, #Second, #Third, #Forth {
     position:relative;
     height: 100vh;
     min-height: 500px;
@@ -329,6 +330,25 @@ to {
     #timerange {
         margin-left: 10%;
     }
+}
+
+/*Forth section*/
+
+#Forth .mainTitle {
+    margin-right: -30%;
+}
+
+#comparisonregion {
+    height: 90vh;
+    width:  95%;
+    display: block;
+    position: relative;
+    margin-left: -5%;
+}
+
+#Forth {
+    margin: 5%;
+    margin-top: 3%;
 }
 
 /*Progress container*/
