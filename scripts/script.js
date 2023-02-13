@@ -419,9 +419,9 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
       var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
       xRenderer.labels.template.setAll({
        rotation: -45,
+       fontSize: 15,
        centerY: am5.p50,
        centerX: am5.p100,
-       paddingRight: 15
       });
       
       xRenderer.grid.template.setAll({
@@ -491,7 +491,6 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
       xAxis.data.setAll(data);
       series.data.setAll(data);
       
-      
       // Make stuff animate on load
       // https://www.amcharts.com/docs/v5/concepts/animations/
       series.appear(1000);
@@ -536,6 +535,7 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
         var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
         xRenderer.labels.template.setAll({
           rotation: -45,
+          fontSize: 12,
           centerY: am5.p50,
           centerX: am5.p100,
         });
