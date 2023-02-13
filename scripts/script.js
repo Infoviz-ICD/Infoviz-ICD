@@ -1,10 +1,9 @@
 
 $(document).ready(function() {
   $("#start").click(function() {
-    $("#start").animate({bottom: "-100vh"});
-    $("#onTop").animate({top: "-100vh"});
-    document.getElementById("background").style.background = 0;
-    $("#First").animate({top:"-100vh"})
+    var top = $("#First").position().top;
+    $('html').scrollTop(top);
+
     $("#CE").prop('id', 'CEvalue');
     $("#CP").prop('id', 'CPvalue');
     $(".progress-container").removeClass("hide");
@@ -14,6 +13,7 @@ $(document).ready(function() {
     $(".nextB").prop("class", "stop")
     var top = $("#Second").position().top;
     $('html').scrollTop(top);
+
   })
 
   $(".nextC").click(function () {
@@ -25,6 +25,18 @@ $(document).ready(function() {
   $(".nextD").click(function () {
     $(".nextD").prop("class", "stop")
     var top = $("#Forth").position().top;
+    $('html').scrollTop(top);
+  })
+
+  $(".nextE").click(function () {
+    $(".nextE").prop("class", "stop")
+    var top = $("#Fifth").position().top;
+    $('html').scrollTop(top);
+  })
+
+  $(".nextF").click(function () {
+    $(".nextE").prop("class", "stop")
+    var top = $("#Sixth").position().top;
     $('html').scrollTop(top);
   })
 
@@ -68,224 +80,665 @@ $(document).ready(function() {
   Plotly.newPlot('timerange', data);
 
 
-
-  //REGION COMPARISON
+  //CULTURAL EVENTS REGION - SITE COUNT
   am5.ready(function() {
     
-  // Create root element
-  // https://www.amcharts.com/docs/v5/getting-started/#Root_element
-  var root = am5.Root.new("comparisonregion");
-  
-  // Set themes
-  // https://www.amcharts.com/docs/v5/concepts/themes/
-  root.setThemes([
-    am5themes_Animated.new(root)
-  ]);
-  
-  // Create chart
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/
-  var chart = root.container.children.push(am5xy.XYChart.new(root, {
-    panX: false,
-    panY: false,
-    wheelX: "panX",
-    wheelY: "zoomX",
-    layout: root.verticalLayout
-  }));
-  
-  
-  // Add legend
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/legend-xy-series/
-  var legend = chart.children.push(am5.Legend.new(root, {
-    centerX: am5.p50,
-    x: am5.p50
-  }))
-  
-  
-  // Data
-  var data = [{
-    region: "Lombardia",
-    sites: 1389,
-    institutions: 106
-  }, {
-    region: "Lazio",
-    sites: 4488,
-    institutions: 0
-  }, {
-    region: "Toscana",
-    sites: 1857,
-    institutions: 361
-  }, {
-    region: "Piemonte",
-    sites: 813,
-    institutions: 79
-  }, {
-    region: "Emilia-Romagna",
-    sites: 1116,
-    institutions: 10
-  },
-   {
-    region: "Puglia",
-    sites: 1006,
-    institutions: 6
-  }, {
-    region: "Marche",
-    sites: 1156,
-    institutions: 28
-  }
-  , {
-    region: "Veneto",
-    sites: 1389,
-    institutions: 100
-  },
-   {
-    region: "Umbria",
-    sites: 775,
-    institutions: 8
-  }
-  , {
-    region: "Piemonte",
-    sites: 813,
-    institutions: 79
-  }
-  , {
-    region: "Abruzzo",
-    sites: 338,
-    institutions: 60
-  }
-  , {
-    region: "Friuli-Venezia Giulia",
-    sites: 635,
-    institutions: 3
-  },
- 
-  {
-    region: "Campania",
-    sites: 2396,
-    institutions: 67
-  },
-  {
-    region: "Basilicata",
-    sites: 483,
-    institutions: 0
-  },
-  {
-    region: "Trentino-Alto Adige",
-    sites: 71,
-    institutions: 0
-  },
-  {
-    region: "Calabria",
-    sites: 981,
-    institutions: 0
-  },
-  {
-    region: "Sardegna",
-    sites: 773,
-    institutions: 0
-  },
-  {
-    region: "Molise",
-    sites: 378,
-    institutions: 0
-  },
-  {
-    region: "Liguria",
-    sites: 938,
-    institutions: 0
-  },
-  {
-    region: "Sicilia",
-    sites: 214,
-    institutions: 0
-  },
-  {
-    region: "Valle d'Aosta",
-    sites: 58,
-    institutions: 0
-  }];
-  
-  
-  // Create axes
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
-  var yAxis = chart.yAxes.push(am5xy.CategoryAxis.new(root, {
-    categoryField:"region",
-    renderer: am5xy.AxisRendererY.new(root, {
-      inversed: true,
-      cellStartLocation: 0.1,
-      forceHidden: false,
-      cellEndLocation: 0.9,
+    // Create root element
+    // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+    var root = am5.Root.new("sitesperregion");
+    
+    
+    // Set themes
+    // https://www.amcharts.com/docs/v5/concepts/themes/
+    root.setThemes([
+      am5themes_Animated.new(root)
+    ]);
+    
+    
+    // Create chart
+    // https://www.amcharts.com/docs/v5/charts/xy-chart/
+    var chart = root.container.children.push(am5xy.XYChart.new(root, {
+      panX: true,
+      panY: true,
+      wheelX: "panX",
+      wheelY: "zoomX",
+      pinchZoomX: true
+    }));
+    
+    // Add cursor
+    // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+    var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+    cursor.lineY.set("visible", false);
+    
+    
+    // Create axes
+    // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+    var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+    xRenderer.labels.template.setAll({
+      rotation: -45,
+      centerY: am5.p50,
+      centerX: am5.p100,
+    });
+    
+    xRenderer.grid.template.setAll({
+      location: 1
     })
-  }));
-  
-  yAxis.data.setAll(data);
-  
-  var xAxis = chart.xAxes.push(am5xy.ValueAxis.new(root, {
-    renderer: am5xy.AxisRendererX.new(root, {
-      strokeOpacity: 0.1
-    }),
-    min: 0
-  }));
-  
-  
-  // Add series
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
-  function createSeries(field, name, color) {
-    var series = chart.series.push(am5xy.ColumnSeries.new(root, {
-      name: name,
-      xAxis: xAxis,
-      yAxis: yAxis,
-      valueXField: field,
-      fill: color,
-      stroke: color,
-      forceHidden: false,
-      categoryYField: "region",
-      sequencedInterpolation: true,
-      tooltip: am5.Tooltip.new(root, {
-        pointerOrientation: "horizontal",
-        labelText: "[bold]{name}[/]\n{categoryY}: {valueX}",
-        forceHidden:false
+    
+    var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+      maxDeviation: 0.3,
+      categoryField: "property",
+      renderer: xRenderer,
+      tooltip: am5.Tooltip.new(root, {})
+    }));
+    
+    var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+      maxDeviation: 0.3,
+      renderer: am5xy.AxisRendererY.new(root, {
+        strokeOpacity: 0.1
       })
     }));
-  
-    series.columns.template.setAll({
-      height: am5.p100,
-      strokeOpacity: 1,      
-      forceHidden:false,
-    });
+    
+    
+    // Create series
+    // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+    var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+      name: "Series 1",
+      xAxis: xAxis,
+      yAxis: yAxis,
+      valueYField: "value",
+      sequencedInterpolation: true,
+      categoryXField: "property",
+      tooltip: am5.Tooltip.new(root, {
+        labelText: "{valueY}"
+      })
+    }));
+    series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
+series.columns.template.adapters.add("fill", function(fill, target) {
+    return am5.color("#f0cb69");
+});
 
+series.columns.template.adapters.add("stroke", function(stroke, target) {
+  return chart.get("colors").getIndex(series.columns.indexOf(target));
+});
+  
+    
+    // Set data
+    var data = [ {
+      property: "Lazio",
+      value: 4496
+    }, {
+      property: "Campania",
+      value: 2399
+    },{
+      property: "Toscana",
+      value: 1863
+    }, {
+      property: "Veneto",
+      value: 1393
+    },{
+      property: "Lombardia",
+      value: 1390
+    },{
+      property: "Marche",
+      value: 1157
+    },{
+      property: "Emilia-Romagna",
+      value: 1126
+    }, {
+      property: "Puglia",
+      value: 1006
+    }, {
+      property: "Calabria",
+      value: 983
+    }
+    ,{
+      property: "Liguria",
+      value: 940
+    },{
+      property: "Piemonte",
+      value: 813
+    }, {
+      property: "Umbria",
+      value: 776
+    }
+    ,  {
+      property: "Sardegna",
+      value: 775
+    }
+    ,{
+      property: "Friuli-Venezia Giulia",
+      value: 635
+    },{
+      property: "Basilicata",
+      value: 484
+    },  {
+      property: "Molise",
+      value: 378
+    },{
+      property: "Abruzzo",
+      value: 338
+    },  {
+      property: "Trentino-Alto Adige",
+      value: 72
+    }, {
+      property: "Valle D'Aosta",
+      value: 58
+    }
+];
+    
+    xAxis.data.setAll(data);
     series.data.setAll(data);
-    series.appear();
+    
+    
+    // Make stuff animate on load
+    // https://www.amcharts.com/docs/v5/concepts/animations/
+    series.appear(1000);
+    chart.appear(1000, 100);
+    
+    }); // end am5.ready()
+
+
+    am5.ready(function() {
+    
+      // Create root element
+      // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+      var root = am5.Root.new("institutesperregion");
+      
+      
+      // Set themes
+      // https://www.amcharts.com/docs/v5/concepts/themes/
+      root.setThemes([
+        am5themes_Animated.new(root)
+      ]);
+      
+      
+      // Create chart
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/
+      var chart = root.container.children.push(am5xy.XYChart.new(root, {
+        panX: true,
+        panY: true,
+        wheelX: "panX",
+        wheelY: "zoomX",
+        pinchZoomX: true
+      }));
+      
+      // Add cursor
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+      var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+      cursor.lineY.set("visible", false);
+      
+      
+      // Create axes
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+      var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+      xRenderer.labels.template.setAll({
+        rotation: -45,
+        centerY: am5.p50,
+        centerX: am5.p100,
+      });
+      
+      xRenderer.grid.template.setAll({
+        location: 1
+      })
+      
+      var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+        maxDeviation: 0.3,
+        categoryField: "property",
+        renderer: xRenderer,
+        tooltip: am5.Tooltip.new(root, {})
+      }));
+      
+      var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+        maxDeviation: 0.3,
+        renderer: am5xy.AxisRendererY.new(root, {
+          strokeOpacity: 0.1
+        })
+      }));
+      
+      
+      // Create series
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+      var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+        name: "Series 1",
+        xAxis: xAxis,
+        yAxis: yAxis,
+        valueYField: "value",
+        sequencedInterpolation: true,
+        categoryXField: "property",
+        tooltip: am5.Tooltip.new(root, {
+          labelText: "{valueY}"
+        })
+      }));
+      series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
+  series.columns.template.adapters.add("fill", function(fill, target) {
+      return am5.color("#ab91c5");
+  });
   
-    return series;
-  }
+  series.columns.template.adapters.add("stroke", function(stroke, target) {
+    return chart.get("colors").getIndex(series.columns.indexOf(target));
+  });
+    
+      
+      // Set data
+      var data = [ {
+        property: "Toscana",
+        value: 361
+      },{
+        property: "Lomnbardia",
+        value: 106
+      },{
+        property: "Veneto",
+        value: 100
+      },
+      {
+        property: "Piemonte",
+        value: 79
+      },
+       {
+        property: "Campania",
+        value: 67
+      },{
+        property: "Abruzzo",
+        value: 60
+      }, {
+        property: "Marche",
+        value: 28
+      },{
+        property: "Emilia-Romagna",
+        value: 10
+      },
+       
+      {
+        property: "Umbria",
+        value: 8
+      },
+      {
+        property: "Puglia",
+        value: 6
+      },
+      
+      {
+        property: "Friuli-Venezia Giulia",
+        value: 3
+      }
+  ];
+      
+      xAxis.data.setAll(data);
+      series.data.setAll(data);
+      
+      
+      // Make stuff animate on load
+      // https://www.amcharts.com/docs/v5/concepts/animations/
+      series.appear(1000);
+      chart.appear(1000, 100);
+      
+      }); // end am5.ready()
+
+
+    //COUNTS PER TOSCANA
+    am5.ready(function() {
+
+      // Create root element
+      // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+      var root = am5.Root.new("institutespertoscana");
+      
+      
+      // Set themes
+      // https://www.amcharts.com/docs/v5/concepts/themes/
+      root.setThemes([
+       am5themes_Animated.new(root)
+      ]);
+      
+      
+      // Create chart
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/
+      var chart = root.container.children.push(am5xy.XYChart.new(root, {
+       panX: true,
+       panY: true,
+       wheelX: "panX",
+       wheelY: "zoomX",
+       pinchZoomX: true
+      }));
+      
+      // Add cursor
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+      var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+      cursor.lineY.set("visible", false);
+      
+      
+      // Create axes
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+      var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+      xRenderer.labels.template.setAll({
+       rotation: -45,
+       centerY: am5.p50,
+       centerX: am5.p100,
+       paddingRight: 15
+      });
+      
+      xRenderer.grid.template.setAll({
+       location: 1
+      })
+      
+      var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+       maxDeviation: 0.3,
+       categoryField: "city",
+       renderer: xRenderer,
+       tooltip: am5.Tooltip.new(root, {})
+      }));
+      
+      var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+       maxDeviation: 0.3,
+       renderer: am5xy.AxisRendererY.new(root, {
+         strokeOpacity: 0.1
+       })
+      }));
+      
+      
+      // Create series
+      // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+      var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+       name: "Series 1",
+       xAxis: xAxis,
+       yAxis: yAxis,
+       valueYField: "value",
+       sequencedInterpolation: true,
+       categoryXField: "city",
+       tooltip: am5.Tooltip.new(root, {
+         labelText: "{valueY}"
+       })
+      }));
+      
+      series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
+      series.columns.template.adapters.add("fill", function(fill, target) {
+       return am5.color("#ab91c5");
+      });
+      
+      series.columns.template.adapters.add("stroke", function(stroke, target) {
+       return chart.get("colors").getIndex(series.columns.indexOf(target));
+      });
+      
+      
+      // Set data
+      var data = [ {
+       city: "Firenze",
+       value: 180
+      },{
+       city: "Pisa",
+       value: 64
+      }, {
+       city: "Siena",
+       value: 62
+      },{
+       city: "Lucca",
+       value: 45
+      }, {
+       city: "Poggio a Caiano",
+       value: 5
+      }, {
+       city: "Pescia",
+       value: 5
+      }];
+      
+      xAxis.data.setAll(data);
+      series.data.setAll(data);
+      
+      
+      // Make stuff animate on load
+      // https://www.amcharts.com/docs/v5/concepts/animations/
+      series.appear(1000);
+      chart.appear(1000, 100);
+      
+      }); // end am5.ready()
+
+
+      //SITES
+      am5.ready(function() {
+  
+        // Create root element
+        // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+        var root = am5.Root.new("sitespertoscana");
+        
+        
+        // Set themes
+        // https://www.amcharts.com/docs/v5/concepts/themes/
+        root.setThemes([
+          am5themes_Animated.new(root)
+        ]);
+        
+        
+        // Create chart
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/
+        var chart = root.container.children.push(am5xy.XYChart.new(root, {
+          panX: true,
+          panY: true,
+          wheelX: "panX",
+          wheelY: "zoomX",
+          pinchZoomX: true
+        }));
+        
+        // Add cursor
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+        var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+        cursor.lineY.set("visible", false);
+        
+        
+        // Create axes
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+        var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+        xRenderer.labels.template.setAll({
+          rotation: -45,
+          centerY: am5.p50,
+          centerX: am5.p100,
+        });
+        
+        xRenderer.grid.template.setAll({
+          location: 1
+        })
+        
+        var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+          maxDeviation: 0.3,
+          categoryField: "city",
+          renderer: xRenderer,
+          tooltip: am5.Tooltip.new(root, {})
+        }));
+        
+        var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+          maxDeviation: 0.3,
+          renderer: am5xy.AxisRendererY.new(root, {
+            strokeOpacity: 0.1
+          })
+        }));
+        
+        
+        // Create series
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+        var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+          name: "Series 1",
+          xAxis: xAxis,
+          yAxis: yAxis,
+          valueYField: "value",
+          sequencedInterpolation: true,
+          categoryXField: "city",
+          tooltip: am5.Tooltip.new(root, {
+            labelText: "{valueY}"
+          })
+        }));
+        
+        series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
+      series.columns.template.adapters.add("fill", function(fill, target) {
+          return am5.color("#f0cb69");
+        });
+        
+        series.columns.template.adapters.add("stroke", function(stroke, target) {
+          return chart.get("colors").getIndex(series.columns.indexOf(target));
+        });
+        
+        
+        // Set data
+        var data = [{
+          city: "Firenze",
+          value: 828
+        },{
+          city: "Lucca",
+          value: 147
+        },
+        {
+          city: "Siena",
+          value: 120
+        },
+        {
+          city: "Pisa",
+          value: 83
+        },
+        {
+          city: "Chiusi",
+          value: 64
+        },
+         {
+          city: "Pistoia",
+          value: 53
+        }, {
+          city: "Prato",
+          value: 47
+        },{
+          city: "Cerreto Guidi",
+          value: 44
+        }, {
+          city: "Grosseto",
+          value: 40
+        }, {
+          city: "Orbetello",
+          value: 30
+        }, {
+          city: "Monsumanno Terme",
+          value: 29
+        },{
+          city: "Poggio a Caiano",
+          value: 26
+        },{
+          city: "Calci",
+          value: 23
+        },{
+          city: "Portoferraio",
+          value: 21
+        },{
+          city: "Anghiari",
+          value: 17
+        },{
+          city: "Carmignano",
+          value: 15
+        },{
+          city: "Castiglione della Pescaia",
+          value: 14
+        },{
+          city: "Massa",
+          value: 10
+        }, {
+          city: "Viareggio",
+          value: 8
+        }, {
+          city: "Monteriggioni",
+          value: 6
+        },{
+          city: "Empoli",
+          value: 5
+        },{
+          city: "Campiglia Marittima",
+          value: 4
+        },{
+          city: "Camaiore",
+          value: 4
+        },{
+          city: "Piombino",
+          value: 4
+        },{
+          city: "Pescia",
+          value: 4
+        },  {
+          city: "Carrara",
+          value: 4
+        }
+        ];
+        
+        
+        xAxis.data.setAll(data);
+        series.data.setAll(data);
+        
+        
+        // Make stuff animate on load
+        // https://www.amcharts.com/docs/v5/concepts/animations/
+        series.appear(1000);
+        chart.appear(1000, 100);
+        
+        });
 
   
-  createSeries("sites", "Sites", "#f0cb69");
-  createSeries("institutions", "Institutions", "#ab91c5");
-  
+    Bokeh.set_log_level("info");
+    (function() {
+      const fn = function() {
+        Bokeh.safely(function() {
+          (function(root) {
+            function embed_document(root) {
+            const docs_json = document.getElementById('p1851').textContent;
+            const render_items = [{"docid":"9a3bcaed-d0ca-4c7c-9a79-98f0d396748c","roots":{"p1339":"c2a3470e-96b3-4522-bc4c-9c5fd4e02d50"},"root_ids":["p1339"]}];
+            root.Bokeh.embed.embed_items(docs_json, render_items);
+            }
+            if (root.Bokeh !== undefined) {
+              embed_document(root);
+            } else {
+              let attempts = 0;
+              const timer = setInterval(function(root) {
+                if (root.Bokeh !== undefined) {
+                  clearInterval(timer);
+                  embed_document(root);
+                } else {
+                  attempts++;
+                  if (attempts > 100) {
+                    clearInterval(timer);
+                    console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                  }
+                }
+              }, 10, root)
+            }
+          })(window);
+        });
+      };
+      if (document.readyState != "loading") fn();
+      else document.addEventListener("DOMContentLoaded", fn);
+    })();
 
-  
-  // Add legend
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/legend-xy-series/
-  var legend = chart.children.push(am5.Legend.new(root, {
-    centerX: am5.p50,
-    x: am5.p50
-  }));
-  
-  legend.data.setAll(chart.series.values);
-  
-  
-  // Add cursor
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
-  var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {
-    behavior: "zoomY"
-  }));
-  cursor.lineY.set("forceHidden", true);
-  cursor.lineX.set("forceHidden", true);
-  
-  // Make stuff animate on load
-  // https://www.amcharts.com/docs/v5/concepts/animations/
-  chart.appear(1000, 100);
-  
-  }); // end am5.ready()
+
+    (function() {
+      const fn = function() {
+        Bokeh.safely(function() {
+          (function(root) {
+            function embed_document(root) {
+            const docs_json = document.getElementById('p2211').textContent;
+            const render_items = [{"docid":"bf07479a-3083-4db2-8764-52a5f7fbca4d","roots":{"p1686":"aba76160-93e1-4e82-9315-e9e8981bd362"},"root_ids":["p1686"]}];
+            root.Bokeh.embed.embed_items(docs_json, render_items);
+            }
+            if (root.Bokeh !== undefined) {
+              embed_document(root);
+            } else {
+              let attempts = 0;
+              const timer = setInterval(function(root) {
+                if (root.Bokeh !== undefined) {
+                  clearInterval(timer);
+                  embed_document(root);
+                } else {
+                  attempts++;
+                  if (attempts > 100) {
+                    clearInterval(timer);
+                    console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                  }
+                }
+              }, 10, root)
+            }
+          })(window);
+        });
+      };
+      if (document.readyState != "loading") fn();
+      else document.addEventListener("DOMContentLoaded", fn);
+    })();
 })
