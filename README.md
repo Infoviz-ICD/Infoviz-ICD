@@ -42,8 +42,7 @@ Two main datasets have beel used
   <ul><a href="https://www.ne-mo.org/fileadmin/Dateien/public/Publications/NEMO_Final_Report_Digitisation_and_IPR_in_European_Museums_WG_07.2020.pdf">"Final report
 Digitisation and IPR in European Museums" (Published by Network of European Museum Organisations), (07/2020) last visited (13/02/2023).</a></ul>
     <ul><a href="https://digitallibrary.cultura.gov.it/wp-content/uploads/2023/01/PND_versione1_1_gen2023.pdf">"Piano Nazionale di Digitalizzazione del patrimonio culturale 2022-2023" (Curated by Ministero della Cultura), last visited (13/02/2023).</a></ul>
-  
-  </li>
+</li>
 
 
 <h3>Templates and libraries</h3>
@@ -52,7 +51,7 @@ Visualizations and multimedia content presentations are created through the foll
 
 <li>
   <ul><a href="https://www.amcharts.com/demos/simple-column-chart/">amCharts(JS)</a></ul>
-   <ul><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a></ul></li>
+  <ul><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a></ul></li>
 
 
 <h3>License</h3>
