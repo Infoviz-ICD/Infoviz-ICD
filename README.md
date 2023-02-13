@@ -37,11 +37,11 @@ Two main datasets have beel used
 <h3>Bibliography and online resources</h3>
 
 <ul>
-  <li><a href="http://wit.istc.cnr.it/arco/lode/extract?lang=en&url=https://raw.githubusercontent.com/ICCD-MiBACT/ArCo/master/ArCo-release/ontologie/arco/arco.owl">Gangemi et al., "ArCo Ontology (ArCo Network)", version 1.2, last visited (13/02/2023).</a></li>
-  <li><a href="https://ontopia-lode.agid.gov.it/lode/extract?url=https://w3id.org/italia/onto/Cultural-ON">"Cultural-ON (Cultural ONtology): Cultural Institute/Site and Cultural Event Ontology", version 3.2 (27/05/2019), last visited (13/02/2023).</a></li>
+  <li>Gangemi et al., <a href="http://wit.istc.cnr.it/arco/lode/extract?lang=en&url=https://raw.githubusercontent.com/ICCD-MiBACT/ArCo/master/ArCo-release/ontologie/arco/arco.owl">"ArCo Ontology (ArCo Network)"</a>, version 1.2, last visited (13/02/2023).</li>
+  <li><a href="https://ontopia-lode.agid.gov.it/lode/extract?url=https://w3id.org/italia/onto/Cultural-ON">"Cultural-ON (Cultural ONtology): Cultural Institute/Site and Cultural Event Ontology"</a>, version 3.2 (27/05/2019), last visited (13/02/2023).</li>
   <li><a href="https://www.ne-mo.org/fileadmin/Dateien/public/Publications/NEMO_Final_Report_Digitisation_and_IPR_in_European_Museums_WG_07.2020.pdf">"Final report
-Digitisation and IPR in European Museums" (Published by Network of European Museum Organisations), (07/2020) last visited (13/02/2023).</a></li>
-    <li><a href="https://digitallibrary.cultura.gov.it/wp-content/uploads/2023/01/PND_versione1_1_gen2023.pdf">"Piano Nazionale di Digitalizzazione del patrimonio culturale 2022-2023" (Curated by Ministero della Cultura), last visited (13/02/2023).</a></li>
+    Digitisation and IPR in European Museums"</a> (Published by Network of European Museum Organisations), (07/2020) last visited (13/02/2023).</li>
+    <li><a href="https://digitallibrary.cultura.gov.it/wp-content/uploads/2023/01/PND_versione1_1_gen2023.pdf">"Piano Nazionale di Digitalizzazione del patrimonio culturale 2022-2023" </a>(Curated by Ministero della Cultura), last visited (13/02/2023).</li>
 </ul>
 
 
@@ -64,7 +64,7 @@ If not stated otherwise, this work is licensed under a <a href="https://creative
 CC BY 4.0 
 <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://camo.githubusercontent.com/72af7c8e70a45c471163e803748d0338b3b2b52f6b040804e549e4163de72a58/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f342e302f38387833312e706e67" alt="CC BY 4.0" data-canonical-src="https://i.creativecommons.org/l/by/4.0/88x31.png" style="max-width: 100%;"></a>
 
-As both the datasets allow the reusal according the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License.</a>, our work is fully reusable, according to the same parameters.
+As both the datasets allow the reusal according the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>, our work is fully reusable, according to the same parameters.
 
 
 
