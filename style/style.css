@@ -195,6 +195,8 @@ html {
 #First .mainTitle {
     margin-left:-30%;
     padding-left: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 @media screen and (min-width:992px) {
@@ -288,14 +290,14 @@ to {
 
 #Second {
     padding: 10%; 
-    padding-top: 3%;
+    padding-top: 1%;
 }
 
-#Second h1, h3, #Sixth h1 {
+#Second h2, h3, #Sixth h2 {
     text-align: center;
 }
 
-#Second h1, #Sixth h1 {
+#Second h2, #Sixth h2 {
     padding: 1%;
 }
 
@@ -347,6 +349,8 @@ to {
 
 #Forth .mainTitle {
     margin-right: -30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 #sitesperregion, #institutesperregion {
@@ -357,8 +361,11 @@ to {
     margin: auto;
     padding: 2%;
     border: #000 solid;
-    
     border-width: 0.05em;
+}
+
+#sitesperregion {
+    margin-bottom: 2%;
 }
 
 #Forth {
