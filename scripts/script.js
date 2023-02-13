@@ -714,8 +714,8 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
         Bokeh.safely(function() {
           (function(root) {
             function embed_document(root) {
-            const docs_json = document.getElementById('p2211').textContent;
-            const render_items = [{"docid":"bf07479a-3083-4db2-8764-52a5f7fbca4d","roots":{"p1686":"aba76160-93e1-4e82-9315-e9e8981bd362"},"root_ids":["p1686"]}];
+            const docs_json = document.getElementById('p1491').textContent;
+            const render_items = [{"docid":"76f1d0b1-3d6d-4478-a764-0afc48c45e5a","roots":{"p1005":"a2d1f600-fac5-4111-be69-74195da06f6a"},"root_ids":["p1005"]}];
             root.Bokeh.embed.embed_items(docs_json, render_items);
             }
             if (root.Bokeh !== undefined) {
