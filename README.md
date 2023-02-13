@@ -19,7 +19,7 @@ The work was split between the team members according both the materials we obta
 <table>
   <tr><th>
     Team member</th>	<th>Section</th></tr>
-  <tr><td>Bianca LaManna</td>	<td>Data Analysis and Manipulation (Cultural Properties) & Web Communication</td></tr>
+  <tr><td>Bianca La Manna</td>	<td>Data Analysis and Manipulation (Cultural Properties) & Web Communication</td></tr>
   <tr><td>Martina Pensalfini</td>	<td>Data Analysis and Manipulation (Cultural Events) & Data Visualization</td></tr>
 
   </table>
