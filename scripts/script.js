@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
   $("#start").click(function() {
     var top = $("#First").position().top;
     $('html').scrollTop(top);
@@ -125,6 +126,7 @@ $(document).ready(function() {
       rotation: -45,
       centerY: am5.p50,
       centerX: am5.p100,
+      fontSize: 12
     });
     
     xRenderer.grid.template.setAll({
@@ -282,6 +284,7 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
         rotation: -45,
         centerY: am5.p50,
         centerX: am5.p100,
+        fontSize: 12
       });
       
       xRenderer.grid.template.setAll({
