@@ -160,9 +160,6 @@ _:_ res:solution [
       res:binding [ res:variable "address" ; res:value ns0:c82ea4df3199b259ab6dcedb7b7dc6e1 ] ;
       res:binding [ res:variable "fullAddress" ; res:value "Via Zannetti, 8" ] ] .
 _:_ res:solution [
-      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/81caa597f24772824b1da502347461a1> ] ;
-      res:binding [ res:variable "fullAddress" ; res:value "Piazzetta de' Medici, 16" ] ] .
-_:_ res:solution [
       res:binding [ res:variable "address" ; res:value ns0:e1a98f6c36eea93ac0cf7ea521588d1e ] ;
       res:binding [ res:variable "fullAddress" ; res:value "Via della Petraia, 40" ] ] .
 _:_ res:solution [
