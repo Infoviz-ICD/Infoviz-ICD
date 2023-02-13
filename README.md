@@ -61,7 +61,7 @@ Shield: <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src
 
 If not stated otherwise, this work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License.</a>
 
-CC BY 4.0 
+
 <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://camo.githubusercontent.com/72af7c8e70a45c471163e803748d0338b3b2b52f6b040804e549e4163de72a58/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792f342e302f38387833312e706e67" alt="CC BY 4.0" data-canonical-src="https://i.creativecommons.org/l/by/4.0/88x31.png" style="max-width: 100%;"></a>
 
 As both the datasets allow the reusal according the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>, our work is fully reusable, according to the same parameters.
