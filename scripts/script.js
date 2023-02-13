@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   $("#start").click(function() {
     var top = $("#First").position().top;
