@@ -1,0 +1,404 @@
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+_:_ a res:ResultSet .
+_:_ res:resultVariable "address" , "fullAddress" .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/8fe756cce4517770e5b4ce630a92e304> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via dell'Arcovata, 6" ] ] .
+@prefix ns0:	<https://w3id.org/arco/resource/Address/> .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:bb1e3489887279b477df28fc0a5968fc ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Giusti, 29" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d04f3ecaa468d4970e142860ad5c9621 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta rossa, 13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d04f3ecaa468d4970e142860ad5c9621 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta Rossa, 13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d04f3ecaa468d4970e142860ad5c9621 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Porta Rossa, 13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d04f3ecaa468d4970e142860ad5c9621 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta rossa ,13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/480a0b48676605992eb0bc340cff78fe> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza S. Spirito, 5" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2059ccf50d4565d4bf524d590ddea65c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Lungarno Serristori 1, 3, 5" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2059ccf50d4565d4bf524d590ddea65c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "lungarno Serristori, 1/3/5" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:dc88bc092f2a5ad81ec8ceb2a281f369 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazzale degli Uffizi" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:dc88bc092f2a5ad81ec8ceb2a281f369 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazzale degli Uffizi" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:dc88bc092f2a5ad81ec8ceb2a281f369 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazzale degli uffizi" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/087dfb9965cd80dc9b528a160c670376> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza de' Mozzi, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:c11a9c25afa5d4089c9e41782d9c30e1 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Giusti, 27" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5c6f7635c712420d03afff1b870a84a0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Faenza, 40" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/9af0c192bb70a6435a13135816d4d0e0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via dei Benci, 6" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/3ca9e96c2baa399df42c4edab6c968f8> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via XXVII Aprile, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:c39dda213bdccc999e5316c2e283463c ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza S. Croce 16" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/69ec8193e274a26c19cefb753a5c6213> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza S. Croce" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/9015c2f2c02e25ed58c4e44dfc1b0153> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/9015c2f2c02e25ed58c4e44dfc1b0153> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/13219322a59903c1360a0c85347b8fa0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/13219322a59903c1360a0c85347b8fa0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/13219322a59903c1360a0c85347b8fa0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/13219322a59903c1360a0c85347b8fa0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d86b4bff1a36e9239c4571cc3592e04e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.za Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:d86b4bff1a36e9239c4571cc3592e04e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.za Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/96add5d9536357b6a63355d9f2bbfab6> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza de' Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/96add5d9536357b6a63355d9f2bbfab6> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza de' Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/96add5d9536357b6a63355d9f2bbfab6> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza de' Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/635d5d948bb29816823820273409f1ff> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta Rossa, 13, 15" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:ee7e2a1365dcd7085d589ced361ca616 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via La Pira, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:ee7e2a1365dcd7085d589ced361ca616 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via La Pira, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:a912eba9bcd05ed8a5dafa7dad6966e4 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza Madonna degli Aldobrandini, 5" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82e39ffcdd29f5b1ca56632308bf1426> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via dell'Oriuolo, 24" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82372a7a0ba92b10a78a0906daead144> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via del Proconsolo. 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82372a7a0ba92b10a78a0906daead144> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via del Proconsolo, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82372a7a0ba92b10a78a0906daead144> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via del proconsolo, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82372a7a0ba92b10a78a0906daead144> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via del Proconsolo 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/82372a7a0ba92b10a78a0906daead144> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via del Proconsolo, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/1ceeccf93adb7c243f93f566f491e0c3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Romana, 17" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/1ceeccf93adb7c243f93f566f491e0c3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Romana, 17" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:be4c382a72770df71fdfdb37a0302f70 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Micheli, 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/345f14211a73e28efd41ff5942eafa6d> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via del Proconsolo, 12" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/345f14211a73e28efd41ff5942eafa6d> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via del Proconsolo, 12" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e3fcf98f8c4cb3dc618e7800dff88f21 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via della Colonna, 38" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e3fcf98f8c4cb3dc618e7800dff88f21 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via della Colonna, 38" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/737fed8f6b670dfad9145126609aeb6c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via della Colonna" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:f12124415a0e1fc0877f7f0e1ac02010 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza della Santissima Annunziata 9b" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:b1e9f050ae5a1aee1565d56d4a64398e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Lambertesca 6" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:b1e9f050ae5a1aee1565d56d4a64398e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Lambertesca, 6" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:c82ea4df3199b259ab6dcedb7b7dc6e1 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Zannetti, 8" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/81caa597f24772824b1da502347461a1> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazzetta de' Medici, 16" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e1a98f6c36eea93ac0cf7ea521588d1e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via della Petraia, 40" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e1a98f6c36eea93ac0cf7ea521588d1e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via della Petraia, 40" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:a037764445cfe26a1ba1d68b4758faad ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via di S. Salvi, 43" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4287e9f9192e011971297d4609f2f41c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via di S. Salvi, 16" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/46700418a458d9dfe6d8c4be4c6999e3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti,1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/46700418a458d9dfe6d8c4be4c6999e3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza Pitti,1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:c3322e7cd8e978c5e442f59092dc5d9f ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via di San Salvi, 43" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/434ff16706d993a8fc111e71264ca318> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p. zza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/434ff16706d993a8fc111e71264ca318> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P zza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/434ff16706d993a8fc111e71264ca318> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P. zza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:cdc1e913e0c7505004cbf0b874ffd86a ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "pia zza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:f57d41a25da944d4af4fd75711745b50 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza S. Croce" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5ada01461b0ef942d7847c14ecef7ff2> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta rossa, 13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5ada01461b0ef942d7847c14ecef7ff2> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta Rossa, 13" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/367011e18e5d4fa315a688c368ca5abc> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Ricasoli, 58/60" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/367011e18e5d4fa315a688c368ca5abc> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Ricasoli, 58/60" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/367011e18e5d4fa315a688c368ca5abc> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Ricasoli, 58/ 60" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/367011e18e5d4fa315a688c368ca5abc> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Ricasoli 58, 60" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/827d24b31f7190b758d67a48aeb9ec5c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza del Duomo, 9" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/22ce3bc0e0bf696424be9688f69f013a> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Duomo, 9" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4f6020a2397b75a73b4922f78a919815> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via della Colonna, 38" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4f6020a2397b75a73b4922f78a919815> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via della Colonna, 38" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/7ba1a418b9135aeda387d316d4b8c032> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza della Santissima Annunziata, 9" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/1eb484cbeae719ffa14ab206338067f9> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0b7fbba8ff2b34592ab80328ea4ac4e3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza San Marco 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0b7fbba8ff2b34592ab80328ea4ac4e3> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza San Marco, 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/46909fc846e7bb8b9cf3f6e754d59242> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza S. Marco, 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/46909fc846e7bb8b9cf3f6e754d59242> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza S. Marco 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/46909fc846e7bb8b9cf3f6e754d59242> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza S. Marco, 3" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:fa7475b9cbea6cebc40334cf721854c8 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Giorgio La Pira 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2c379953d71bb93a00e67ddd89b7c790> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza della Signoria" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2c379953d71bb93a00e67ddd89b7c790> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza della Signoria" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4f8b1252298d7c4b02fcfd82c640ff47> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.le degli Uffizi" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/9f9bf76f71fbd86c61f5839ffce70bb8> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza Pitti" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2066e364f0c05c36ace18ba3bb2345ac> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Porta rossa, 5" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0bc0a4ef8871a4a153f876bef5840b24> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Giusti, 44" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0bc0a4ef8871a4a153f876bef5840b24> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Giusti, 44" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0bc0a4ef8871a4a153f876bef5840b24> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Giusti. 44" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/0bc0a4ef8871a4a153f876bef5840b24> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via giusti, 44" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/63228bf595aaa98437cbff469da88bd6> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza Pitti" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/6328b3997184ffc9101d3d6e7ac3ed4c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Zannetti, 8" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/016febc10f05a60891b4cafb167f53a2> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "v del Proconsolo, 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/27b7c6ae4e6d5a119c912aaf2c01ce2b> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via della Petraia 38, 50141 Firenze" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:bf6c6b340d1b329e61dadc4468cb8a48 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza de' Mozzi, 2" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/04de2a9162bf9bef46dd198d01506499> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.za Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/21140a5f7f4548a4aac4d0eb1ec9a56c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Camillo Cavour, 18" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:f38d563d482b655baa8ea0be32eea4a3 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Tagliaferri, 20/22" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/422b26ff4150725e15f1d4de4f2414e8> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Orsanmichele, 7" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/422b26ff4150725e15f1d4de4f2414e8> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Orsanmichele 7" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5870f700380b9336f5bbe5c295b59134> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza S. Maria Novella" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5870f700380b9336f5bbe5c295b59134> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza S. Maria Novella" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/8570177027b98856847bc22daf45e243> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza SS. Annunziata, 10" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/90a9622d097406b1905bbaaa5a6095dc> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "P.zza S.ma Annunziata, 10" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/68939dd49b432e775f55a174fb55da42> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza S. Pancrazio" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/8ce72c44aa78f81fae6d587d41c91a30> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "p.zza S. Pancrazio" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/5d603fc0fb1413015d461978ca9c9084> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Santa Maria Novella, 10" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/79048abe8dd28356dd640c281e10f2ec> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via del Proconsolo 4" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:b6915f16b30250387b40bdd21e516402 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "viale Filippo Strozzi" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2bba31e3c375ec641e48b518fa3eb3c2> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazzale del Poggio Imperiale, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/2bba31e3c375ec641e48b518fa3eb3c2> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazzale del Poggio Imperiale, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e8cb1cc4f83be1d46d67fe56522efc7e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e8cb1cc4f83be1d46d67fe56522efc7e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e8cb1cc4f83be1d46d67fe56522efc7e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza Pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e8cb1cc4f83be1d46d67fe56522efc7e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza Pitti 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:e8cb1cc4f83be1d46d67fe56522efc7e ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazza pitti, 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/73ce97223bfc8884454db3116904420c> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazza S.Giovanni 1" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:efcc70e4e202b5d0e32ecb4c7f4a076b ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via di Castello, 44" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4075f34cddac83a3d9cc1587a7d053d9> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Ricasoli 66" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4075f34cddac83a3d9cc1587a7d053d9> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via Ricasoli, 66" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4075f34cddac83a3d9cc1587a7d053d9> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Ricasoli, 66" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:bbe4b26019cb7f26aaf8f12a5efb00db ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via degli Alfani, 78" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:bbe4b26019cb7f26aaf8f12a5efb00db ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via degli Alfani, 78" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/44e13063276f3cbb98671cec410563bb> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazzale di Porta Romana" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/44e13063276f3cbb98671cec410563bb> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazzale di Porta Romana" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/7a0271394d6bf56b0f389df8aa6d23c0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "piazzale degli Uffizi, 6" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/7a0271394d6bf56b0f389df8aa6d23c0> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Piazzale degli Uffizi, 6" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value ns0:c9b3592683b8f82240361b6dd59dec04 ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via Lambertesca, 2" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4acab08ad514ec6783dcc71925b4524e> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "Via dei Massoni, 19" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4acab08ad514ec6783dcc71925b4524e> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via dei Massoni 19" ] ] .
+_:_ res:solution [
+      res:binding [ res:variable "address" ; res:value <https://w3id.org/arco/resource/Address/4acab08ad514ec6783dcc71925b4524e> ] ;
+      res:binding [ res:variable "fullAddress" ; res:value "via dei massoni 19" ] ] .
