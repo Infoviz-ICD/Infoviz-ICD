@@ -166,7 +166,7 @@ button::after {
 }
 
 
-#First, #Second, #Third, #Forth {
+#First, #Second, #Third, #Forth, #Fifth {
     position:relative;
     height: 100vh;
     min-height: 500px;
@@ -350,6 +350,17 @@ to {
 #Forth {
     margin: 5%;
     margin-top: 3%;
+}
+
+/*Fifth section*/
+#institutionspertoscana, #sitespertoscana {
+    height: 30vh;
+    width: 100%;
+}
+
+#Fifth .text {
+    padding: 10%;
+    margin: 2%;
 }
 
 /*Progress container*/
