@@ -24,7 +24,9 @@ html {
     position: absolute;
     background-image: url("../images/background.jpg");
     background-size:cover;
+    -webkit-animation: fadeIn 2s;
     animation: fadeIn 2s;
+    -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
     background-repeat: no-repeat;
     z-index: -2;
@@ -44,7 +46,10 @@ html {
 
 .masthead h1, #onTop {
     animation: display 1s;
+    -webkit-animation: display 1s;
     animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
     visibility: hidden;
     color:#fff;
@@ -71,8 +76,11 @@ html {
     background-color: #66bf90;
     margin-top: 3%;
     visibility: hidden;
+    -webkit-animation: popUp 1s;
     animation: popUp 1s;
+    -webkit-animation-delay: 3s;
     animation-delay: 3s;
+    -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
     box-shadow: 0.5em 0.5em 0.7em #58a27b;
     transition: all 0.3s ease-in-out 0s;
@@ -82,7 +90,7 @@ html {
     text-transform: uppercase;
 }
 
-button::before {
+.masthead button::before {
     content: '';
       border-radius: 1000px;
       min-width: calc(15em + 1em);
@@ -97,7 +105,7 @@ button::before {
       transition: all .3s ease-in-out 0s;
 }
 
-button::after {
+.masthead button::after {
     content: '';
     width: 2em; 
     height: 2em;
@@ -108,6 +116,7 @@ button::after {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    -webkit-animation: ring 1.5s infinite;
     animation: ring 1.5s infinite;
   }
 
@@ -166,7 +175,7 @@ button::after {
 }
 
 
-#First, #Second, #Third, #Forth, #Fifth, #Sixth {
+#First, #Second, #Third, #Forth, #Fifth, #Sixth, #Last {
     position:relative;
     height: 100vh;
     min-height: 500px;
@@ -202,10 +211,11 @@ button::after {
   }
   
 #CEvalue {
-animation: CEcounter 5s normal forwards;
-counter-reset: num var(--num);
-font: 800 2em system-ui;
-padding: 2rem;
+    -webkit-animation: CEcounter 5s normal forwards;
+    animation: CEcounter 5s normal forwards;
+    counter-reset: num var(--num);
+    font: 800 2em system-ui;
+    padding: 2rem;
 }
 #CEvalue::after {
 content: counter(num);
@@ -221,6 +231,7 @@ to {
 }
 
 #CPvalue {
+    -webkit-animation: CPcounter 5s normal forwards;
     animation: CPcounter 5s normal forwards;
     counter-reset: num var(--num);
     font: 800 2em system-ui;
@@ -398,6 +409,30 @@ to {
    margin-right:5%;
 }
 
+/*Last section*/
+#Last {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top:10%;
+    text-align: center;
+}
+
+#Last .text {
+    height: 50vh;
+}
+
+#end {
+    text-decoration: none;
+    width: 13em;
+    height: 3em;
+    border-radius: 5em;
+    padding: 1%;
+    background-color: #66bf90;
+    cursor: pointer;
+    text-transform :uppercase;
+    margin: 5%;
+}
+
 /*Progress container*/
 
 .progress-container {
@@ -422,7 +457,7 @@ ul.myBar {
     content: "";
     position: absolute;
     background: #dc5356;
-    width: 65%;
+    width: 73%;
     height: 0.4em;
     margin: 0.3em;
     z-index:-1;
@@ -433,12 +468,11 @@ ul.myBar {
     position: absolute;
     background: #58a27b;
     width: 0;
-    max-width: 65%;
+    max-width: 73%;
     text-align: left;
     height: 0.4em;
     margin: 0.3em;
     z-index: 1;
-    left:12.5em;
 }
 
 @media screen and (max-width:992px) {
@@ -448,15 +482,16 @@ ul.myBar {
 }
 
 ul.myBar li {
-background: #dc5356;
-color: #dc5356;
-border-radius: 100%;
-width: 1em;
-height: 1em;
-z-index: 2;
-position: relative;
-cursor: pointer;
-animation: pulse 2s infinite;
+    background: #dc5356;
+    color: #dc5356;
+    border-radius: 100%;
+    width: 1em;
+    height: 1em;
+    z-index: 2;
+    position: relative;
+    cursor: pointer;
+    -webkit-animation: pulse 2s infinite;
+    animation: pulse 2s infinite;
 }
 
 ul.myBar li.stop {
