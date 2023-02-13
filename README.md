@@ -31,7 +31,7 @@ Two main datasets have beel used
 <ul>
 
   <li>ArCo Dataset, <a href="https://dati.beniculturali.it/arco/index.php">link</a></li>
-  <li>MiC Dataset, <a href="https://dati.cultura.gov.it">link</a></li>
+  <li>dati.beniculturali.it, <a href="https://dati.cultura.gov.it">link</a></li>
   
   </ul>
 <h3>Bibliography and online resources</h3>
