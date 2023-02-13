@@ -1,5 +1,3 @@
-# Infoviz-ICD
-
 <h2>Cultural Sites in Italy</h2>
 
 <b>Italy is renown for its status as the land of wonders and culture, but how is such a thing expressed on its territory?</b>
@@ -8,25 +6,36 @@ Final Project of "Information Visualisation" (Prof. Marilena Daquino) at Univers
 
 <h3>Main outcomes</h3>
 
-Final website is available <a href="https://infoviz-icd.github.io/Infoviz-ICD/#">at the following link</a>
-A brief presentation describing purposes and metodologies of this project is available <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/c5a8d3fffd932590947823cc30ca5a7cd87a57f8/documentation.ipynb">at the following link</a>
+Final website is available <a href="https://infoviz-icd.github.io/Infoviz-ICD/#">at the following link</a>.
+
+A brief presentation describing purposes and metodologies of this project is available <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/c5a8d3fffd932590947823cc30ca5a7cd87a57f8/documentation.ipynb">at the following link</a>.
+
+Inside of the presentation the specific dataset employed can be found, which we have manipulated through the employment of different methods (e.g.: Pandas library) to extract the information we needed.
+
+<h3>Team members and statement of responsability</h3>
 
 
-All members of the teams worked together in the definition of the focal domain of interest, in the retrieval of source data and in the final revision. The core parts of the workflow were divided as follows:
+The work was split between the team members according both the materials we obtained and the the interest shown in the different fields.
+<table>
+  <tr><th>
+    Team member</th>	<th>Section</th></tr>
+  <tr><td>Bianca LaManna</td>	<td>Data Analysis and Manipulation (Cultural Properties) & Web Communication</td></tr>
+  <tr><td>Martina Pensalfini</td>	<td>Data Analysis and Manipulation (Cultural Events) & Data Visualization</td></tr>
 
-Team member	Section
-Ghasempouri Ali	Data Visualization
-Giacomini Sebastiano	Data Analysis and Manipulation
-Veggi Manuele	Web Communication
-References
+  </table>
+<h3>References</h3>
 
-Source datasets
+<h4>Source datasets</h4>
 
 Two main datasets have beel used
+<li>
 
-The Metropolitan Museum of Art Open Access CSV, link
-Zeri&LODE RDF Datasets, link
-Bibliography and online resources
+  <ul>Arco Dataset, <a href="https://dati.beniculturali.it/arco/index.php">link</a></ul>
+  <ul>MiC Dataset, <a href="https://dati.cultura.gov.it">link</a></ul>
+  
+  </li>
+<h3>Bibliography and online resources</h3>
+  
 
 The main references publications for the website are the catalog written by Zeri for the collection of Italian painting at MET:
 
