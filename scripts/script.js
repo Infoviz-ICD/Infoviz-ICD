@@ -487,197 +487,185 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
 
 
       //SITES
-am5.ready(function() {
+      am5.ready(function() {
   
-  // Create root element
-  // https://www.amcharts.com/docs/v5/getting-started/#Root_element
-  var root = am5.Root.new("sitespertoscana");
-  
-  
-  // Set themes
-  // https://www.amcharts.com/docs/v5/concepts/themes/
-  root.setThemes([
-    am5themes_Animated.new(root)
-  ]);
-  
-  
-  // Create chart
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/
-  var chart = root.container.children.push(am5xy.XYChart.new(root, {
-    panX: true,
-    panY: true,
-    wheelX: "panX",
-    wheelY: "zoomX",
-    pinchZoomX: true
-  }));
-  
-  // Add cursor
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
-  var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
-  cursor.lineY.set("visible", false);
-  
-  
-  // Create axes
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
-  var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
-  xRenderer.labels.template.setAll({
-    rotation: -45,
-    centerY: am5.p50,
-    centerX: am5.p100,
-  });
-  
-  xRenderer.grid.template.setAll({
-    location: 1
-  })
-  
-  var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
-    maxDeviation: 0.3,
-    categoryField: "city",
-    renderer: xRenderer,
-    tooltip: am5.Tooltip.new(root, {})
-  }));
-  
-  var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
-    maxDeviation: 0.3,
-    renderer: am5xy.AxisRendererY.new(root, {
-      strokeOpacity: 0.1
-    })
-  }));
-  
-  
-  // Create series
-  // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
-  var series = chart.series.push(am5xy.ColumnSeries.new(root, {
-    name: "Series 1",
-    xAxis: xAxis,
-    yAxis: yAxis,
-    valueYField: "value",
-    sequencedInterpolation: true,
-    categoryXField: "city",
-    tooltip: am5.Tooltip.new(root, {
-      labelText: "{valueY}"
-    })
-  }));
-  
-  series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
-series.columns.template.adapters.add("fill", function(fill, target) {
-    return am5.color("#f0cb69");
-  });
-  
-  series.columns.template.adapters.add("stroke", function(stroke, target) {
-    return chart.get("colors").getIndex(series.columns.indexOf(target));
-  });
-  
-  
-  // Set data
-  var data = [{
-    city: "Firenze",
-    value: 833
-  },{
-    city: "Lucca",
-    value: 147
-  },
-  {
-    city: "Siena",
-    value: 120
-  },
-  {
-    city: "Arezzo",
-    value: 120
-  },
-  {
-    city: "Pisa",
-    value: 83
-  },
-  {
-    city: "Chiusi",
-    value: 73
-  },
-   {
-    city: "Pistoia",
-    value: 53
-  }, {
-    city: "Prato",
-    value: 47
-  },{
-    city: "Cerreto Guidi",
-    value: 44
-  }, {
-    city: "Grosseto",
-    value: 40
-  }, {
-    city: "Orbetello",
-    value: 30
-  },{
-    city: "Poggio a Caiano",
-    value: 26
-  },{
-    city: "Calci",
-    value: 23
-  },{
-    city: "Portoferraio",
-    value: 21
-  },{
-    city: "Anghiari",
-    value: 17
-  },{
-    city: "Carmignano",
-    value: 15
-  },{
-    city: "Castiglione della Pescaia",
-    value: 14
-  },{
-    city: "Cortona",
-    value: 10
-  }
-  ,{
-    city: "Livorno",
-    value: 13
-  },{
-    city: "Massa",
-    value: 10
-  }, {
-    city: "Viareggio",
-    value: 8
-  }, {
-    city: "Monteriggioni",
-    value: 6
-  },{
-    city: "Empoli",
-    value: 5
-  },
-   {
-    city: "Castelfranco di Sopra",
-    value: 5
-  },{
-    city: "Campiglia Marittima",
-    value: 4
-  },{
-    city: "Camaiore",
-    value: 4
-  },{
-    city: "Piombino",
-    value: 4
-  },{
-    city: "Pescia",
-    value: 4
-  },  {
-    city: "Carrara",
-    value: 4
-  },
-  ];
-  
-  
-  xAxis.data.setAll(data);
-  series.data.setAll(data);
-  
-  
-  // Make stuff animate on load
-  // https://www.amcharts.com/docs/v5/concepts/animations/
-  series.appear(1000);
-  chart.appear(1000, 100);
-  
-  });
+        // Create root element
+        // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+        var root = am5.Root.new("sitespertoscana");
+        
+        
+        // Set themes
+        // https://www.amcharts.com/docs/v5/concepts/themes/
+        root.setThemes([
+          am5themes_Animated.new(root)
+        ]);
+        
+        
+        // Create chart
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/
+        var chart = root.container.children.push(am5xy.XYChart.new(root, {
+          panX: true,
+          panY: true,
+          wheelX: "panX",
+          wheelY: "zoomX",
+          pinchZoomX: true
+        }));
+        
+        // Add cursor
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/cursor/
+        var cursor = chart.set("cursor", am5xy.XYCursor.new(root, {}));
+        cursor.lineY.set("visible", false);
+        
+        
+        // Create axes
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/axes/
+        var xRenderer = am5xy.AxisRendererX.new(root, { minGridDistance: 30 });
+        xRenderer.labels.template.setAll({
+          rotation: -45,
+          centerY: am5.p50,
+          centerX: am5.p100,
+        });
+        
+        xRenderer.grid.template.setAll({
+          location: 1
+        })
+        
+        var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
+          maxDeviation: 0.3,
+          categoryField: "city",
+          renderer: xRenderer,
+          tooltip: am5.Tooltip.new(root, {})
+        }));
+        
+        var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
+          maxDeviation: 0.3,
+          renderer: am5xy.AxisRendererY.new(root, {
+            strokeOpacity: 0.1
+          })
+        }));
+        
+        
+        // Create series
+        // https://www.amcharts.com/docs/v5/charts/xy-chart/series/
+        var series = chart.series.push(am5xy.ColumnSeries.new(root, {
+          name: "Series 1",
+          xAxis: xAxis,
+          yAxis: yAxis,
+          valueYField: "value",
+          sequencedInterpolation: true,
+          categoryXField: "city",
+          tooltip: am5.Tooltip.new(root, {
+            labelText: "{valueY}"
+          })
+        }));
+        
+        series.columns.template.setAll({ cornerRadiusTL: 5, cornerRadiusTR: 5, strokeOpacity: 0 });
+      series.columns.template.adapters.add("fill", function(fill, target) {
+          return am5.color("#f0cb69");
+        });
+        
+        series.columns.template.adapters.add("stroke", function(stroke, target) {
+          return chart.get("colors").getIndex(series.columns.indexOf(target));
+        });
+        
+        
+        // Set data
+        var data = [{
+          city: "Firenze",
+          value: 828
+        },{
+          city: "Lucca",
+          value: 147
+        },
+        {
+          city: "Siena",
+          value: 120
+        },
+        {
+          city: "Pisa",
+          value: 83
+        },
+        {
+          city: "Chiusi",
+          value: 64
+        },
+         {
+          city: "Pistoia",
+          value: 53
+        }, {
+          city: "Prato",
+          value: 47
+        },{
+          city: "Cerreto Guidi",
+          value: 44
+        }, {
+          city: "Grosseto",
+          value: 40
+        }, {
+          city: "Orbetello",
+          value: 30
+        }, {
+          city: "Monsumanno Terme",
+          value: 29
+        },{
+          city: "Poggio a Caiano",
+          value: 26
+        },{
+          city: "Calci",
+          value: 23
+        },{
+          city: "Portoferraio",
+          value: 21
+        },{
+          city: "Anghiari",
+          value: 17
+        },{
+          city: "Carmignano",
+          value: 15
+        },{
+          city: "Castiglione della Pescaia",
+          value: 14
+        },{
+          city: "Massa",
+          value: 10
+        }, {
+          city: "Viareggio",
+          value: 8
+        }, {
+          city: "Monteriggioni",
+          value: 6
+        },{
+          city: "Empoli",
+          value: 5
+        },{
+          city: "Campiglia Marittima",
+          value: 4
+        },{
+          city: "Camaiore",
+          value: 4
+        },{
+          city: "Piombino",
+          value: 4
+        },{
+          city: "Pescia",
+          value: 4
+        },  {
+          city: "Carrara",
+          value: 4
+        }
+        ];
+        
+        
+        xAxis.data.setAll(data);
+        series.data.setAll(data);
+        
+        
+        // Make stuff animate on load
+        // https://www.amcharts.com/docs/v5/concepts/animations/
+        series.appear(1000);
+        chart.appear(1000, 100);
+        
+        });
 
   am5.ready(function() {
   
