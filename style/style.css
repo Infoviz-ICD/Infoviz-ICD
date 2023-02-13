@@ -166,7 +166,7 @@ button::after {
 }
 
 
-#First, #Second, #Third, #Forth, #Fifth {
+#First, #Second, #Third, #Forth, #Fifth, #Sixth {
     position:relative;
     height: 100vh;
     min-height: 500px;
@@ -309,7 +309,7 @@ to {
     padding: 1%;
 }
 
-#Third .text {
+#Third .text, #Fifth .text {
     margin:auto;
     width: 95%;
     height: 75%;
@@ -353,14 +353,34 @@ to {
 }
 
 /*Fifth section*/
-#institutionspertoscana, #sitespertoscana {
-    height: 30vh;
+#sitespertoscana, #sitesperlazio {
+    height: 40vh;
     width: 100%;
+    border: #000 solid;
+    
+ border-width: 0.05em;
+}
+
+#institutespertoscana {
+ height: 25vh;
+ width: 100%;
+ border: #000 solid;
+ border-width: 0.05em;
+ margin: 2%;
+ margin-bottom: 0;
+}
+
+#Fifth .mainTitle, #Sixth .mainTitle {
+    text-align: center;
+    padding: 1%;
+}
+
+#Fifth .content {
+    margin: 5%;
 }
 
 #Fifth .text {
-    padding: 10%;
-    margin: 2%;
+    margin: 3%;
 }
 
 /*Progress container*/
