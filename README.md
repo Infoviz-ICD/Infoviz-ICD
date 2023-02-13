@@ -50,9 +50,9 @@ Digitisation and IPR in European Museums" (Published by Network of European Muse
 
 Visualizations and multimedia content presentations are created through the following libraries:
 
-<li>(JS
-  <ul><a href="https://www.amcharts.com/demos/simple-column-chart/">amCharts(JS)</a><ul>
-     <ul><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a><ul></li>
+<li>
+  <ul><a href="https://www.amcharts.com/demos/simple-column-chart/">amCharts(JS)</a></ul>
+     <ul><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a></ul></li>
 
 
 <h3>License</h3>
