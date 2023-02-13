@@ -7,62 +7,70 @@ $(document).ready(function() {
     $("#CE").prop('id', 'CEvalue');
     $("#CP").prop('id', 'CPvalue');
     $(".progress-container").removeClass("hide");
+    var stop = document.getElementById("nextA");
+    console.log(stop)
+    getDocumentOffsetPosition(stop);
   })
 
-  $(".nextB").click(function () {
-    $(".nextB").prop("class", "stop")
+  $("#nextB").click(function () {
+    $("#nextB").prop("class", "stop")
     var top = $("#Second").position().top;
     $('html').scrollTop(top);
-
   })
 
-  $(".nextC").click(function () {
-    $(".nextC").prop("class", "stop")
+  $("#nextC").click(function () {
+    $("#nextC").prop("class", "stop")
     var top = $("#Third").position().top;
     $('html').scrollTop(top);
   })
 
-  $(".nextD").click(function () {
-    $(".nextD").prop("class", "stop")
+  $("#nextD").click(function () {
+    $("#nextD").prop("class", "stop")
     var top = $("#Forth").position().top;
     $('html').scrollTop(top);
   })
 
-  $(".nextE").click(function () {
-    $(".nextE").prop("class", "stop")
+  $("#nextE").click(function () {
+    $("#nextE").prop("class", "stop")
     var top = $("#Fifth").position().top;
+    $('html').scrollTop(top);    
+  })
+
+  $("#nextF").click(function () {
+    $("#nextF").prop("class", "stop")
+    var top = $("#Sixth").position().top;
     $('html').scrollTop(top);
   })
 
-  $(".nextF").click(function () {
-    $(".nextE").prop("class", "stop")
-    var top = $("#Sixth").position().top;
+  $("#nextG").click(function () {
+    $("#nextG").prop("class", "stop")
+    var top = $("#Last").position().top;
     $('html').scrollTop(top);
   })
 
 });
 
+function getDocumentOffsetPosition(stop) {
+  var top = 0, left = 0;
+  if (stop !== null) {
+      top += stop.offsetTop;
+      left += stop.offsetLeft;
+      stop = stop.offsetParent;
+  }
 
+  document.getElementById("progression").style.top = top + "px";
+  document.getElementById("progression").style.left = left + "px";
+}
 
 window.onscroll = function() {myFunction()};
 
-function myFunction() {
-  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-  var scrolled = (winScroll / height) * 100;
-  document.getElementById("progression").style.width = scrolled + "%";
+  function myFunction() {
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 75;
+    document.getElementById("progression").style.width = scrolled + "%";
 }
 
-/*
-function getDocumentOffsetPosition(el) {
-  let top = 0, left = 0;
-  while (el !== null) {
-      top += el.offsetTop;
-      left += el.offsetLeft;
-      el = el.offsetParent;
-  }
-  return {top, left};
-}*/
 
 $(document).ready(function() {
 
