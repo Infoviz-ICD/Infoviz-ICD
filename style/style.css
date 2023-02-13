@@ -280,11 +280,11 @@ to {
     padding-top: 3%;
 }
 
-#Second h1, h3 {
+#Second h1, h3, #Sixth h1 {
     text-align: center;
 }
 
-#Second h1 {
+#Second h1, #Sixth h1 {
     padding: 1%;
 }
 
@@ -384,6 +384,18 @@ to {
 
 #Fifth .text {
     margin: 3%;
+}
+
+/*Sixth section*/
+#Sixth .bk-Figure {
+    height: 50vh;
+    width: 80%;
+    margin:5%;
+}
+
+#Sixth .text {
+   margin-left:5%;
+   margin-right:5%;
 }
 
 /*Progress container*/
