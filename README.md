@@ -30,7 +30,7 @@ The work was split between the team members according both the materials we obta
 Two main datasets have beel used
 <ul>
 
-  <li>ArCo Dataset, <a href="https://dati.beniculturali.it/arco/index.php">link</a></li>
+  <li>DbPedia <a href="https://www.dbpedia.org">link</a></li>
   <li>dati.beniculturali.it, <a href="https://dati.cultura.gov.it">link</a></li>
   
   </ul>
