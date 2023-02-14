@@ -1,0 +1,503 @@
+,dbpedia,region,regionLabel
+0,"http://dbpedia.org/resource/Este,_Veneto",http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Padua,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Siena,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Chieti,http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/Mantua,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Mantua,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Numana,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Numana,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Sirmione,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Sirmione,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Casalmaggiore,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Casalmaggiore,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Cremona,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Cremona,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Lecce,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Norcia,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Rovigo,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Turin,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Varese,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Varese,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,"http://dbpedia.org/resource/Viadana,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Viadana,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Fratta_Polesine,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Sant'Angelo_Lodigiano,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Sant'Angelo_Lodigiano,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Como,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Como,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Reggio_Calabria,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Reggio_Calabria,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Matera,http://dbpedia.org/resource/Basilicata,Basilicata
+0,http://dbpedia.org/resource/Bernalda,http://dbpedia.org/resource/Basilicata,Basilicata
+0,http://dbpedia.org/resource/Sassari,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Sassari,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Sassari,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Taranto,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Viterbo,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Viterbo,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Porto_Torres,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Porto_Torres,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Porto_Torres,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Senorbì,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Senorbì,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Senorbì,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Urbino,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Urbino,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Florence,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Minturno,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Minturno,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Cividale_del_Friuli,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Cividale_del_Friuli,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Cividale_del_Friuli,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Cividale_del_Friuli,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Verona,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Pieve_di_Cadore,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Sesto_Calende,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Sesto_Calende,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Cervarese_Santa_Croce,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Tarquinia,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Tarquinia,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Fasano,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Iesi,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Iesi,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Cingoli,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Cingoli,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Manfredonia,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Rimini,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Rimini,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Vittorio_Veneto,http://dbpedia.org/resource/Veneto,Veneto
+0,"http://dbpedia.org/resource/Pergola,_Marche",http://dbpedia.org/resource/Marche,Marche
+1,"http://dbpedia.org/resource/Pergola,_Marche",http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Adria,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Messina,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Messina,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Messina,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Pesaro,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Pesaro,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Pollenza,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Pollenza,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Fano,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Fano,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Amendolara,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Amendolara,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Cosenza,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Cosenza,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Osimo,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Osimo,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Treia,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Treia,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Urbisaglia,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Urbisaglia,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Sassoferrato,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Sassoferrato,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Porto_Recanati,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Porto_Recanati,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Lucera,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Ascoli_Piceno,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Ascoli_Piceno,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Sarno,http://dbpedia.org/resource/Campania,Campania
+0,"http://dbpedia.org/resource/Castelseprio,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Castelseprio,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Somma_Lombardo,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Somma_Lombardo,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,"http://dbpedia.org/resource/Carbonia,_Sardinia",http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,"http://dbpedia.org/resource/Carbonia,_Sardinia",http://dbpedia.org/resource/Sardinia,Sardegna
+2,"http://dbpedia.org/resource/Carbonia,_Sardinia",http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Naples,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Ferrara,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Ferrara,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Gubbio,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/L'Aquila,http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/Grottazzolina,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Grottazzolina,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Recanati,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Recanati,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Pioraco,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Pioraco,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Camerano,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Camerano,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Eboli,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Aquileia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Aquileia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Aquileia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Aquileia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Potenza,http://dbpedia.org/resource/Basilicata,Basilicata
+0,"http://dbpedia.org/resource/Luni,_Italy",http://dbpedia.org/resource/Liguria,Liguria
+1,"http://dbpedia.org/resource/Luni,_Italy",http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Finale_Ligure,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Finale_Ligure,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Genoa,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Genoa,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Acquaviva_Picena,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Acquaviva_Picena,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Bene_Vagienna,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Ripatransone,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Ripatransone,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/San_Benedetto_del_Tronto,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/San_Benedetto_del_Tronto,http://dbpedia.org/resource/Marche,Marken
+0,"http://dbpedia.org/resource/Grado,_Friuli-Venezia_Giulia",http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,"http://dbpedia.org/resource/Grado,_Friuli-Venezia_Giulia",http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,"http://dbpedia.org/resource/Grado,_Friuli-Venezia_Giulia",http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,"http://dbpedia.org/resource/Grado,_Friuli-Venezia_Giulia",http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Selva_di_Cadore,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Parma,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Parma,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Campobasso,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Sperlonga,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Sperlonga,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Piobbico,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Piobbico,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Venice,http://dbpedia.org/resource/Veneto,Veneto
+0,"http://dbpedia.org/resource/Cabras,_Sardinia",http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,"http://dbpedia.org/resource/Cabras,_Sardinia",http://dbpedia.org/resource/Sardinia,Sardegna
+2,"http://dbpedia.org/resource/Cabras,_Sardinia",http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Palazzolo_Acreide,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Palazzolo_Acreide,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Palazzolo_Acreide,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Montefiore_dell'Aso,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Montefiore_dell'Aso,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/San_Severino_Marche,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/San_Severino_Marche,http://dbpedia.org/resource/Marche,Marken
+0,"http://dbpedia.org/resource/Arona,_Piedmont",http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Caserta,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Lucca,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Pisa,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Treviso,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Varenna,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Varenna,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Castelnovo_Bariano,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Poggio_a_Caiano,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Vicenza,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Nocera_Umbra,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Busseto,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Busseto,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Asti,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Vercelli,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Gallarate,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Gallarate,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Brescia,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Brescia,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Pescia,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Sondrio,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Sondrio,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/San_Benedetto_Po,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/San_Benedetto_Po,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Lecco,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Lecco,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Bergamo,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Bergamo,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,"http://dbpedia.org/resource/Chiari,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Chiari,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Todi,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Putignano,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Dronero,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Serra_San_Quirico,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Serra_San_Quirico,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Camerino,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Camerino,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Macerata,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Macerata,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Piombino,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Urbania,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Urbania,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Biella,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Tortona,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Rieti,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Rieti,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Baranello,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/San_Miniato,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Sestri_Levante,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Sestri_Levante,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Portoferraio,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Sant'Elpidio_a_Mare,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Sant'Elpidio_a_Mare,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Sassello,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Sassello,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/San_Leo,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/San_Leo,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Monterubbiano,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Monterubbiano,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Vigevano,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Vigevano,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Civitanova_Marche,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Civitanova_Marche,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Massa_Fermana,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Massa_Fermana,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Bordighera,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Bordighera,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Civitavecchia,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Civitavecchia,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Terracina,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Terracina,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Budrio,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Budrio,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Ravenna,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Ravenna,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Spoleto,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Città_di_Castello,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Crescentino,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Castrovillari,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Castrovillari,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Varmo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Varmo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Varmo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Varmo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Albisola_Superiore,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Albisola_Superiore,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Bitonto,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Foligno,http://dbpedia.org/resource/Umbria,Umbria
+0,"http://dbpedia.org/resource/Carpi,_Emilia-Romagna",http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,"http://dbpedia.org/resource/Carpi,_Emilia-Romagna",http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Modena,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Modena,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Sassuolo,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Sassuolo,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Trino,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Bagno_di_Romagna,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Bagno_di_Romagna,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Camaiore,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Pietrasanta,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Volterra,http://dbpedia.org/resource/Tuscany,Toscana
+0,"http://dbpedia.org/resource/Correggio,_Emilia-Romagna",http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,"http://dbpedia.org/resource/Correggio,_Emilia-Romagna",http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Asciano,http://dbpedia.org/resource/Tuscany,Toscana
+0,"http://dbpedia.org/resource/Certosa_di_Pavia,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Certosa_di_Pavia,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Castell'Alfero,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Gaeta,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Gaeta,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Catanzaro,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Catanzaro,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Venosa,http://dbpedia.org/resource/Basilicata,Basilicata
+0,http://dbpedia.org/resource/Asolo,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Cordovado,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Cordovado,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Cordovado,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Cordovado,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/San_Vito_al_Tagliamento,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/San_Vito_al_Tagliamento,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/San_Vito_al_Tagliamento,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/San_Vito_al_Tagliamento,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Tramonti_di_Sopra,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Tramonti_di_Sopra,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Tramonti_di_Sopra,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Tramonti_di_Sopra,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Corinaldo,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Corinaldo,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Potenza_Picena,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Potenza_Picena,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Cava_de'_Tirreni,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Mentana,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Mentana,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Verbania,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Pistoia,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Rive_d'Arcano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Rive_d'Arcano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Rive_d'Arcano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Rive_d'Arcano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Mereto_di_Tomba,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Mereto_di_Tomba,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Mereto_di_Tomba,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Mereto_di_Tomba,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Coseano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Coseano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Coseano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Coseano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Paluzza,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Paluzza,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Paluzza,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Paluzza,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,"http://dbpedia.org/resource/Atina,_Lazio",http://dbpedia.org/resource/Lazio,Latium
+1,"http://dbpedia.org/resource/Atina,_Lazio",http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Capua,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Gambatesa,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Casalvieri,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Casalvieri,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Alessandria,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Bassano_del_Grappa,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Ferentino,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Ferentino,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Torgiano,http://dbpedia.org/resource/Umbria,Umbria
+0,"http://dbpedia.org/resource/Mede,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Mede,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Bagnoregio,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Bagnoregio,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Calci,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Sezze,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Sezze,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Galeata,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Galeata,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Piacenza,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Piacenza,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Forlì,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Forlì,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Pescara,http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/Legnago,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Codigoro,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Codigoro,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Canepina,http://dbpedia.org/resource/Latium,Latium
+1,http://dbpedia.org/resource/Canepina,http://dbpedia.org/resource/Latium,Lazio
+0,http://dbpedia.org/resource/Zevio,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Montagano,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Prata_d'Ansidonia,http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/San_Polo_Matese,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Drenchia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Drenchia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Drenchia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Drenchia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Garessio,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Oleggio,http://dbpedia.org/resource/Piedmont,Piemonte
+0,"http://dbpedia.org/resource/Castelli,_Abruzzo",http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/Teramo,http://dbpedia.org/resource/Abruzzo,Abruzzo
+0,http://dbpedia.org/resource/Oderzo,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Belluno,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Cento,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Cento,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Faenza,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Faenza,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Carrara,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Feltre,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Frascati,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Frascati,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Fabriano,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Fabriano,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Senigallia,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Senigallia,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Fermo,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Fermo,http://dbpedia.org/resource/Marche,Marken
+0,"http://dbpedia.org/resource/Taverna,_Calabria",http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,"http://dbpedia.org/resource/Taverna,_Calabria",http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Grassano,http://dbpedia.org/resource/Basilicata,Basilicata
+0,"http://dbpedia.org/resource/Ostra,_Marche",http://dbpedia.org/resource/Marche,Marche
+1,"http://dbpedia.org/resource/Ostra,_Marche",http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Mondavio,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Mondavio,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Visso,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Visso,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Morro_d'Alba,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Morro_d'Alba,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Melfi,http://dbpedia.org/resource/Basilicata,Basilicata
+0,http://dbpedia.org/resource/Pomarance,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Cascia,http://dbpedia.org/resource/Umbria,Umbria
+0,http://dbpedia.org/resource/Prato,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Savona,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Savona,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Rovereto,http://dbpedia.org/resource/Trentino-Alto_Adige/Südtirol,Trentino-Alto Adige
+0,http://dbpedia.org/resource/Pofi,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Pofi,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Possagno,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Novellara,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Novellara,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,"http://dbpedia.org/resource/Asola,_Lombardy",http://dbpedia.org/resource/Lombardy,Lombardia
+1,"http://dbpedia.org/resource/Asola,_Lombardy",http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Avellino,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Borgo_Velino,http://dbpedia.org/resource/Latium,Latium
+1,http://dbpedia.org/resource/Borgo_Velino,http://dbpedia.org/resource/Latium,Lazio
+0,http://dbpedia.org/resource/Boville_Ernica,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Boville_Ernica,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Buonconvento,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Lovere,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Lovere,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Osilo,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Osilo,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Osilo,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Maiolati_Spontini,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Maiolati_Spontini,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Montelparo,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Montelparo,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/San_Ginesio,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/San_Ginesio,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Cavazzo_Carnico,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Cavazzo_Carnico,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Cavazzo_Carnico,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Cavazzo_Carnico,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Treppo_Ligosullo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Treppo_Ligosullo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Treppo_Ligosullo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Treppo_Ligosullo,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Zeccone,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Zeccone,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Nuoro,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Nuoro,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Nuoro,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Orgosolo,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Orgosolo,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Orgosolo,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Apecchio,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Apecchio,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Novafeltria,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/Novafeltria,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Corridonia,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Corridonia,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Montefortino,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Montefortino,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Montalto_delle_Marche,http://dbpedia.org/resource/Marche,Marche
+1,http://dbpedia.org/resource/Montalto_delle_Marche,http://dbpedia.org/resource/Marche,Marken
+0,http://dbpedia.org/resource/Certaldo,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Ururi,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Fauglia,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Pescantina,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Dignano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Dignano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Dignano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Dignano,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,http://dbpedia.org/resource/Ronchis,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Consiglio regionale del Friuli-Venezia Giulia
+1,http://dbpedia.org/resource/Ronchis,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli
+2,http://dbpedia.org/resource/Ronchis,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Provincia di Udine
+3,http://dbpedia.org/resource/Ronchis,http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli-Venezia Giulia
+0,"http://dbpedia.org/resource/Massa,_Tuscany",http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Vicchio,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Cerreto_Sannita,http://dbpedia.org/resource/Campania,Campania
+0,http://dbpedia.org/resource/Velletri,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Velletri,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Racconigi,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Collesalvetti,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Caltanissetta,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Caltanissetta,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Caltanissetta,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Mileto,http://dbpedia.org/resource/Calabria,Consiglio regionale della Calabria
+1,http://dbpedia.org/resource/Mileto,http://dbpedia.org/resource/Calabria,Calabria
+0,http://dbpedia.org/resource/Colle_di_Val_d'Elsa,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Borgo_Valbelluna,http://dbpedia.org/resource/Veneto,Veneto
+0,http://dbpedia.org/resource/Sarnico,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Sarnico,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
+0,http://dbpedia.org/resource/Sanremo,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Sanremo,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Viareggio,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Rosignano_Marittimo,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Agnone,http://dbpedia.org/resource/Molise,Molise
+0,http://dbpedia.org/resource/Cittadella,http://dbpedia.org/resource/Veneto,Veneto
+0,"http://dbpedia.org/resource/Syracuse,_Sicily",http://dbpedia.org/resource/Sicily,Sicilia
+1,"http://dbpedia.org/resource/Syracuse,_Sicily",http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,"http://dbpedia.org/resource/Syracuse,_Sicily",http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Bolsena,http://dbpedia.org/resource/Lazio,Latium
+1,http://dbpedia.org/resource/Bolsena,http://dbpedia.org/resource/Lazio,Lazio
+0,http://dbpedia.org/resource/Trento,http://dbpedia.org/resource/Trentino-Alto_Adige/Südtirol,Trentino-Alto Adige
+0,"http://dbpedia.org/resource/Ton,_Trentino",http://dbpedia.org/resource/Trentino-Alto_Adige/Südtirol,Trentino-Alto Adige
+0,http://dbpedia.org/resource/Agrigento,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Agrigento,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Agrigento,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Casale_Monferrato,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Guardabosone,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/San_Mauro_Pascoli,http://dbpedia.org/resource/Emilia-Romagna,Emilia
+1,http://dbpedia.org/resource/San_Mauro_Pascoli,http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna
+0,http://dbpedia.org/resource/Mazzè,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Felizzano,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Riesi,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Riesi,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Riesi,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Campo_nell'Elba,http://dbpedia.org/resource/Tuscany,Toscana
+0,http://dbpedia.org/resource/Trani,http://dbpedia.org/resource/Apulia,Puglia
+0,http://dbpedia.org/resource/Oristano,http://dbpedia.org/resource/Sardinia,Sardegna (isola)
+1,http://dbpedia.org/resource/Oristano,http://dbpedia.org/resource/Sardinia,Sardegna
+2,http://dbpedia.org/resource/Oristano,http://dbpedia.org/resource/Sardinia,Regno di Sardegna
+0,http://dbpedia.org/resource/Formazza,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Novara,http://dbpedia.org/resource/Piedmont,Piemonte
+0,http://dbpedia.org/resource/Enna,http://dbpedia.org/resource/Sicily,Sicilia
+1,http://dbpedia.org/resource/Enna,http://dbpedia.org/resource/Sicily,Isola di Sicilia
+2,http://dbpedia.org/resource/Enna,http://dbpedia.org/resource/Sicily,Sicilia (provincia romana)
+0,http://dbpedia.org/resource/Sarzana,http://dbpedia.org/resource/Liguria,Liguria
+1,http://dbpedia.org/resource/Sarzana,http://dbpedia.org/resource/Liguria,Liguri
+0,http://dbpedia.org/resource/Pavia,http://dbpedia.org/resource/Lombardy,Lombardia
+1,http://dbpedia.org/resource/Pavia,http://dbpedia.org/resource/Lombardy,Consiglio regionale della Lombardia
