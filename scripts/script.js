@@ -16,36 +16,42 @@ $(document).ready(function() {
     $("#nextB").prop("class", "stop")
     var top = $("#Second").position().top;
     $('html').scrollTop(top);
+    $("#nextB").prevAll().prop("class", "stop")
   })
 
   $("#nextC").click(function () {
     $("#nextC").prop("class", "stop")
     var top = $("#Third").position().top;
     $('html').scrollTop(top);
+    $("#nextC").prevAll().prop("class", "stop")
   })
 
   $("#nextD").click(function () {
     $("#nextD").prop("class", "stop")
     var top = $("#Forth").position().top;
     $('html').scrollTop(top);
+    $("#nextD").prevAll().prop("class", "stop")
   })
 
   $("#nextE").click(function () {
     $("#nextE").prop("class", "stop")
     var top = $("#Fifth").position().top;
     $('html').scrollTop(top);    
+    $("#nextE").prevAll().prop("class", "stop")
   })
 
   $("#nextF").click(function () {
     $("#nextF").prop("class", "stop")
     var top = $("#Sixth").position().top;
     $('html').scrollTop(top);
+    $("#nextF").prevAll().prop("class", "stop")
   })
 
   $("#nextG").click(function () {
     $("#nextG").prop("class", "stop")
     var top = $("#Last").position().top;
     $('html').scrollTop(top);
+    $("#nextG").prevAll().prop("class", "stop")
   })
 
 });
