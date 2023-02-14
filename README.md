@@ -19,7 +19,7 @@ The work was split between the team members according both the materials we obta
 <table>
   <tr><th>
     Team member</th>	<th>Section</th></tr>
-  <tr><td><a href="mailto:bianca.lamanna@studio.unibo.it" class="social-link">Bianca La Manna</a></td>	<td>Data Analysis and Manipulation (Cultural Properties), Web Communication & Data Visualization (Maps)</td></tr>
+  <tr><td><a href="mailto:bianca.lamanna@studio.unibo.it" class="social-link">Bianca La Manna</a></td>	<td>Data Analysis and Manipulation (Cultural Properties, Geospatial information, regional additional information), Web Communication & Data Visualization (Maps)</td></tr>
   <tr><td><a href="mailto:martina.pensalfini@studio.unibo.it" class="social-link">Martina Pensalfini</a></td>	<td>Data Analysis and Manipulation (Cultural Events) & Data Visualization</td></tr>
 
   </table>
