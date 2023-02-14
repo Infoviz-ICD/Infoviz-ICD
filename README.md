@@ -8,7 +8,7 @@ Final Project of "Information Visualisation" (Prof. Marilena Daquino) at Univers
 
 Final website is available <a href="https://infoviz-icd.github.io/Infoviz-ICD/#">at the following link</a>.
 
-A brief presentation describing purposes and metodologies of this project is available <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/c5a8d3fffd932590947823cc30ca5a7cd87a57f8/documentation.ipynb">at the following link</a>.
+A brief presentation describing purposes and metodologies of this project is available <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/b702331afb9056293d0b3c75a01bc15c45309a88/documentation.ipynb">at the following link</a>.
 
 Inside of the presentation the specific dataset employed can be found, which we have manipulated through the employment of different methods (e.g.: Pandas library) to extract the information we needed.
 
