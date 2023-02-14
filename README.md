@@ -8,9 +8,9 @@ Final Project of "Information Visualisation" (Prof. Marilena Daquino) at Univers
 
 Final website is available <a href="https://infoviz-icd.github.io/Infoviz-ICD/#">at the following link</a>.
 
-A brief presentation describing purposes and metodologies of this project is available <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/b702331afb9056293d0b3c75a01bc15c45309a88/documentation.ipynb">at the following link</a>.
+Data analysis, manipulation and visualization are described <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/blob/b702331afb9056293d0b3c75a01bc15c45309a88/documentation.ipynb">in the documentation</a>.
 
-Inside of the presentation the specific dataset employed can be found, which we have manipulated through the employment of different methods (e.g.: Pandas library) to extract the information we needed.
+Inside of the folder <a href="https://github.com/Infoviz-ICD/Infoviz-ICD/tree/866e82d/data">data</a> the specific datasets employed can be found, which we have manipulated through the employment of different methods (e.g.: Pandas library) to extract the information we needed.
 
 <h3>Team members and statement of responsability</h3>
 
@@ -51,7 +51,9 @@ Visualizations and multimedia content presentations are created through the foll
 
 <ul>
   <li><a href="https://www.amcharts.com/demos/simple-column-chart/">amCharts(JS)</a></li>
-  <li><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a></li></ul>
+  <li><a href="https://www.amcharts.com/demos/simple-column-chart/](https://plotly.com/javascript/bar-charts/#basic-bar-chart)">plotly(JS)</a></li>
+  <li><a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a></li>
+</ul>
 
 
 <h3>License</h3>
