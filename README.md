@@ -68,7 +68,5 @@ If not stated otherwise, this work is licensed under a <a href="https://creative
 
 As both the datasets allow the reusal according the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>, our work is fully reusable, according to the same parameters.
 
-
-
-
+[Link to the Presentation](https://www.canva.com/design/DAFaji6RUjY/1mBlgqpoWJ06gqWe_g5nIg/view)
 
