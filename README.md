@@ -30,7 +30,7 @@ The work was split between the team members according both the materials we obta
 Two main datasets have beel used
 <ul>
 
-  <li>ArCo Dataset, <a href="https://dati.beniculturali.it/arco/index.php">link</a></li>
+  <li>DbPedia <a href="https://www.dbpedia.org">link</a></li>
   <li>dati.beniculturali.it, <a href="https://dati.cultura.gov.it">link</a></li>
   
   </ul>
@@ -68,7 +68,5 @@ If not stated otherwise, this work is licensed under a <a href="https://creative
 
 As both the datasets allow the reusal according the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International License</a>, our work is fully reusable, according to the same parameters.
 
-
-
-
+[Link to the Presentation](https://www.canva.com/design/DAFaji6RUjY/1mBlgqpoWJ06gqWe_g5nIg/view)
 
