@@ -338,44 +338,60 @@ series.columns.template.adapters.add("stroke", function(stroke, target) {
       // Set data
       var data = [ {
         property: "Toscana",
-        value: 361
-      },{
-        property: "Lomnbardia",
-        value: 106
+        value: 399
       },{
         property: "Veneto",
-        value: 100
+        value: 111
+      },{
+        property: "Lombardia",
+        value: 95
       },
       {
         property: "Piemonte",
-        value: 79
+        value: 90
       },
        {
         property: "Campania",
-        value: 67
+        value: 78
       },{
         property: "Abruzzo",
-        value: 60
-      }, {
+        value: 71
+      },         {
         property: "Marche",
-        value: 28
+        value: 61
       },{
         property: "Emilia-Romagna",
-        value: 10
+        value: 50
+      }, {
+        property: "Liguria",
+        value: 38
+      },     {
+        property: "Sardegna",
+        value: 29
+      },        {
+        property: "Puglia",
+        value: 27
+      },       {
+        property: "Lazio",
+        value: 18
+      },  
+      {
+        property: "Sicilia",
+        value: 11
+      },        {
+        property: "Basilicata",
+        value: 11
       },
-       
       {
         property: "Umbria",
         value: 8
+      },{
+        property: "Trentino-Alto Adige",
+        value: 4
       },
-      {
-        property: "Puglia",
-        value: 6
-      },
-      
       {
         property: "Friuli-Venezia Giulia",
-        value: 3
+        value: 6
       }
   ];
       
