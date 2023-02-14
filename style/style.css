@@ -6,6 +6,10 @@ html {
     overflow-x: hidden;
  }
 
+ body {
+    background-color: rgb(249, 238, 228);
+ }
+
 /*Cover page*/
 
 .masthead {
@@ -13,6 +17,10 @@ html {
     height: 100vh;
     min-height: 500px;
     overflow: hidden;
+}
+
+.masthead h1 {
+    text-shadow: 2px 2px 4px #000;
 }
 
 #background {
@@ -161,6 +169,7 @@ html {
     color:#fff;
     background-color: #58a27b;
     margin-bottom: 1em;
+    text-shadow: 2px 2px 4px #000;
 }
 
 
