@@ -1,4 +1,34 @@
+const myEndpoint = 'https://dati.cultura.gov.it/sparql';
+const myQueryCE = 'SELECT COUNT(DISTINCT(?s) as ?CECount) WHERE {?s a cis:CulturalEvent; rdfs:label ?event. FILTER (contains(str(?s), "mibact"))}';
+const encodedQueryCE = encodeURIComponent(myQueryCE);
+const myUrl1 = myEndpoint + '?query=' + encodedQueryCE;
+console.log(myUrl1)
+
+const myQueryCP = 'SELECT COUNT(DISTINCT(?CP) as ?CPCount) WHERE {?CP a ?o. FILTER (?o = arco:CulturalProperty || ?o = arco:IntangibleCulturalProperty || ?o = arco:TangibleCulturalProperty || ?o = arco:ArchaeologicalProperty || ?o = arco:ImmovableCulturalProperty || ?o = arco:ArchitecturalOrLandscapeHeritage || ?o = arco:HistoricOrArtisticProperty || ?o = arco:MusicHeritage || ?o = arco:NaturalHeritage || ?o = arco:BotanicalHeritage || ?o = arco:MineralHeritage || ?o = arco:PalaeontologicalHeritage || ?o = arco:PertologicHeritage || ?o = arco:PlanetaryScienceHeritage || ?o = arco:ZoologicalHeritage || ?o = arco:NumismaticProperty || ?o = arco:PhotographicHeritage || ?o = arco:ScientificOrTechnologicalHeritage)}';
+const encodedQueryCP = encodeURIComponent(myQueryCP);
+const myUrl2 = myEndpoint + '?query=' + encodedQueryCP;
+console.log(myUrl2)
+
+async function changeNumber(url, variable) {
+  try {
+      var response = await fetch(url, {
+          method: 'GET',
+          headers: { 'Accept': 'application/sparql-results+json' }
+      });
+      var data = await response.json();
+      var results = data.results.bindings; // array of objs
+      var finalNumber = results[0]["callret-0"].value
+    }
+    catch (err) {
+      console.log('Sorry, ', err);
+  }
+  document.documentElement.style.setProperty(variable, finalNumber);
+}
+
 $(document).ready(function() {
+
+  changeNumber(myUrl1, "--CE-final-num");
+  changeNumber(myUrl2, "--CP-final-num");
 
   $("#start").click(function() {
     var top = $("#First").position().top;
