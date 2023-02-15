@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
 
+:root {
+    --CE-final-num: '0';
+    --CP-final-num: '0';
+}
+
 html {
     scroll-behavior: smooth;
     width:100%;
@@ -237,7 +242,7 @@ from {
     --num: 0;
 }
 to {
-    --num: 1509;
+    --num: var(--CE-final-num);
 }
 }
 
@@ -257,7 +262,7 @@ from {
     --num: 0;
 }
 to {
-    --num: 2386;
+    --num: var(--CP-final-num);
 }
 }
 
@@ -279,7 +284,7 @@ to {
 #eventsCard {
     background-color: #f0cb69;
     margin: auto;
-    width: 40%;
+    width: 15em;
     border-radius: 15%;
     padding:4%;
     height:20vh;
@@ -288,7 +293,7 @@ to {
 #propertiesCard {
     background-color: #ab91c5;
     margin: auto;
-    width: 40%;
+    width: 15em;
     margin-top: 3em; 
     border-radius: 15%;
     padding:4%;
